@@ -411,6 +411,8 @@ python run_evals.py --model experiment2_expanded/results/model_untrained.pt --st
 
 Use a new output folder each time. A CPU is enough. The saved summaries include the suite and model hashes, so you can check the rerun used the same tests and weights.
 
+I tested the Experiment 2 command above in a fresh Colab notebook after cloning this repo. The rerun gave exactly the same result as the notebook: 26/48 correct and 30 scorable (extension 5/24, starter patterns 16/16, starter transfer 5/8). Screenshot: [rerun_evals_test.png](experiment2_expanded/rerun_evals_test.png)
+
 To rebuild my teaching files: `cd corpus && python make_teaching_corpus.py`.
 
 ---
