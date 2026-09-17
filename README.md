@@ -371,8 +371,8 @@ Screenshots: [chat1](experiment1_starter/chat1.png), [chat2](experiment1_starter
 | Prompt | Reply | Unknown words |
 |---|---|---|
 | `our school has a question about` | `the different teacher and student .` | none |
-| `the report is about` | `the explains the traffic in detail .` | is |
-| `the dog ran to the park` | `the different subscriber focused on .` | dog, park, ran, to |
+| `the report is about` | `the brand during a discussion of quality .` | is |
+| `the dog ran to the park` | `the local instructor focused on .` | dog, park, ran, to |
 | `my mom` | `the important peach with another banana at the kitchen .` | my, mom |
 
 The only fully known prompt gets a clean template sentence. Everything else shows the vocabulary limit. Even `is` is unknown to this model.
