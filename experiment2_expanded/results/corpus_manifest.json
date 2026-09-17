@@ -1,0 +1,33 @@
+{
+  "files": [
+    {
+      "file": "grammar_teaching.txt",
+      "bytes": 82650,
+      "sha256": "9e211943fd3ef7ec75f2aafef0f73bd504d71ca0c6db7088c8e19cdc5bfeaa10",
+      "warnings": [],
+      "characters": 82650,
+      "passages": 2661,
+      "unique_passages": 2661,
+      "preview": "an apple was at the hospital yesterday .\nan apple was at the market yesterday .\nan apple was at the school yesterday .\nan apple was in the garden yesterday .\nan apple was in the kitchen yesterday .\nan apple was in the office yesterday .\nan apple was near the station yesterday .\nan apple was on the r"
+    },
+    {
+      "file": "negation_teaching.txt",
+      "bytes": 157547,
+      "sha256": "69b468d1ced6852be43d8fff75832d85b0c5d6ec070ae1dcf645b1ca384c95fd",
+      "warnings": [],
+      "characters": 157547,
+      "passages": 2624,
+      "unique_passages": 2624,
+      "preview": "adam did not buy cake .he bought tea .adam bought tea .\nadam did not buy cheese .he bought cake .adam bought cake .\nadam did not buy coffee .he bought rice .adam bought rice .\nadam did not buy soup .he bought tea .adam bought tea .\nadam did not buy tea .he bought bread .adam bought bread .\nadam did "
+    }
+  ],
+  "ignored": [],
+  "external_passages": 5285,
+  "mode": "classroom",
+  "base_passages": 6200,
+  "unique_passages": 9877,
+  "new_unique_passages": 5285,
+  "duplicates_removed": 1608,
+  "max_passage_tokens": 47,
+  "split_unit": "deduplicated passage, not source file"
+}
