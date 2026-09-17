@@ -1,0 +1,89 @@
+{
+  "model_sha256": "700c31cd780c2b52c8c4d55d7b89b54a9fc7df7e2e5805643d066171ec52a904",
+  "completed_steps": 3000,
+  "fresh_context_per_prompt": true,
+  "temperature": 0.8,
+  "max_tokens": 24,
+  "turns": [
+    {
+      "prompt": "the dog",
+      "seed": 2026,
+      "response": "",
+      "unknown_prompt_words": [
+        "dog"
+      ],
+      "prompt_truncated": false
+    },
+    {
+      "prompt": "the report is about",
+      "seed": 2027,
+      "response": "the explains the traffic in detail .",
+      "unknown_prompt_words": [
+        "is"
+      ],
+      "prompt_truncated": false
+    },
+    {
+      "prompt": "the dog ran to the park",
+      "seed": 2028,
+      "response": "the different subscriber focused on .",
+      "unknown_prompt_words": [
+        "dog",
+        "park",
+        "ran",
+        "to"
+      ],
+      "prompt_truncated": false
+    },
+    {
+      "prompt": "my mom",
+      "seed": 2029,
+      "response": "the important peach with another banana at the kitchen .",
+      "unknown_prompt_words": [
+        "mom",
+        "my"
+      ],
+      "prompt_truncated": false
+    },
+    {
+      "prompt": "the report is about",
+      "seed": 2030,
+      "response": "the brand during a discussion of quality .",
+      "unknown_prompt_words": [
+        "is"
+      ],
+      "prompt_truncated": false
+    },
+    {
+      "prompt": "the dog ran to the park",
+      "seed": 2031,
+      "response": "",
+      "unknown_prompt_words": [
+        "dog",
+        "park",
+        "ran",
+        "to"
+      ],
+      "prompt_truncated": false
+    },
+    {
+      "prompt": "the dog ran to the park",
+      "seed": 2032,
+      "response": "the local instructor focused on .",
+      "unknown_prompt_words": [
+        "dog",
+        "park",
+        "ran",
+        "to"
+      ],
+      "prompt_truncated": false
+    },
+    {
+      "prompt": "our school has a question about",
+      "seed": 2033,
+      "response": "the different teacher and student .",
+      "unknown_prompt_words": [],
+      "prompt_truncated": false
+    }
+  ]
+}
