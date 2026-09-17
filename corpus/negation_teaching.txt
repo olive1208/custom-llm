@@ -1,0 +1,2624 @@
+adam did not buy cake .he bought tea .adam bought tea .
+adam did not buy cheese .he bought cake .adam bought cake .
+adam did not buy coffee .he bought rice .adam bought rice .
+adam did not buy soup .he bought tea .adam bought tea .
+adam did not buy tea .he bought bread .adam bought bread .
+adam did not choose cake .he chose milk .adam chose milk .
+adam did not choose juice .he chose soup .adam chose soup .
+adam did not choose milk .he chose juice .adam chose juice .
+adam did not choose pasta .he chose soup .adam chose soup .
+adam did not choose tea .he chose soup .adam chose soup .
+adam did not choose tea .he chose water .adam chose water .
+adam did not cook coffee .he cooked bread .adam cooked bread .
+adam did not cook coffee .he cooked eggs .adam cooked eggs .
+adam did not cook eggs .he cooked soup .adam cooked soup .
+adam did not cook milk .he cooked cheese .adam cooked cheese .
+adam did not cook pasta .he cooked cheese .adam cooked cheese .
+adam did not cook pasta .he cooked water .adam cooked water .
+adam did not eat cake .he ate cheese .adam ate cheese .
+adam did not eat coffee .he ate bread .adam ate bread .
+adam did not eat eggs .he ate coffee .adam ate coffee .
+adam did not eat pasta .he ate water .adam ate water .
+adam did not eat tea .he ate pasta .adam ate pasta .
+adam did not eat water .he ate soup .adam ate soup .
+adam did not order cake .he ordered bread .adam ordered bread .
+adam did not order coffee .he ordered pasta .adam ordered pasta .
+adam did not order coffee .he ordered soup .adam ordered soup .
+adam did not order coffee .he ordered water .adam ordered water .
+adam did not order eggs .he ordered tea .adam ordered tea .
+adam did not order soup .he ordered coffee .adam ordered coffee .
+adam did not pick eggs .he picked water .adam picked water .
+adam did not pick juice .he picked cake .adam picked cake .
+adam did not pick pasta .he picked rice .adam picked rice .
+adam did not pick soup .he picked pasta .adam picked pasta .
+adam did not pick tea .he picked rice .adam picked rice .
+adam did not pick water .he picked juice .adam picked juice .
+adam did not want cake .he wanted rice .adam wanted rice .
+adam did not want eggs .he wanted coffee .adam wanted coffee .
+adam did not want juice .he wanted pasta .adam wanted pasta .
+adam did not want juice .he wanted soup .adam wanted soup .
+adam did not want juice .he wanted water .adam wanted water .
+adam did not want milk .he wanted cake .adam wanted cake .
+adam is a student at the local school .
+adam is not late today .
+anna did not buy eggs .she bought rice .anna bought rice .
+anna did not buy milk .she bought coffee .anna bought coffee .
+anna did not buy pasta .she bought bread .anna bought bread .
+anna did not buy pasta .she bought milk .anna bought milk .
+anna did not buy pasta .she bought rice .anna bought rice .
+anna did not buy rice .she bought coffee .anna bought coffee .
+anna did not choose bread .she chose soup .anna chose soup .
+anna did not choose cake .she chose eggs .anna chose eggs .
+anna did not choose milk .she chose bread .anna chose bread .
+anna did not choose rice .she chose coffee .anna chose coffee .
+anna did not choose rice .she chose juice .anna chose juice .
+anna did not choose tea .she chose milk .anna chose milk .
+anna did not cook bread .she cooked soup .anna cooked soup .
+anna did not cook juice .she cooked cheese .anna cooked cheese .
+anna did not cook milk .she cooked water .anna cooked water .
+anna did not cook tea .she cooked cake .anna cooked cake .
+anna did not cook water .she cooked coffee .anna cooked coffee .
+anna did not cook water .she cooked pasta .anna cooked pasta .
+anna did not eat coffee .she ate cheese .anna ate cheese .
+anna did not eat eggs .she ate tea .anna ate tea .
+anna did not eat rice .she ate cheese .anna ate cheese .
+anna did not eat rice .she ate water .anna ate water .
+anna did not eat water .she ate coffee .anna ate coffee .
+anna did not eat water .she ate tea .anna ate tea .
+anna did not order bread .she ordered pasta .anna ordered pasta .
+anna did not order cheese .she ordered rice .anna ordered rice .
+anna did not order juice .she ordered cheese .anna ordered cheese .
+anna did not order juice .she ordered coffee .anna ordered coffee .
+anna did not order milk .she ordered cake .anna ordered cake .
+anna did not order rice .she ordered cake .anna ordered cake .
+anna did not pick cake .she picked rice .anna picked rice .
+anna did not pick cheese .she picked pasta .anna picked pasta .
+anna did not pick eggs .she picked bread .anna picked bread .
+anna did not pick eggs .she picked milk .anna picked milk .
+anna did not pick eggs .she picked rice .anna picked rice .
+anna did not pick milk .she picked eggs .anna picked eggs .
+anna did not want bread .she wanted juice .anna wanted juice .
+anna did not want bread .she wanted pasta .anna wanted pasta .
+anna did not want cake .she wanted eggs .anna wanted eggs .
+anna did not want eggs .she wanted milk .anna wanted milk .
+anna did not want rice .she wanted coffee .anna wanted coffee .
+anna did not want soup .she wanted milk .anna wanted milk .
+anna is a student at the local school .
+anna is not late today .
+ava is a student at the local school .
+ava is not late today .
+ben did not buy bread .he bought pasta .ben bought pasta .
+ben did not buy cheese .he bought tea .ben bought tea .
+ben did not buy coffee .he bought eggs .ben bought eggs .
+ben did not buy milk .he bought eggs .ben bought eggs .
+ben did not buy milk .he bought juice .ben bought juice .
+ben did not buy milk .he bought water .ben bought water .
+ben did not choose bread .he chose water .ben chose water .
+ben did not choose cheese .he chose cake .ben chose cake .
+ben did not choose cheese .he chose juice .ben chose juice .
+ben did not choose juice .he chose bread .ben chose bread .
+ben did not choose soup .he chose rice .ben chose rice .
+ben did not choose tea .he chose milk .ben chose milk .
+ben did not cook cake .he cooked coffee .ben cooked coffee .
+ben did not cook cake .he cooked water .ben cooked water .
+ben did not cook coffee .he cooked water .ben cooked water .
+ben did not cook soup .he cooked milk .ben cooked milk .
+ben did not cook tea .he cooked pasta .ben cooked pasta .
+ben did not cook water .he cooked coffee .ben cooked coffee .
+ben did not eat cake .he ate pasta .ben ate pasta .
+ben did not eat cake .he ate rice .ben ate rice .
+ben did not eat coffee .he ate tea .ben ate tea .
+ben did not eat juice .he ate rice .ben ate rice .
+ben did not eat tea .he ate milk .ben ate milk .
+ben did not eat water .he ate bread .ben ate bread .
+ben did not order coffee .he ordered water .ben ordered water .
+ben did not order eggs .he ordered water .ben ordered water .
+ben did not order milk .he ordered tea .ben ordered tea .
+ben did not order soup .he ordered cake .ben ordered cake .
+ben did not order soup .he ordered cheese .ben ordered cheese .
+ben did not order water .he ordered cheese .ben ordered cheese .
+ben did not pick eggs .he picked cake .ben picked cake .
+ben did not pick eggs .he picked tea .ben picked tea .
+ben did not pick juice .he picked water .ben picked water .
+ben did not pick milk .he picked eggs .ben picked eggs .
+ben did not pick soup .he picked coffee .ben picked coffee .
+ben did not pick water .he picked cheese .ben picked cheese .
+ben did not want coffee .he wanted pasta .ben wanted pasta .
+ben did not want eggs .he wanted water .ben wanted water .
+ben did not want rice .he wanted milk .ben wanted milk .
+ben did not want rice .he wanted tea .ben wanted tea .
+ben did not want soup .he wanted milk .ben wanted milk .
+ben did not want tea .he wanted rice .ben wanted rice .
+ben is a student at the local school .
+ben is not late today .
+dan did not buy cake .he bought tea .dan bought tea .
+dan did not buy coffee .he bought cake .dan bought cake .
+dan did not buy eggs .he bought rice .dan bought rice .
+dan did not buy pasta .he bought juice .dan bought juice .
+dan did not buy pasta .he bought milk .dan bought milk .
+dan did not buy rice .he bought pasta .dan bought pasta .
+dan did not choose bread .he chose rice .dan chose rice .
+dan did not choose cake .he chose pasta .dan chose pasta .
+dan did not choose cheese .he chose coffee .dan chose coffee .
+dan did not choose coffee .he chose milk .dan chose milk .
+dan did not choose juice .he chose soup .dan chose soup .
+dan did not choose pasta .he chose eggs .dan chose eggs .
+dan did not cook cake .he cooked eggs .dan cooked eggs .
+dan did not cook cake .he cooked juice .dan cooked juice .
+dan did not cook coffee .he cooked cake .dan cooked cake .
+dan did not cook coffee .he cooked water .dan cooked water .
+dan did not cook juice .he cooked tea .dan cooked tea .
+dan did not cook rice .he cooked milk .dan cooked milk .
+dan did not eat juice .he ate water .dan ate water .
+dan did not eat pasta .he ate soup .dan ate soup .
+dan did not eat soup .he ate tea .dan ate tea .
+dan did not eat tea .he ate soup .dan ate soup .
+dan did not eat water .he ate eggs .dan ate eggs .
+dan did not eat water .he ate soup .dan ate soup .
+dan did not order bread .he ordered cheese .dan ordered cheese .
+dan did not order bread .he ordered pasta .dan ordered pasta .
+dan did not order eggs .he ordered cake .dan ordered cake .
+dan did not order eggs .he ordered soup .dan ordered soup .
+dan did not order juice .he ordered cheese .dan ordered cheese .
+dan did not order milk .he ordered pasta .dan ordered pasta .
+dan did not pick cake .he picked cheese .dan picked cheese .
+dan did not pick juice .he picked cheese .dan picked cheese .
+dan did not pick milk .he picked coffee .dan picked coffee .
+dan did not pick pasta .he picked soup .dan picked soup .
+dan did not pick soup .he picked bread .dan picked bread .
+dan did not pick water .he picked pasta .dan picked pasta .
+dan did not want coffee .he wanted tea .dan wanted tea .
+dan did not want eggs .he wanted cake .dan wanted cake .
+dan did not want eggs .he wanted soup .dan wanted soup .
+dan did not want rice .he wanted eggs .dan wanted eggs .
+dan did not want soup .he wanted coffee .dan wanted coffee .
+dan did not want water .he wanted juice .dan wanted juice .
+dan is a student at the local school .
+dan is not late today .
+grace did not buy bread .she bought soup .grace bought soup .
+grace did not buy bread .she bought tea .grace bought tea .
+grace did not buy cheese .she bought cake .grace bought cake .
+grace did not buy eggs .she bought cake .grace bought cake .
+grace did not buy pasta .she bought water .grace bought water .
+grace did not buy water .she bought rice .grace bought rice .
+grace did not choose bread .she chose juice .grace chose juice .
+grace did not choose cake .she chose soup .grace chose soup .
+grace did not choose eggs .she chose tea .grace chose tea .
+grace did not choose juice .she chose tea .grace chose tea .
+grace did not choose milk .she chose coffee .grace chose coffee .
+grace did not choose rice .she chose pasta .grace chose pasta .
+grace did not cook coffee .she cooked pasta .grace cooked pasta .
+grace did not cook eggs .she cooked rice .grace cooked rice .
+grace did not cook juice .she cooked coffee .grace cooked coffee .
+grace did not cook milk .she cooked juice .grace cooked juice .
+grace did not cook rice .she cooked soup .grace cooked soup .
+grace did not cook soup .she cooked juice .grace cooked juice .
+grace did not eat cheese .she ate coffee .grace ate coffee .
+grace did not eat eggs .she ate water .grace ate water .
+grace did not eat milk .she ate soup .grace ate soup .
+grace did not eat rice .she ate juice .grace ate juice .
+grace did not eat tea .she ate eggs .grace ate eggs .
+grace did not eat tea .she ate water .grace ate water .
+grace did not order bread .she ordered soup .grace ordered soup .
+grace did not order cheese .she ordered rice .grace ordered rice .
+grace did not order eggs .she ordered pasta .grace ordered pasta .
+grace did not order juice .she ordered rice .grace ordered rice .
+grace did not order tea .she ordered coffee .grace ordered coffee .
+grace did not order tea .she ordered rice .grace ordered rice .
+grace did not pick cake .she picked soup .grace picked soup .
+grace did not pick cheese .she picked bread .grace picked bread .
+grace did not pick eggs .she picked cheese .grace picked cheese .
+grace did not pick eggs .she picked water .grace picked water .
+grace did not pick juice .she picked water .grace picked water .
+grace did not pick soup .she picked juice .grace picked juice .
+grace did not want cheese .she wanted coffee .grace wanted coffee .
+grace did not want coffee .she wanted pasta .grace wanted pasta .
+grace did not want eggs .she wanted milk .grace wanted milk .
+grace did not want eggs .she wanted pasta .grace wanted pasta .
+grace did not want eggs .she wanted water .grace wanted water .
+grace did not want soup .she wanted tea .grace wanted tea .
+grace is a student at the local school .
+grace is not late today .
+ivy did not buy eggs .she bought milk .ivy bought milk .
+ivy did not buy juice .she bought water .ivy bought water .
+ivy did not buy milk .she bought eggs .ivy bought eggs .
+ivy did not buy pasta .she bought tea .ivy bought tea .
+ivy did not buy rice .she bought pasta .ivy bought pasta .
+ivy did not buy water .she bought tea .ivy bought tea .
+ivy did not choose bread .she chose eggs .ivy chose eggs .
+ivy did not choose bread .she chose water .ivy chose water .
+ivy did not choose milk .she chose eggs .ivy chose eggs .
+ivy did not choose pasta .she chose bread .ivy chose bread .
+ivy did not choose rice .she chose eggs .ivy chose eggs .
+ivy did not choose tea .she chose water .ivy chose water .
+ivy did not cook bread .she cooked cake .ivy cooked cake .
+ivy did not cook bread .she cooked coffee .ivy cooked coffee .
+ivy did not cook bread .she cooked soup .ivy cooked soup .
+ivy did not cook cheese .she cooked pasta .ivy cooked pasta .
+ivy did not cook eggs .she cooked tea .ivy cooked tea .
+ivy did not cook water .she cooked milk .ivy cooked milk .
+ivy did not eat bread .she ate rice .ivy ate rice .
+ivy did not eat bread .she ate tea .ivy ate tea .
+ivy did not eat cheese .she ate milk .ivy ate milk .
+ivy did not eat rice .she ate coffee .ivy ate coffee .
+ivy did not eat tea .she ate juice .ivy ate juice .
+ivy did not eat tea .she ate soup .ivy ate soup .
+ivy did not order cake .she ordered pasta .ivy ordered pasta .
+ivy did not order cheese .she ordered milk .ivy ordered milk .
+ivy did not order cheese .she ordered water .ivy ordered water .
+ivy did not order juice .she ordered milk .ivy ordered milk .
+ivy did not order pasta .she ordered rice .ivy ordered rice .
+ivy did not order rice .she ordered tea .ivy ordered tea .
+ivy did not pick coffee .she picked cheese .ivy picked cheese .
+ivy did not pick eggs .she picked cake .ivy picked cake .
+ivy did not pick juice .she picked eggs .ivy picked eggs .
+ivy did not pick juice .she picked soup .ivy picked soup .
+ivy did not pick soup .she picked pasta .ivy picked pasta .
+ivy did not pick tea .she picked water .ivy picked water .
+ivy did not want bread .she wanted tea .ivy wanted tea .
+ivy did not want cake .she wanted soup .ivy wanted soup .
+ivy did not want coffee .she wanted cake .ivy wanted cake .
+ivy did not want milk .she wanted coffee .ivy wanted coffee .
+ivy did not want pasta .she wanted water .ivy wanted water .
+ivy did not want soup .she wanted tea .ivy wanted tea .
+ivy is a student at the local school .
+ivy is not late today .
+jack did not buy cheese .he bought coffee .jack bought coffee .
+jack did not buy eggs .he bought water .jack bought water .
+jack did not buy juice .he bought cheese .jack bought cheese .
+jack did not buy milk .he bought pasta .jack bought pasta .
+jack did not buy pasta .he bought tea .jack bought tea .
+jack did not buy soup .he bought rice .jack bought rice .
+jack did not choose coffee .he chose juice .jack chose juice .
+jack did not choose eggs .he chose bread .jack chose bread .
+jack did not choose eggs .he chose soup .jack chose soup .
+jack did not choose rice .he chose cake .jack chose cake .
+jack did not choose soup .he chose coffee .jack chose coffee .
+jack did not choose water .he chose coffee .jack chose coffee .
+jack did not cook bread .he cooked water .jack cooked water .
+jack did not cook cheese .he cooked coffee .jack cooked coffee .
+jack did not cook eggs .he cooked juice .jack cooked juice .
+jack did not cook pasta .he cooked milk .jack cooked milk .
+jack did not cook tea .he cooked cake .jack cooked cake .
+jack did not cook tea .he cooked milk .jack cooked milk .
+jack did not eat bread .he ate juice .jack ate juice .
+jack did not eat cake .he ate tea .jack ate tea .
+jack did not eat pasta .he ate cake .jack ate cake .
+jack did not eat pasta .he ate juice .jack ate juice .
+jack did not eat water .he ate pasta .jack ate pasta .
+jack did not eat water .he ate tea .jack ate tea .
+jack did not order bread .he ordered juice .jack ordered juice .
+jack did not order bread .he ordered tea .jack ordered tea .
+jack did not order eggs .he ordered pasta .jack ordered pasta .
+jack did not order rice .he ordered milk .jack ordered milk .
+jack did not order soup .he ordered milk .jack ordered milk .
+jack did not order water .he ordered juice .jack ordered juice .
+jack did not pick cake .he picked bread .jack picked bread .
+jack did not pick cake .he picked cheese .jack picked cheese .
+jack did not pick cake .he picked soup .jack picked soup .
+jack did not pick cake .he picked water .jack picked water .
+jack did not pick rice .he picked pasta .jack picked pasta .
+jack did not pick tea .he picked milk .jack picked milk .
+jack did not want coffee .he wanted cheese .jack wanted cheese .
+jack did not want juice .he wanted cake .jack wanted cake .
+jack did not want pasta .he wanted rice .jack wanted rice .
+jack did not want rice .he wanted pasta .jack wanted pasta .
+jack did not want soup .he wanted pasta .jack wanted pasta .
+jack did not want tea .he wanted juice .jack wanted juice .
+jack is a student at the local school .
+jack is not late today .
+kai did not buy milk .he bought pasta .kai bought pasta .
+kai did not buy milk .he bought soup .kai bought soup .
+kai did not buy pasta .he bought milk .kai bought milk .
+kai did not buy pasta .he bought tea .kai bought tea .
+kai did not buy water .he bought cake .kai bought cake .
+kai did not buy water .he bought juice .kai bought juice .
+kai did not choose bread .he chose soup .kai chose soup .
+kai did not choose cheese .he chose milk .kai chose milk .
+kai did not choose coffee .he chose pasta .kai chose pasta .
+kai did not choose eggs .he chose pasta .kai chose pasta .
+kai did not choose soup .he chose rice .kai chose rice .
+kai did not choose soup .he chose water .kai chose water .
+kai did not cook cake .he cooked bread .kai cooked bread .
+kai did not cook juice .he cooked coffee .kai cooked coffee .
+kai did not cook pasta .he cooked bread .kai cooked bread .
+kai did not cook pasta .he cooked eggs .kai cooked eggs .
+kai did not cook tea .he cooked water .kai cooked water .
+kai did not cook water .he cooked cake .kai cooked cake .
+kai did not eat bread .he ate rice .kai ate rice .
+kai did not eat cheese .he ate coffee .kai ate coffee .
+kai did not eat juice .he ate pasta .kai ate pasta .
+kai did not eat milk .he ate cheese .kai ate cheese .
+kai did not eat milk .he ate rice .kai ate rice .
+kai did not eat pasta .he ate soup .kai ate soup .
+kai did not order milk .he ordered bread .kai ordered bread .
+kai did not order milk .he ordered rice .kai ordered rice .
+kai did not order pasta .he ordered eggs .kai ordered eggs .
+kai did not order rice .he ordered coffee .kai ordered coffee .
+kai did not order soup .he ordered coffee .kai ordered coffee .
+kai did not order soup .he ordered juice .kai ordered juice .
+kai did not pick bread .he picked eggs .kai picked eggs .
+kai did not pick cheese .he picked eggs .kai picked eggs .
+kai did not pick eggs .he picked bread .kai picked bread .
+kai did not pick milk .he picked rice .kai picked rice .
+kai did not pick rice .he picked eggs .kai picked eggs .
+kai did not pick soup .he picked water .kai picked water .
+kai did not want cake .he wanted eggs .kai wanted eggs .
+kai did not want coffee .he wanted eggs .kai wanted eggs .
+kai did not want pasta .he wanted cake .kai wanted cake .
+kai did not want soup .he wanted cake .kai wanted cake .
+kai did not want soup .he wanted eggs .kai wanted eggs .
+kai did not want soup .he wanted tea .kai wanted tea .
+kai is a student at the local school .
+kai is not late today .
+lily did not buy bread .she bought soup .lily bought soup .
+lily did not buy cake .she bought coffee .lily bought coffee .
+lily did not buy milk .she bought rice .lily bought rice .
+lily did not buy milk .she bought water .lily bought water .
+lily did not buy pasta .she bought rice .lily bought rice .
+lily did not buy rice .she bought bread .lily bought bread .
+lily did not choose cheese .she chose milk .lily chose milk .
+lily did not choose coffee .she chose cake .lily chose cake .
+lily did not choose milk .she chose cake .lily chose cake .
+lily did not choose pasta .she chose cheese .lily chose cheese .
+lily did not choose pasta .she chose water .lily chose water .
+lily did not choose rice .she chose milk .lily chose milk .
+lily did not cook coffee .she cooked milk .lily cooked milk .
+lily did not cook coffee .she cooked rice .lily cooked rice .
+lily did not cook milk .she cooked coffee .lily cooked coffee .
+lily did not cook milk .she cooked rice .lily cooked rice .
+lily did not cook pasta .she cooked rice .lily cooked rice .
+lily did not cook rice .she cooked cheese .lily cooked cheese .
+lily did not eat bread .she ate juice .lily ate juice .
+lily did not eat bread .she ate milk .lily ate milk .
+lily did not eat milk .she ate tea .lily ate tea .
+lily did not eat pasta .she ate water .lily ate water .
+lily did not eat rice .she ate pasta .lily ate pasta .
+lily did not eat soup .she ate pasta .lily ate pasta .
+lily did not order eggs .she ordered water .lily ordered water .
+lily did not order juice .she ordered eggs .lily ordered eggs .
+lily did not order milk .she ordered juice .lily ordered juice .
+lily did not order rice .she ordered tea .lily ordered tea .
+lily did not order tea .she ordered cheese .lily ordered cheese .
+lily did not order water .she ordered coffee .lily ordered coffee .
+lily did not pick cake .she picked milk .lily picked milk .
+lily did not pick juice .she picked coffee .lily picked coffee .
+lily did not pick juice .she picked rice .lily picked rice .
+lily did not pick rice .she picked bread .lily picked bread .
+lily did not pick rice .she picked coffee .lily picked coffee .
+lily did not pick water .she picked cake .lily picked cake .
+lily did not want cake .she wanted bread .lily wanted bread .
+lily did not want eggs .she wanted soup .lily wanted soup .
+lily did not want juice .she wanted pasta .lily wanted pasta .
+lily did not want milk .she wanted coffee .lily wanted coffee .
+lily did not want milk .she wanted soup .lily wanted soup .
+lily did not want pasta .she wanted eggs .lily wanted eggs .
+lily is a student at the local school .
+lily is not late today .
+lucy did not buy bread .she bought rice .lucy bought rice .
+lucy did not buy cheese .she bought juice .lucy bought juice .
+lucy did not buy juice .she bought water .lucy bought water .
+lucy did not buy pasta .she bought cake .lucy bought cake .
+lucy did not buy pasta .she bought milk .lucy bought milk .
+lucy did not buy rice .she bought cheese .lucy bought cheese .
+lucy did not choose bread .she chose cake .lucy chose cake .
+lucy did not choose bread .she chose juice .lucy chose juice .
+lucy did not choose cake .she chose tea .lucy chose tea .
+lucy did not choose coffee .she chose cheese .lucy chose cheese .
+lucy did not choose rice .she chose cheese .lucy chose cheese .
+lucy did not choose water .she chose coffee .lucy chose coffee .
+lucy did not cook bread .she cooked rice .lucy cooked rice .
+lucy did not cook cheese .she cooked pasta .lucy cooked pasta .
+lucy did not cook coffee .she cooked milk .lucy cooked milk .
+lucy did not cook eggs .she cooked bread .lucy cooked bread .
+lucy did not cook pasta .she cooked rice .lucy cooked rice .
+lucy did not cook rice .she cooked bread .lucy cooked bread .
+lucy did not eat bread .she ate pasta .lucy ate pasta .
+lucy did not eat cake .she ate cheese .lucy ate cheese .
+lucy did not eat cheese .she ate tea .lucy ate tea .
+lucy did not eat coffee .she ate rice .lucy ate rice .
+lucy did not eat eggs .she ate cheese .lucy ate cheese .
+lucy did not eat pasta .she ate juice .lucy ate juice .
+lucy did not order cake .she ordered bread .lucy ordered bread .
+lucy did not order cheese .she ordered bread .lucy ordered bread .
+lucy did not order coffee .she ordered cake .lucy ordered cake .
+lucy did not order juice .she ordered eggs .lucy ordered eggs .
+lucy did not order milk .she ordered water .lucy ordered water .
+lucy did not order pasta .she ordered eggs .lucy ordered eggs .
+lucy did not pick cake .she picked juice .lucy picked juice .
+lucy did not pick juice .she picked cake .lucy picked cake .
+lucy did not pick pasta .she picked water .lucy picked water .
+lucy did not pick rice .she picked milk .lucy picked milk .
+lucy did not pick water .she picked bread .lucy picked bread .
+lucy did not pick water .she picked coffee .lucy picked coffee .
+lucy did not want cake .she wanted cheese .lucy wanted cheese .
+lucy did not want cake .she wanted water .lucy wanted water .
+lucy did not want cheese .she wanted cake .lucy wanted cake .
+lucy did not want cheese .she wanted rice .lucy wanted rice .
+lucy did not want tea .she wanted coffee .lucy wanted coffee .
+lucy did not want water .she wanted eggs .lucy wanted eggs .
+lucy is a student at the local school .
+lucy is not late today .
+max did not buy bread .he bought juice .max bought juice .
+max did not buy pasta .he bought bread .max bought bread .
+max did not buy pasta .he bought milk .max bought milk .
+max did not buy soup .he bought eggs .max bought eggs .
+max did not buy tea .he bought eggs .max bought eggs .
+max did not buy tea .he bought soup .max bought soup .
+max did not choose bread .he chose coffee .max chose coffee .
+max did not choose bread .he chose soup .max chose soup .
+max did not choose eggs .he chose cheese .max chose cheese .
+max did not choose eggs .he chose coffee .max chose coffee .
+max did not choose milk .he chose tea .max chose tea .
+max did not choose soup .he chose cake .max chose cake .
+max did not cook bread .he cooked rice .max cooked rice .
+max did not cook coffee .he cooked bread .max cooked bread .
+max did not cook eggs .he cooked water .max cooked water .
+max did not cook milk .he cooked eggs .max cooked eggs .
+max did not cook pasta .he cooked eggs .max cooked eggs .
+max did not cook tea .he cooked coffee .max cooked coffee .
+max did not eat bread .he ate milk .max ate milk .
+max did not eat rice .he ate coffee .max ate coffee .
+max did not eat tea .he ate eggs .max ate eggs .
+max did not eat tea .he ate water .max ate water .
+max did not eat water .he ate juice .max ate juice .
+max did not eat water .he ate pasta .max ate pasta .
+max did not order bread .he ordered cake .max ordered cake .
+max did not order cake .he ordered soup .max ordered soup .
+max did not order cake .he ordered tea .max ordered tea .
+max did not order coffee .he ordered juice .max ordered juice .
+max did not order milk .he ordered eggs .max ordered eggs .
+max did not order pasta .he ordered tea .max ordered tea .
+max did not pick cheese .he picked coffee .max picked coffee .
+max did not pick coffee .he picked water .max picked water .
+max did not pick eggs .he picked juice .max picked juice .
+max did not pick milk .he picked rice .max picked rice .
+max did not pick soup .he picked milk .max picked milk .
+max did not pick tea .he picked coffee .max picked coffee .
+max did not want cheese .he wanted soup .max wanted soup .
+max did not want eggs .he wanted cake .max wanted cake .
+max did not want milk .he wanted cake .max wanted cake .
+max did not want milk .he wanted soup .max wanted soup .
+max did not want rice .he wanted milk .max wanted milk .
+max did not want tea .he wanted milk .max wanted milk .
+max is a student at the local school .
+max is not late today .
+mia did not buy bread .she bought eggs .mia bought eggs .
+mia did not buy coffee .she bought tea .mia bought tea .
+mia did not buy eggs .she bought coffee .mia bought coffee .
+mia did not buy milk .she bought coffee .mia bought coffee .
+mia did not buy rice .she bought water .mia bought water .
+mia did not buy water .she bought rice .mia bought rice .
+mia did not choose bread .she chose cheese .mia chose cheese .
+mia did not choose bread .she chose rice .mia chose rice .
+mia did not choose cheese .she chose juice .mia chose juice .
+mia did not choose milk .she chose cheese .mia chose cheese .
+mia did not choose pasta .she chose bread .mia chose bread .
+mia did not choose soup .she chose coffee .mia chose coffee .
+mia did not cook cheese .she cooked tea .mia cooked tea .
+mia did not cook coffee .she cooked juice .mia cooked juice .
+mia did not cook pasta .she cooked cake .mia cooked cake .
+mia did not cook soup .she cooked coffee .mia cooked coffee .
+mia did not cook water .she cooked bread .mia cooked bread .
+mia did not cook water .she cooked cheese .mia cooked cheese .
+mia did not eat bread .she ate soup .mia ate soup .
+mia did not eat coffee .she ate juice .mia ate juice .
+mia did not eat eggs .she ate bread .mia ate bread .
+mia did not eat juice .she ate milk .mia ate milk .
+mia did not eat milk .she ate eggs .mia ate eggs .
+mia did not eat tea .she ate juice .mia ate juice .
+mia did not order bread .she ordered tea .mia ordered tea .
+mia did not order coffee .she ordered pasta .mia ordered pasta .
+mia did not order eggs .she ordered soup .mia ordered soup .
+mia did not order pasta .she ordered milk .mia ordered milk .
+mia did not order pasta .she ordered rice .mia ordered rice .
+mia did not order soup .she ordered water .mia ordered water .
+mia did not pick bread .she picked coffee .mia picked coffee .
+mia did not pick juice .she picked rice .mia picked rice .
+mia did not pick pasta .she picked water .mia picked water .
+mia did not pick soup .she picked cake .mia picked cake .
+mia did not pick soup .she picked milk .mia picked milk .
+mia did not pick tea .she picked rice .mia picked rice .
+mia did not want cake .she wanted juice .mia wanted juice .
+mia did not want cheese .she wanted soup .mia wanted soup .
+mia did not want eggs .she wanted cheese .mia wanted cheese .
+mia did not want milk .she wanted bread .mia wanted bread .
+mia did not want rice .she wanted eggs .mia wanted eggs .
+mia did not want water .she wanted soup .mia wanted soup .
+mia is a student at the local school .
+mia is not late today .
+paul did not buy cheese .he bought pasta .paul bought pasta .
+paul did not buy coffee .he bought juice .paul bought juice .
+paul did not buy coffee .he bought milk .paul bought milk .
+paul did not buy rice .he bought soup .paul bought soup .
+paul did not buy soup .he bought cheese .paul bought cheese .
+paul did not buy soup .he bought milk .paul bought milk .
+paul did not choose bread .he chose coffee .paul chose coffee .
+paul did not choose bread .he chose juice .paul chose juice .
+paul did not choose juice .he chose eggs .paul chose eggs .
+paul did not choose milk .he chose bread .paul chose bread .
+paul did not choose pasta .he chose milk .paul chose milk .
+paul did not choose tea .he chose cake .paul chose cake .
+paul did not cook cheese .he cooked coffee .paul cooked coffee .
+paul did not cook juice .he cooked bread .paul cooked bread .
+paul did not cook milk .he cooked bread .paul cooked bread .
+paul did not cook milk .he cooked coffee .paul cooked coffee .
+paul did not cook pasta .he cooked cake .paul cooked cake .
+paul did not cook pasta .he cooked milk .paul cooked milk .
+paul did not eat bread .he ate cheese .paul ate cheese .
+paul did not eat cake .he ate bread .paul ate bread .
+paul did not eat cake .he ate water .paul ate water .
+paul did not eat juice .he ate coffee .paul ate coffee .
+paul did not eat milk .he ate cheese .paul ate cheese .
+paul did not eat rice .he ate cake .paul ate cake .
+paul did not order coffee .he ordered rice .paul ordered rice .
+paul did not order eggs .he ordered bread .paul ordered bread .
+paul did not order eggs .he ordered coffee .paul ordered coffee .
+paul did not order juice .he ordered bread .paul ordered bread .
+paul did not order milk .he ordered juice .paul ordered juice .
+paul did not order pasta .he ordered cake .paul ordered cake .
+paul did not pick cake .he picked rice .paul picked rice .
+paul did not pick cheese .he picked pasta .paul picked pasta .
+paul did not pick juice .he picked bread .paul picked bread .
+paul did not pick tea .he picked pasta .paul picked pasta .
+paul did not pick water .he picked cake .paul picked cake .
+paul did not pick water .he picked pasta .paul picked pasta .
+paul did not want bread .he wanted eggs .paul wanted eggs .
+paul did not want cake .he wanted water .paul wanted water .
+paul did not want cheese .he wanted bread .paul wanted bread .
+paul did not want milk .he wanted cheese .paul wanted cheese .
+paul did not want rice .he wanted soup .paul wanted soup .
+paul did not want tea .he wanted milk .paul wanted milk .
+paul is a student at the local school .
+paul is not late today .
+rose did not buy coffee .she bought bread .rose bought bread .
+rose did not buy eggs .she bought cheese .rose bought cheese .
+rose did not buy milk .she bought soup .rose bought soup .
+rose did not buy rice .she bought cake .rose bought cake .
+rose did not buy rice .she bought coffee .rose bought coffee .
+rose did not buy soup .she bought cheese .rose bought cheese .
+rose did not choose bread .she chose soup .rose chose soup .
+rose did not choose eggs .she chose cheese .rose chose cheese .
+rose did not choose eggs .she chose coffee .rose chose coffee .
+rose did not choose pasta .she chose cheese .rose chose cheese .
+rose did not choose pasta .she chose juice .rose chose juice .
+rose did not choose soup .she chose tea .rose chose tea .
+rose did not cook cake .she cooked soup .rose cooked soup .
+rose did not cook juice .she cooked rice .rose cooked rice .
+rose did not cook milk .she cooked juice .rose cooked juice .
+rose did not cook pasta .she cooked cheese .rose cooked cheese .
+rose did not cook rice .she cooked tea .rose cooked tea .
+rose did not cook soup .she cooked coffee .rose cooked coffee .
+rose did not eat milk .she ate eggs .rose ate eggs .
+rose did not eat milk .she ate water .rose ate water .
+rose did not eat rice .she ate tea .rose ate tea .
+rose did not eat soup .she ate rice .rose ate rice .
+rose did not eat soup .she ate tea .rose ate tea .
+rose did not eat tea .she ate coffee .rose ate coffee .
+rose did not order bread .she ordered tea .rose ordered tea .
+rose did not order juice .she ordered rice .rose ordered rice .
+rose did not order milk .she ordered eggs .rose ordered eggs .
+rose did not order soup .she ordered bread .rose ordered bread .
+rose did not order soup .she ordered milk .rose ordered milk .
+rose did not order tea .she ordered eggs .rose ordered eggs .
+rose did not pick cheese .she picked soup .rose picked soup .
+rose did not pick coffee .she picked milk .rose picked milk .
+rose did not pick milk .she picked cake .rose picked cake .
+rose did not pick rice .she picked cheese .rose picked cheese .
+rose did not pick soup .she picked milk .rose picked milk .
+rose did not pick tea .she picked bread .rose picked bread .
+rose did not want bread .she wanted tea .rose wanted tea .
+rose did not want cake .she wanted cheese .rose wanted cheese .
+rose did not want coffee .she wanted cake .rose wanted cake .
+rose did not want milk .she wanted tea .rose wanted tea .
+rose did not want pasta .she wanted cake .rose wanted cake .
+rose did not want soup .she wanted rice .rose wanted rice .
+rose is a student at the local school .
+rose is not late today .
+ruby did not buy bread .she bought coffee .ruby bought coffee .
+ruby did not buy juice .she bought pasta .ruby bought pasta .
+ruby did not buy soup .she bought eggs .ruby bought eggs .
+ruby did not buy tea .she bought cake .ruby bought cake .
+ruby did not buy tea .she bought soup .ruby bought soup .
+ruby did not buy water .she bought juice .ruby bought juice .
+ruby did not choose cake .she chose water .ruby chose water .
+ruby did not choose coffee .she chose cake .ruby chose cake .
+ruby did not choose coffee .she chose rice .ruby chose rice .
+ruby did not choose eggs .she chose cake .ruby chose cake .
+ruby did not choose juice .she chose soup .ruby chose soup .
+ruby did not choose pasta .she chose bread .ruby chose bread .
+ruby did not cook coffee .she cooked bread .ruby cooked bread .
+ruby did not cook eggs .she cooked coffee .ruby cooked coffee .
+ruby did not cook juice .she cooked water .ruby cooked water .
+ruby did not cook soup .she cooked coffee .ruby cooked coffee .
+ruby did not cook tea .she cooked water .ruby cooked water .
+ruby did not cook water .she cooked bread .ruby cooked bread .
+ruby did not eat cheese .she ate eggs .ruby ate eggs .
+ruby did not eat cheese .she ate juice .ruby ate juice .
+ruby did not eat juice .she ate soup .ruby ate soup .
+ruby did not eat soup .she ate tea .ruby ate tea .
+ruby did not eat water .she ate milk .ruby ate milk .
+ruby did not eat water .she ate tea .ruby ate tea .
+ruby did not order bread .she ordered cheese .ruby ordered cheese .
+ruby did not order coffee .she ordered rice .ruby ordered rice .
+ruby did not order rice .she ordered milk .ruby ordered milk .
+ruby did not order soup .she ordered tea .ruby ordered tea .
+ruby did not order water .she ordered bread .ruby ordered bread .
+ruby did not order water .she ordered coffee .ruby ordered coffee .
+ruby did not pick cheese .she picked eggs .ruby picked eggs .
+ruby did not pick coffee .she picked bread .ruby picked bread .
+ruby did not pick coffee .she picked milk .ruby picked milk .
+ruby did not pick milk .she picked cheese .ruby picked cheese .
+ruby did not pick rice .she picked coffee .ruby picked coffee .
+ruby did not pick water .she picked coffee .ruby picked coffee .
+ruby did not want cake .she wanted cheese .ruby wanted cheese .
+ruby did not want eggs .she wanted milk .ruby wanted milk .
+ruby did not want eggs .she wanted rice .ruby wanted rice .
+ruby did not want juice .she wanted cake .ruby wanted cake .
+ruby did not want juice .she wanted pasta .ruby wanted pasta .
+ruby did not want tea .she wanted milk .ruby wanted milk .
+ruby is a student at the local school .
+ruby is not late today .
+ryan did not buy cheese .he bought juice .ryan bought juice .
+ryan did not buy coffee .he bought pasta .ryan bought pasta .
+ryan did not buy pasta .he bought bread .ryan bought bread .
+ryan did not buy rice .he bought milk .ryan bought milk .
+ryan did not buy soup .he bought bread .ryan bought bread .
+ryan did not buy water .he bought eggs .ryan bought eggs .
+ryan did not choose cheese .he chose pasta .ryan chose pasta .
+ryan did not choose eggs .he chose juice .ryan chose juice .
+ryan did not choose eggs .he chose tea .ryan chose tea .
+ryan did not choose milk .he chose water .ryan chose water .
+ryan did not choose pasta .he chose milk .ryan chose milk .
+ryan did not choose tea .he chose milk .ryan chose milk .
+ryan did not cook bread .he cooked cake .ryan cooked cake .
+ryan did not cook bread .he cooked soup .ryan cooked soup .
+ryan did not cook cheese .he cooked juice .ryan cooked juice .
+ryan did not cook coffee .he cooked pasta .ryan cooked pasta .
+ryan did not cook coffee .he cooked rice .ryan cooked rice .
+ryan did not cook rice .he cooked soup .ryan cooked soup .
+ryan did not eat cheese .he ate cake .ryan ate cake .
+ryan did not eat milk .he ate eggs .ryan ate eggs .
+ryan did not eat rice .he ate eggs .ryan ate eggs .
+ryan did not eat rice .he ate soup .ryan ate soup .
+ryan did not eat tea .he ate eggs .ryan ate eggs .
+ryan did not eat tea .he ate milk .ryan ate milk .
+ryan did not order cake .he ordered rice .ryan ordered rice .
+ryan did not order cheese .he ordered tea .ryan ordered tea .
+ryan did not order pasta .he ordered cheese .ryan ordered cheese .
+ryan did not order rice .he ordered eggs .ryan ordered eggs .
+ryan did not order tea .he ordered pasta .ryan ordered pasta .
+ryan did not order tea .he ordered soup .ryan ordered soup .
+ryan did not pick cake .he picked tea .ryan picked tea .
+ryan did not pick cheese .he picked milk .ryan picked milk .
+ryan did not pick coffee .he picked cheese .ryan picked cheese .
+ryan did not pick coffee .he picked juice .ryan picked juice .
+ryan did not pick rice .he picked eggs .ryan picked eggs .
+ryan did not pick tea .he picked cheese .ryan picked cheese .
+ryan did not want juice .he wanted soup .ryan wanted soup .
+ryan did not want milk .he wanted water .ryan wanted water .
+ryan did not want pasta .he wanted tea .ryan wanted tea .
+ryan did not want rice .he wanted cake .ryan wanted cake .
+ryan did not want rice .he wanted juice .ryan wanted juice .
+ryan did not want soup .he wanted eggs .ryan wanted eggs .
+ryan is a student at the local school .
+ryan is not late today .
+sam did not buy bread .he bought pasta .sam bought pasta .
+sam did not buy juice .he bought rice .sam bought rice .
+sam did not buy juice .he bought water .sam bought water .
+sam did not buy milk .he bought rice .sam bought rice .
+sam did not buy rice .he bought cake .sam bought cake .
+sam did not buy soup .he bought milk .sam bought milk .
+sam did not choose coffee .he chose cheese .sam chose cheese .
+sam did not choose juice .he chose milk .sam chose milk .
+sam did not choose soup .he chose bread .sam chose bread .
+sam did not choose tea .he chose cheese .sam chose cheese .
+sam did not choose tea .he chose coffee .sam chose coffee .
+sam did not choose water .he chose tea .sam chose tea .
+sam did not cook eggs .he cooked cheese .sam cooked cheese .
+sam did not cook eggs .he cooked tea .sam cooked tea .
+sam did not cook eggs .he cooked water .sam cooked water .
+sam did not cook juice .he cooked coffee .sam cooked coffee .
+sam did not cook tea .he cooked coffee .sam cooked coffee .
+sam did not cook tea .he cooked juice .sam cooked juice .
+sam did not eat cheese .he ate juice .sam ate juice .
+sam did not eat cheese .he ate tea .sam ate tea .
+sam did not eat coffee .he ate water .sam ate water .
+sam did not eat eggs .he ate coffee .sam ate coffee .
+sam did not eat pasta .he ate milk .sam ate milk .
+sam did not eat rice .he ate soup .sam ate soup .
+sam did not order cake .he ordered milk .sam ordered milk .
+sam did not order cake .he ordered rice .sam ordered rice .
+sam did not order cheese .he ordered juice .sam ordered juice .
+sam did not order eggs .he ordered cake .sam ordered cake .
+sam did not order juice .he ordered pasta .sam ordered pasta .
+sam did not order soup .he ordered pasta .sam ordered pasta .
+sam did not pick cake .he picked eggs .sam picked eggs .
+sam did not pick cake .he picked milk .sam picked milk .
+sam did not pick coffee .he picked bread .sam picked bread .
+sam did not pick coffee .he picked tea .sam picked tea .
+sam did not pick eggs .he picked water .sam picked water .
+sam did not pick juice .he picked cake .sam picked cake .
+sam did not want bread .he wanted rice .sam wanted rice .
+sam did not want bread .he wanted tea .sam wanted tea .
+sam did not want milk .he wanted bread .sam wanted bread .
+sam did not want pasta .he wanted juice .sam wanted juice .
+sam did not want tea .he wanted juice .sam wanted juice .
+sam did not want water .he wanted tea .sam wanted tea .
+sam is a student at the local school .
+sam is not late today .
+the bag is not black .it is blue .the bag is blue .
+the bag is not black .it is brown .the bag is brown .
+the bag is not black .it is gray .the bag is gray .
+the bag is not black .it is green .the bag is green .
+the bag is not black .it is pink .the bag is pink .
+the bag is not black .it is purple .the bag is purple .
+the bag is not black .it is red .the bag is red .
+the bag is not black .it is white .the bag is white .
+the bag is not black .it is yellow .the bag is yellow .
+the bag is not blue .it is black .the bag is black .
+the bag is not blue .it is brown .the bag is brown .
+the bag is not blue .it is gray .the bag is gray .
+the bag is not blue .it is green .the bag is green .
+the bag is not blue .it is pink .the bag is pink .
+the bag is not blue .it is purple .the bag is purple .
+the bag is not blue .it is red .the bag is red .
+the bag is not blue .it is white .the bag is white .
+the bag is not blue .it is yellow .the bag is yellow .
+the bag is not brown .it is black .the bag is black .
+the bag is not brown .it is blue .the bag is blue .
+the bag is not brown .it is gray .the bag is gray .
+the bag is not brown .it is green .the bag is green .
+the bag is not brown .it is pink .the bag is pink .
+the bag is not brown .it is purple .the bag is purple .
+the bag is not brown .it is red .the bag is red .
+the bag is not brown .it is white .the bag is white .
+the bag is not brown .it is yellow .the bag is yellow .
+the bag is not gray .it is black .the bag is black .
+the bag is not gray .it is blue .the bag is blue .
+the bag is not gray .it is brown .the bag is brown .
+the bag is not gray .it is green .the bag is green .
+the bag is not gray .it is pink .the bag is pink .
+the bag is not gray .it is purple .the bag is purple .
+the bag is not gray .it is red .the bag is red .
+the bag is not gray .it is white .the bag is white .
+the bag is not gray .it is yellow .the bag is yellow .
+the bag is not green .it is black .the bag is black .
+the bag is not green .it is blue .the bag is blue .
+the bag is not green .it is brown .the bag is brown .
+the bag is not green .it is gray .the bag is gray .
+the bag is not green .it is pink .the bag is pink .
+the bag is not green .it is purple .the bag is purple .
+the bag is not green .it is red .the bag is red .
+the bag is not green .it is white .the bag is white .
+the bag is not green .it is yellow .the bag is yellow .
+the bag is not pink .it is black .the bag is black .
+the bag is not pink .it is blue .the bag is blue .
+the bag is not pink .it is brown .the bag is brown .
+the bag is not pink .it is gray .the bag is gray .
+the bag is not pink .it is green .the bag is green .
+the bag is not pink .it is purple .the bag is purple .
+the bag is not pink .it is red .the bag is red .
+the bag is not pink .it is white .the bag is white .
+the bag is not pink .it is yellow .the bag is yellow .
+the bag is not purple .it is black .the bag is black .
+the bag is not purple .it is blue .the bag is blue .
+the bag is not purple .it is brown .the bag is brown .
+the bag is not purple .it is gray .the bag is gray .
+the bag is not purple .it is green .the bag is green .
+the bag is not purple .it is pink .the bag is pink .
+the bag is not purple .it is red .the bag is red .
+the bag is not purple .it is white .the bag is white .
+the bag is not purple .it is yellow .the bag is yellow .
+the bag is not red .it is black .the bag is black .
+the bag is not red .it is brown .the bag is brown .
+the bag is not red .it is gray .the bag is gray .
+the bag is not red .it is green .the bag is green .
+the bag is not red .it is pink .the bag is pink .
+the bag is not red .it is purple .the bag is purple .
+the bag is not red .it is white .the bag is white .
+the bag is not red .it is yellow .the bag is yellow .
+the bag is not white .it is black .the bag is black .
+the bag is not white .it is blue .the bag is blue .
+the bag is not white .it is brown .the bag is brown .
+the bag is not white .it is gray .the bag is gray .
+the bag is not white .it is green .the bag is green .
+the bag is not white .it is pink .the bag is pink .
+the bag is not white .it is purple .the bag is purple .
+the bag is not white .it is red .the bag is red .
+the bag is not white .it is yellow .the bag is yellow .
+the bag is not yellow .it is black .the bag is black .
+the bag is not yellow .it is blue .the bag is blue .
+the bag is not yellow .it is brown .the bag is brown .
+the bag is not yellow .it is gray .the bag is gray .
+the bag is not yellow .it is green .the bag is green .
+the bag is not yellow .it is pink .the bag is pink .
+the bag is not yellow .it is purple .the bag is purple .
+the bag is not yellow .it is red .the bag is red .
+the bag is not yellow .it is white .the bag is white .
+the ball is not black .it is blue .the ball is blue .
+the ball is not black .it is brown .the ball is brown .
+the ball is not black .it is gray .the ball is gray .
+the ball is not black .it is green .the ball is green .
+the ball is not black .it is pink .the ball is pink .
+the ball is not black .it is purple .the ball is purple .
+the ball is not black .it is red .the ball is red .
+the ball is not black .it is white .the ball is white .
+the ball is not black .it is yellow .the ball is yellow .
+the ball is not blue .it is black .the ball is black .
+the ball is not blue .it is brown .the ball is brown .
+the ball is not blue .it is gray .the ball is gray .
+the ball is not blue .it is green .the ball is green .
+the ball is not blue .it is pink .the ball is pink .
+the ball is not blue .it is purple .the ball is purple .
+the ball is not blue .it is red .the ball is red .
+the ball is not blue .it is white .the ball is white .
+the ball is not blue .it is yellow .the ball is yellow .
+the ball is not brown .it is black .the ball is black .
+the ball is not brown .it is blue .the ball is blue .
+the ball is not brown .it is gray .the ball is gray .
+the ball is not brown .it is green .the ball is green .
+the ball is not brown .it is pink .the ball is pink .
+the ball is not brown .it is purple .the ball is purple .
+the ball is not brown .it is red .the ball is red .
+the ball is not brown .it is white .the ball is white .
+the ball is not brown .it is yellow .the ball is yellow .
+the ball is not gray .it is black .the ball is black .
+the ball is not gray .it is blue .the ball is blue .
+the ball is not gray .it is brown .the ball is brown .
+the ball is not gray .it is green .the ball is green .
+the ball is not gray .it is pink .the ball is pink .
+the ball is not gray .it is purple .the ball is purple .
+the ball is not gray .it is red .the ball is red .
+the ball is not gray .it is white .the ball is white .
+the ball is not gray .it is yellow .the ball is yellow .
+the ball is not green .it is black .the ball is black .
+the ball is not green .it is blue .the ball is blue .
+the ball is not green .it is brown .the ball is brown .
+the ball is not green .it is gray .the ball is gray .
+the ball is not green .it is pink .the ball is pink .
+the ball is not green .it is purple .the ball is purple .
+the ball is not green .it is red .the ball is red .
+the ball is not green .it is white .the ball is white .
+the ball is not green .it is yellow .the ball is yellow .
+the ball is not pink .it is black .the ball is black .
+the ball is not pink .it is blue .the ball is blue .
+the ball is not pink .it is brown .the ball is brown .
+the ball is not pink .it is gray .the ball is gray .
+the ball is not pink .it is green .the ball is green .
+the ball is not pink .it is purple .the ball is purple .
+the ball is not pink .it is red .the ball is red .
+the ball is not pink .it is white .the ball is white .
+the ball is not pink .it is yellow .the ball is yellow .
+the ball is not purple .it is black .the ball is black .
+the ball is not purple .it is blue .the ball is blue .
+the ball is not purple .it is brown .the ball is brown .
+the ball is not purple .it is gray .the ball is gray .
+the ball is not purple .it is green .the ball is green .
+the ball is not purple .it is pink .the ball is pink .
+the ball is not purple .it is red .the ball is red .
+the ball is not purple .it is white .the ball is white .
+the ball is not purple .it is yellow .the ball is yellow .
+the ball is not red .it is black .the ball is black .
+the ball is not red .it is brown .the ball is brown .
+the ball is not red .it is gray .the ball is gray .
+the ball is not red .it is green .the ball is green .
+the ball is not red .it is pink .the ball is pink .
+the ball is not red .it is purple .the ball is purple .
+the ball is not red .it is white .the ball is white .
+the ball is not red .it is yellow .the ball is yellow .
+the ball is not white .it is black .the ball is black .
+the ball is not white .it is blue .the ball is blue .
+the ball is not white .it is brown .the ball is brown .
+the ball is not white .it is gray .the ball is gray .
+the ball is not white .it is green .the ball is green .
+the ball is not white .it is pink .the ball is pink .
+the ball is not white .it is purple .the ball is purple .
+the ball is not white .it is red .the ball is red .
+the ball is not white .it is yellow .the ball is yellow .
+the ball is not yellow .it is black .the ball is black .
+the ball is not yellow .it is blue .the ball is blue .
+the ball is not yellow .it is brown .the ball is brown .
+the ball is not yellow .it is gray .the ball is gray .
+the ball is not yellow .it is green .the ball is green .
+the ball is not yellow .it is pink .the ball is pink .
+the ball is not yellow .it is purple .the ball is purple .
+the ball is not yellow .it is red .the ball is red .
+the ball is not yellow .it is white .the ball is white .
+the bank is not closed .it is open .the bank is open .
+the book is not black .it is blue .the book is blue .
+the book is not black .it is brown .the book is brown .
+the book is not black .it is gray .the book is gray .
+the book is not black .it is green .the book is green .
+the book is not black .it is pink .the book is pink .
+the book is not black .it is purple .the book is purple .
+the book is not black .it is red .the book is red .
+the book is not black .it is white .the book is white .
+the book is not black .it is yellow .the book is yellow .
+the book is not blue .it is black .the book is black .
+the book is not blue .it is brown .the book is brown .
+the book is not blue .it is gray .the book is gray .
+the book is not blue .it is green .the book is green .
+the book is not blue .it is pink .the book is pink .
+the book is not blue .it is purple .the book is purple .
+the book is not blue .it is red .the book is red .
+the book is not blue .it is white .the book is white .
+the book is not blue .it is yellow .the book is yellow .
+the book is not brown .it is black .the book is black .
+the book is not brown .it is blue .the book is blue .
+the book is not brown .it is gray .the book is gray .
+the book is not brown .it is green .the book is green .
+the book is not brown .it is pink .the book is pink .
+the book is not brown .it is purple .the book is purple .
+the book is not brown .it is red .the book is red .
+the book is not brown .it is white .the book is white .
+the book is not brown .it is yellow .the book is yellow .
+the book is not gray .it is black .the book is black .
+the book is not gray .it is blue .the book is blue .
+the book is not gray .it is brown .the book is brown .
+the book is not gray .it is green .the book is green .
+the book is not gray .it is pink .the book is pink .
+the book is not gray .it is purple .the book is purple .
+the book is not gray .it is red .the book is red .
+the book is not gray .it is white .the book is white .
+the book is not gray .it is yellow .the book is yellow .
+the book is not green .it is black .the book is black .
+the book is not green .it is blue .the book is blue .
+the book is not green .it is brown .the book is brown .
+the book is not green .it is gray .the book is gray .
+the book is not green .it is pink .the book is pink .
+the book is not green .it is purple .the book is purple .
+the book is not green .it is red .the book is red .
+the book is not green .it is white .the book is white .
+the book is not green .it is yellow .the book is yellow .
+the book is not pink .it is black .the book is black .
+the book is not pink .it is blue .the book is blue .
+the book is not pink .it is brown .the book is brown .
+the book is not pink .it is gray .the book is gray .
+the book is not pink .it is green .the book is green .
+the book is not pink .it is purple .the book is purple .
+the book is not pink .it is red .the book is red .
+the book is not pink .it is white .the book is white .
+the book is not pink .it is yellow .the book is yellow .
+the book is not purple .it is black .the book is black .
+the book is not purple .it is blue .the book is blue .
+the book is not purple .it is brown .the book is brown .
+the book is not purple .it is gray .the book is gray .
+the book is not purple .it is green .the book is green .
+the book is not purple .it is pink .the book is pink .
+the book is not purple .it is red .the book is red .
+the book is not purple .it is white .the book is white .
+the book is not purple .it is yellow .the book is yellow .
+the book is not red .it is black .the book is black .
+the book is not red .it is brown .the book is brown .
+the book is not red .it is gray .the book is gray .
+the book is not red .it is green .the book is green .
+the book is not red .it is pink .the book is pink .
+the book is not red .it is purple .the book is purple .
+the book is not red .it is white .the book is white .
+the book is not red .it is yellow .the book is yellow .
+the book is not white .it is black .the book is black .
+the book is not white .it is blue .the book is blue .
+the book is not white .it is brown .the book is brown .
+the book is not white .it is gray .the book is gray .
+the book is not white .it is green .the book is green .
+the book is not white .it is pink .the book is pink .
+the book is not white .it is purple .the book is purple .
+the book is not white .it is red .the book is red .
+the book is not white .it is yellow .the book is yellow .
+the book is not yellow .it is black .the book is black .
+the book is not yellow .it is blue .the book is blue .
+the book is not yellow .it is brown .the book is brown .
+the book is not yellow .it is gray .the book is gray .
+the book is not yellow .it is green .the book is green .
+the book is not yellow .it is pink .the book is pink .
+the book is not yellow .it is purple .the book is purple .
+the book is not yellow .it is red .the book is red .
+the book is not yellow .it is white .the book is white .
+the bottle is not black .it is blue .the bottle is blue .
+the bottle is not black .it is brown .the bottle is brown .
+the bottle is not black .it is gray .the bottle is gray .
+the bottle is not black .it is green .the bottle is green .
+the bottle is not black .it is pink .the bottle is pink .
+the bottle is not black .it is purple .the bottle is purple .
+the bottle is not black .it is red .the bottle is red .
+the bottle is not black .it is white .the bottle is white .
+the bottle is not black .it is yellow .the bottle is yellow .
+the bottle is not blue .it is black .the bottle is black .
+the bottle is not blue .it is brown .the bottle is brown .
+the bottle is not blue .it is gray .the bottle is gray .
+the bottle is not blue .it is green .the bottle is green .
+the bottle is not blue .it is pink .the bottle is pink .
+the bottle is not blue .it is purple .the bottle is purple .
+the bottle is not blue .it is red .the bottle is red .
+the bottle is not blue .it is white .the bottle is white .
+the bottle is not blue .it is yellow .the bottle is yellow .
+the bottle is not brown .it is black .the bottle is black .
+the bottle is not brown .it is blue .the bottle is blue .
+the bottle is not brown .it is gray .the bottle is gray .
+the bottle is not brown .it is green .the bottle is green .
+the bottle is not brown .it is pink .the bottle is pink .
+the bottle is not brown .it is purple .the bottle is purple .
+the bottle is not brown .it is red .the bottle is red .
+the bottle is not brown .it is white .the bottle is white .
+the bottle is not brown .it is yellow .the bottle is yellow .
+the bottle is not gray .it is black .the bottle is black .
+the bottle is not gray .it is blue .the bottle is blue .
+the bottle is not gray .it is brown .the bottle is brown .
+the bottle is not gray .it is green .the bottle is green .
+the bottle is not gray .it is pink .the bottle is pink .
+the bottle is not gray .it is purple .the bottle is purple .
+the bottle is not gray .it is red .the bottle is red .
+the bottle is not gray .it is white .the bottle is white .
+the bottle is not gray .it is yellow .the bottle is yellow .
+the bottle is not green .it is black .the bottle is black .
+the bottle is not green .it is blue .the bottle is blue .
+the bottle is not green .it is brown .the bottle is brown .
+the bottle is not green .it is gray .the bottle is gray .
+the bottle is not green .it is pink .the bottle is pink .
+the bottle is not green .it is purple .the bottle is purple .
+the bottle is not green .it is red .the bottle is red .
+the bottle is not green .it is white .the bottle is white .
+the bottle is not green .it is yellow .the bottle is yellow .
+the bottle is not pink .it is black .the bottle is black .
+the bottle is not pink .it is blue .the bottle is blue .
+the bottle is not pink .it is brown .the bottle is brown .
+the bottle is not pink .it is gray .the bottle is gray .
+the bottle is not pink .it is green .the bottle is green .
+the bottle is not pink .it is purple .the bottle is purple .
+the bottle is not pink .it is red .the bottle is red .
+the bottle is not pink .it is white .the bottle is white .
+the bottle is not pink .it is yellow .the bottle is yellow .
+the bottle is not purple .it is black .the bottle is black .
+the bottle is not purple .it is blue .the bottle is blue .
+the bottle is not purple .it is brown .the bottle is brown .
+the bottle is not purple .it is gray .the bottle is gray .
+the bottle is not purple .it is green .the bottle is green .
+the bottle is not purple .it is pink .the bottle is pink .
+the bottle is not purple .it is red .the bottle is red .
+the bottle is not purple .it is white .the bottle is white .
+the bottle is not purple .it is yellow .the bottle is yellow .
+the bottle is not red .it is black .the bottle is black .
+the bottle is not red .it is brown .the bottle is brown .
+the bottle is not red .it is gray .the bottle is gray .
+the bottle is not red .it is green .the bottle is green .
+the bottle is not red .it is pink .the bottle is pink .
+the bottle is not red .it is purple .the bottle is purple .
+the bottle is not red .it is white .the bottle is white .
+the bottle is not red .it is yellow .the bottle is yellow .
+the bottle is not white .it is black .the bottle is black .
+the bottle is not white .it is blue .the bottle is blue .
+the bottle is not white .it is brown .the bottle is brown .
+the bottle is not white .it is gray .the bottle is gray .
+the bottle is not white .it is green .the bottle is green .
+the bottle is not white .it is pink .the bottle is pink .
+the bottle is not white .it is purple .the bottle is purple .
+the bottle is not white .it is red .the bottle is red .
+the bottle is not white .it is yellow .the bottle is yellow .
+the bottle is not yellow .it is black .the bottle is black .
+the bottle is not yellow .it is blue .the bottle is blue .
+the bottle is not yellow .it is brown .the bottle is brown .
+the bottle is not yellow .it is gray .the bottle is gray .
+the bottle is not yellow .it is green .the bottle is green .
+the bottle is not yellow .it is pink .the bottle is pink .
+the bottle is not yellow .it is purple .the bottle is purple .
+the bottle is not yellow .it is red .the bottle is red .
+the bottle is not yellow .it is white .the bottle is white .
+the box is not broken .it is fixed .the box is fixed .
+the box is not clean .it is dirty .the box is dirty .
+the box is not dirty .it is clean .the box is clean .
+the box is not fixed .it is broken .the box is broken .
+the box is not heavy .it is light .the box is light .
+the box is not here .it is missing .the box is missing .
+the box is not light .it is heavy .the box is heavy .
+the box is not missing .it is here .the box is here .
+the box is not narrow .it is wide .the box is wide .
+the box is not new .it is old .the box is old .
+the box is not old .it is new .the box is new .
+the box is not wide .it is narrow .the box is narrow .
+the bridge is not broken .it is fixed .the bridge is fixed .
+the bridge is not clean .it is dirty .the bridge is dirty .
+the bridge is not dirty .it is clean .the bridge is clean .
+the bridge is not fixed .it is broken .the bridge is broken .
+the bridge is not heavy .it is light .the bridge is light .
+the bridge is not here .it is missing .the bridge is missing .
+the bridge is not light .it is heavy .the bridge is heavy .
+the bridge is not missing .it is here .the bridge is here .
+the bridge is not narrow .it is wide .the bridge is wide .
+the bridge is not new .it is old .the bridge is old .
+the bridge is not old .it is new .the bridge is new .
+the bridge is not wide .it is narrow .the bridge is narrow .
+the bus is not black .it is blue .the bus is blue .
+the bus is not black .it is brown .the bus is brown .
+the bus is not black .it is gray .the bus is gray .
+the bus is not black .it is green .the bus is green .
+the bus is not black .it is pink .the bus is pink .
+the bus is not black .it is purple .the bus is purple .
+the bus is not black .it is red .the bus is red .
+the bus is not black .it is white .the bus is white .
+the bus is not black .it is yellow .the bus is yellow .
+the bus is not blue .it is black .the bus is black .
+the bus is not blue .it is brown .the bus is brown .
+the bus is not blue .it is gray .the bus is gray .
+the bus is not blue .it is green .the bus is green .
+the bus is not blue .it is pink .the bus is pink .
+the bus is not blue .it is purple .the bus is purple .
+the bus is not blue .it is red .the bus is red .
+the bus is not blue .it is white .the bus is white .
+the bus is not blue .it is yellow .the bus is yellow .
+the bus is not brown .it is black .the bus is black .
+the bus is not brown .it is blue .the bus is blue .
+the bus is not brown .it is gray .the bus is gray .
+the bus is not brown .it is green .the bus is green .
+the bus is not brown .it is pink .the bus is pink .
+the bus is not brown .it is purple .the bus is purple .
+the bus is not brown .it is red .the bus is red .
+the bus is not brown .it is white .the bus is white .
+the bus is not brown .it is yellow .the bus is yellow .
+the bus is not gray .it is black .the bus is black .
+the bus is not gray .it is blue .the bus is blue .
+the bus is not gray .it is brown .the bus is brown .
+the bus is not gray .it is green .the bus is green .
+the bus is not gray .it is pink .the bus is pink .
+the bus is not gray .it is purple .the bus is purple .
+the bus is not gray .it is red .the bus is red .
+the bus is not gray .it is white .the bus is white .
+the bus is not gray .it is yellow .the bus is yellow .
+the bus is not green .it is black .the bus is black .
+the bus is not green .it is blue .the bus is blue .
+the bus is not green .it is brown .the bus is brown .
+the bus is not green .it is gray .the bus is gray .
+the bus is not green .it is pink .the bus is pink .
+the bus is not green .it is purple .the bus is purple .
+the bus is not green .it is red .the bus is red .
+the bus is not green .it is white .the bus is white .
+the bus is not green .it is yellow .the bus is yellow .
+the bus is not pink .it is black .the bus is black .
+the bus is not pink .it is blue .the bus is blue .
+the bus is not pink .it is brown .the bus is brown .
+the bus is not pink .it is gray .the bus is gray .
+the bus is not pink .it is green .the bus is green .
+the bus is not pink .it is purple .the bus is purple .
+the bus is not pink .it is red .the bus is red .
+the bus is not pink .it is white .the bus is white .
+the bus is not pink .it is yellow .the bus is yellow .
+the bus is not purple .it is black .the bus is black .
+the bus is not purple .it is blue .the bus is blue .
+the bus is not purple .it is brown .the bus is brown .
+the bus is not purple .it is gray .the bus is gray .
+the bus is not purple .it is green .the bus is green .
+the bus is not purple .it is pink .the bus is pink .
+the bus is not purple .it is red .the bus is red .
+the bus is not purple .it is white .the bus is white .
+the bus is not purple .it is yellow .the bus is yellow .
+the bus is not red .it is black .the bus is black .
+the bus is not red .it is brown .the bus is brown .
+the bus is not red .it is gray .the bus is gray .
+the bus is not red .it is green .the bus is green .
+the bus is not red .it is pink .the bus is pink .
+the bus is not red .it is purple .the bus is purple .
+the bus is not red .it is white .the bus is white .
+the bus is not red .it is yellow .the bus is yellow .
+the bus is not white .it is black .the bus is black .
+the bus is not white .it is blue .the bus is blue .
+the bus is not white .it is brown .the bus is brown .
+the bus is not white .it is gray .the bus is gray .
+the bus is not white .it is green .the bus is green .
+the bus is not white .it is pink .the bus is pink .
+the bus is not white .it is purple .the bus is purple .
+the bus is not white .it is red .the bus is red .
+the bus is not white .it is yellow .the bus is yellow .
+the bus is not yellow .it is black .the bus is black .
+the bus is not yellow .it is blue .the bus is blue .
+the bus is not yellow .it is brown .the bus is brown .
+the bus is not yellow .it is gray .the bus is gray .
+the bus is not yellow .it is green .the bus is green .
+the bus is not yellow .it is pink .the bus is pink .
+the bus is not yellow .it is purple .the bus is purple .
+the bus is not yellow .it is red .the bus is red .
+the bus is not yellow .it is white .the bus is white .
+the car is not black .it is blue .the car is blue .
+the car is not black .it is brown .the car is brown .
+the car is not black .it is gray .the car is gray .
+the car is not black .it is green .the car is green .
+the car is not black .it is pink .the car is pink .
+the car is not black .it is purple .the car is purple .
+the car is not black .it is red .the car is red .
+the car is not black .it is white .the car is white .
+the car is not black .it is yellow .the car is yellow .
+the car is not blue .it is black .the car is black .
+the car is not blue .it is brown .the car is brown .
+the car is not blue .it is gray .the car is gray .
+the car is not blue .it is green .the car is green .
+the car is not blue .it is pink .the car is pink .
+the car is not blue .it is purple .the car is purple .
+the car is not blue .it is red .the car is red .
+the car is not blue .it is white .the car is white .
+the car is not blue .it is yellow .the car is yellow .
+the car is not brown .it is black .the car is black .
+the car is not brown .it is blue .the car is blue .
+the car is not brown .it is gray .the car is gray .
+the car is not brown .it is green .the car is green .
+the car is not brown .it is pink .the car is pink .
+the car is not brown .it is purple .the car is purple .
+the car is not brown .it is red .the car is red .
+the car is not brown .it is white .the car is white .
+the car is not brown .it is yellow .the car is yellow .
+the car is not gray .it is black .the car is black .
+the car is not gray .it is blue .the car is blue .
+the car is not gray .it is brown .the car is brown .
+the car is not gray .it is green .the car is green .
+the car is not gray .it is pink .the car is pink .
+the car is not gray .it is purple .the car is purple .
+the car is not gray .it is red .the car is red .
+the car is not gray .it is white .the car is white .
+the car is not gray .it is yellow .the car is yellow .
+the car is not green .it is black .the car is black .
+the car is not green .it is blue .the car is blue .
+the car is not green .it is brown .the car is brown .
+the car is not green .it is gray .the car is gray .
+the car is not green .it is pink .the car is pink .
+the car is not green .it is purple .the car is purple .
+the car is not green .it is red .the car is red .
+the car is not green .it is white .the car is white .
+the car is not green .it is yellow .the car is yellow .
+the car is not pink .it is black .the car is black .
+the car is not pink .it is blue .the car is blue .
+the car is not pink .it is brown .the car is brown .
+the car is not pink .it is gray .the car is gray .
+the car is not pink .it is green .the car is green .
+the car is not pink .it is purple .the car is purple .
+the car is not pink .it is red .the car is red .
+the car is not pink .it is white .the car is white .
+the car is not pink .it is yellow .the car is yellow .
+the car is not purple .it is black .the car is black .
+the car is not purple .it is blue .the car is blue .
+the car is not purple .it is brown .the car is brown .
+the car is not purple .it is gray .the car is gray .
+the car is not purple .it is green .the car is green .
+the car is not purple .it is pink .the car is pink .
+the car is not purple .it is red .the car is red .
+the car is not purple .it is white .the car is white .
+the car is not purple .it is yellow .the car is yellow .
+the car is not red .it is black .the car is black .
+the car is not red .it is brown .the car is brown .
+the car is not red .it is gray .the car is gray .
+the car is not red .it is green .the car is green .
+the car is not red .it is pink .the car is pink .
+the car is not red .it is purple .the car is purple .
+the car is not red .it is white .the car is white .
+the car is not red .it is yellow .the car is yellow .
+the car is not white .it is black .the car is black .
+the car is not white .it is blue .the car is blue .
+the car is not white .it is brown .the car is brown .
+the car is not white .it is gray .the car is gray .
+the car is not white .it is green .the car is green .
+the car is not white .it is pink .the car is pink .
+the car is not white .it is purple .the car is purple .
+the car is not white .it is red .the car is red .
+the car is not white .it is yellow .the car is yellow .
+the car is not yellow .it is black .the car is black .
+the car is not yellow .it is blue .the car is blue .
+the car is not yellow .it is brown .the car is brown .
+the car is not yellow .it is gray .the car is gray .
+the car is not yellow .it is green .the car is green .
+the car is not yellow .it is pink .the car is pink .
+the car is not yellow .it is purple .the car is purple .
+the car is not yellow .it is red .the car is red .
+the car is not yellow .it is white .the car is white .
+the chair is not black .it is blue .the chair is blue .
+the chair is not black .it is brown .the chair is brown .
+the chair is not black .it is gray .the chair is gray .
+the chair is not black .it is green .the chair is green .
+the chair is not black .it is pink .the chair is pink .
+the chair is not black .it is purple .the chair is purple .
+the chair is not black .it is red .the chair is red .
+the chair is not black .it is white .the chair is white .
+the chair is not black .it is yellow .the chair is yellow .
+the chair is not blue .it is black .the chair is black .
+the chair is not blue .it is brown .the chair is brown .
+the chair is not blue .it is gray .the chair is gray .
+the chair is not blue .it is green .the chair is green .
+the chair is not blue .it is pink .the chair is pink .
+the chair is not blue .it is purple .the chair is purple .
+the chair is not blue .it is red .the chair is red .
+the chair is not blue .it is white .the chair is white .
+the chair is not blue .it is yellow .the chair is yellow .
+the chair is not brown .it is black .the chair is black .
+the chair is not brown .it is blue .the chair is blue .
+the chair is not brown .it is gray .the chair is gray .
+the chair is not brown .it is green .the chair is green .
+the chair is not brown .it is pink .the chair is pink .
+the chair is not brown .it is purple .the chair is purple .
+the chair is not brown .it is red .the chair is red .
+the chair is not brown .it is white .the chair is white .
+the chair is not brown .it is yellow .the chair is yellow .
+the chair is not gray .it is black .the chair is black .
+the chair is not gray .it is blue .the chair is blue .
+the chair is not gray .it is brown .the chair is brown .
+the chair is not gray .it is green .the chair is green .
+the chair is not gray .it is pink .the chair is pink .
+the chair is not gray .it is purple .the chair is purple .
+the chair is not gray .it is red .the chair is red .
+the chair is not gray .it is white .the chair is white .
+the chair is not gray .it is yellow .the chair is yellow .
+the chair is not green .it is black .the chair is black .
+the chair is not green .it is blue .the chair is blue .
+the chair is not green .it is brown .the chair is brown .
+the chair is not green .it is gray .the chair is gray .
+the chair is not green .it is pink .the chair is pink .
+the chair is not green .it is purple .the chair is purple .
+the chair is not green .it is red .the chair is red .
+the chair is not green .it is white .the chair is white .
+the chair is not green .it is yellow .the chair is yellow .
+the chair is not pink .it is black .the chair is black .
+the chair is not pink .it is blue .the chair is blue .
+the chair is not pink .it is brown .the chair is brown .
+the chair is not pink .it is gray .the chair is gray .
+the chair is not pink .it is green .the chair is green .
+the chair is not pink .it is purple .the chair is purple .
+the chair is not pink .it is red .the chair is red .
+the chair is not pink .it is white .the chair is white .
+the chair is not pink .it is yellow .the chair is yellow .
+the chair is not purple .it is black .the chair is black .
+the chair is not purple .it is blue .the chair is blue .
+the chair is not purple .it is brown .the chair is brown .
+the chair is not purple .it is gray .the chair is gray .
+the chair is not purple .it is green .the chair is green .
+the chair is not purple .it is pink .the chair is pink .
+the chair is not purple .it is red .the chair is red .
+the chair is not purple .it is white .the chair is white .
+the chair is not purple .it is yellow .the chair is yellow .
+the chair is not red .it is black .the chair is black .
+the chair is not red .it is brown .the chair is brown .
+the chair is not red .it is gray .the chair is gray .
+the chair is not red .it is green .the chair is green .
+the chair is not red .it is pink .the chair is pink .
+the chair is not red .it is purple .the chair is purple .
+the chair is not red .it is white .the chair is white .
+the chair is not red .it is yellow .the chair is yellow .
+the chair is not white .it is black .the chair is black .
+the chair is not white .it is blue .the chair is blue .
+the chair is not white .it is brown .the chair is brown .
+the chair is not white .it is gray .the chair is gray .
+the chair is not white .it is green .the chair is green .
+the chair is not white .it is pink .the chair is pink .
+the chair is not white .it is purple .the chair is purple .
+the chair is not white .it is red .the chair is red .
+the chair is not white .it is yellow .the chair is yellow .
+the chair is not yellow .it is black .the chair is black .
+the chair is not yellow .it is blue .the chair is blue .
+the chair is not yellow .it is brown .the chair is brown .
+the chair is not yellow .it is gray .the chair is gray .
+the chair is not yellow .it is green .the chair is green .
+the chair is not yellow .it is pink .the chair is pink .
+the chair is not yellow .it is purple .the chair is purple .
+the chair is not yellow .it is red .the chair is red .
+the chair is not yellow .it is white .the chair is white .
+the coat is not black .it is blue .the coat is blue .
+the coat is not black .it is brown .the coat is brown .
+the coat is not black .it is gray .the coat is gray .
+the coat is not black .it is green .the coat is green .
+the coat is not black .it is pink .the coat is pink .
+the coat is not black .it is purple .the coat is purple .
+the coat is not black .it is red .the coat is red .
+the coat is not black .it is white .the coat is white .
+the coat is not black .it is yellow .the coat is yellow .
+the coat is not blue .it is black .the coat is black .
+the coat is not blue .it is brown .the coat is brown .
+the coat is not blue .it is gray .the coat is gray .
+the coat is not blue .it is green .the coat is green .
+the coat is not blue .it is pink .the coat is pink .
+the coat is not blue .it is purple .the coat is purple .
+the coat is not blue .it is red .the coat is red .
+the coat is not blue .it is white .the coat is white .
+the coat is not blue .it is yellow .the coat is yellow .
+the coat is not brown .it is black .the coat is black .
+the coat is not brown .it is blue .the coat is blue .
+the coat is not brown .it is gray .the coat is gray .
+the coat is not brown .it is green .the coat is green .
+the coat is not brown .it is pink .the coat is pink .
+the coat is not brown .it is purple .the coat is purple .
+the coat is not brown .it is red .the coat is red .
+the coat is not brown .it is white .the coat is white .
+the coat is not brown .it is yellow .the coat is yellow .
+the coat is not gray .it is black .the coat is black .
+the coat is not gray .it is blue .the coat is blue .
+the coat is not gray .it is brown .the coat is brown .
+the coat is not gray .it is green .the coat is green .
+the coat is not gray .it is pink .the coat is pink .
+the coat is not gray .it is purple .the coat is purple .
+the coat is not gray .it is red .the coat is red .
+the coat is not gray .it is white .the coat is white .
+the coat is not gray .it is yellow .the coat is yellow .
+the coat is not green .it is black .the coat is black .
+the coat is not green .it is blue .the coat is blue .
+the coat is not green .it is brown .the coat is brown .
+the coat is not green .it is gray .the coat is gray .
+the coat is not green .it is pink .the coat is pink .
+the coat is not green .it is purple .the coat is purple .
+the coat is not green .it is red .the coat is red .
+the coat is not green .it is white .the coat is white .
+the coat is not green .it is yellow .the coat is yellow .
+the coat is not pink .it is black .the coat is black .
+the coat is not pink .it is blue .the coat is blue .
+the coat is not pink .it is brown .the coat is brown .
+the coat is not pink .it is gray .the coat is gray .
+the coat is not pink .it is green .the coat is green .
+the coat is not pink .it is purple .the coat is purple .
+the coat is not pink .it is red .the coat is red .
+the coat is not pink .it is white .the coat is white .
+the coat is not pink .it is yellow .the coat is yellow .
+the coat is not purple .it is black .the coat is black .
+the coat is not purple .it is blue .the coat is blue .
+the coat is not purple .it is brown .the coat is brown .
+the coat is not purple .it is gray .the coat is gray .
+the coat is not purple .it is green .the coat is green .
+the coat is not purple .it is pink .the coat is pink .
+the coat is not purple .it is red .the coat is red .
+the coat is not purple .it is white .the coat is white .
+the coat is not purple .it is yellow .the coat is yellow .
+the coat is not red .it is black .the coat is black .
+the coat is not red .it is brown .the coat is brown .
+the coat is not red .it is gray .the coat is gray .
+the coat is not red .it is green .the coat is green .
+the coat is not red .it is pink .the coat is pink .
+the coat is not red .it is purple .the coat is purple .
+the coat is not red .it is white .the coat is white .
+the coat is not red .it is yellow .the coat is yellow .
+the coat is not white .it is black .the coat is black .
+the coat is not white .it is blue .the coat is blue .
+the coat is not white .it is brown .the coat is brown .
+the coat is not white .it is gray .the coat is gray .
+the coat is not white .it is green .the coat is green .
+the coat is not white .it is pink .the coat is pink .
+the coat is not white .it is purple .the coat is purple .
+the coat is not white .it is red .the coat is red .
+the coat is not white .it is yellow .the coat is yellow .
+the coat is not yellow .it is black .the coat is black .
+the coat is not yellow .it is blue .the coat is blue .
+the coat is not yellow .it is brown .the coat is brown .
+the coat is not yellow .it is gray .the coat is gray .
+the coat is not yellow .it is green .the coat is green .
+the coat is not yellow .it is pink .the coat is pink .
+the coat is not yellow .it is purple .the coat is purple .
+the coat is not yellow .it is red .the coat is red .
+the coat is not yellow .it is white .the coat is white .
+the cup is not black .it is blue .the cup is blue .
+the cup is not black .it is brown .the cup is brown .
+the cup is not black .it is gray .the cup is gray .
+the cup is not black .it is green .the cup is green .
+the cup is not black .it is pink .the cup is pink .
+the cup is not black .it is purple .the cup is purple .
+the cup is not black .it is red .the cup is red .
+the cup is not black .it is white .the cup is white .
+the cup is not black .it is yellow .the cup is yellow .
+the cup is not blue .it is black .the cup is black .
+the cup is not blue .it is brown .the cup is brown .
+the cup is not blue .it is gray .the cup is gray .
+the cup is not blue .it is green .the cup is green .
+the cup is not blue .it is pink .the cup is pink .
+the cup is not blue .it is purple .the cup is purple .
+the cup is not blue .it is red .the cup is red .
+the cup is not blue .it is white .the cup is white .
+the cup is not blue .it is yellow .the cup is yellow .
+the cup is not brown .it is black .the cup is black .
+the cup is not brown .it is blue .the cup is blue .
+the cup is not brown .it is gray .the cup is gray .
+the cup is not brown .it is green .the cup is green .
+the cup is not brown .it is pink .the cup is pink .
+the cup is not brown .it is purple .the cup is purple .
+the cup is not brown .it is red .the cup is red .
+the cup is not brown .it is white .the cup is white .
+the cup is not brown .it is yellow .the cup is yellow .
+the cup is not gray .it is black .the cup is black .
+the cup is not gray .it is blue .the cup is blue .
+the cup is not gray .it is brown .the cup is brown .
+the cup is not gray .it is green .the cup is green .
+the cup is not gray .it is pink .the cup is pink .
+the cup is not gray .it is purple .the cup is purple .
+the cup is not gray .it is red .the cup is red .
+the cup is not gray .it is white .the cup is white .
+the cup is not gray .it is yellow .the cup is yellow .
+the cup is not green .it is black .the cup is black .
+the cup is not green .it is blue .the cup is blue .
+the cup is not green .it is brown .the cup is brown .
+the cup is not green .it is gray .the cup is gray .
+the cup is not green .it is pink .the cup is pink .
+the cup is not green .it is purple .the cup is purple .
+the cup is not green .it is red .the cup is red .
+the cup is not green .it is white .the cup is white .
+the cup is not green .it is yellow .the cup is yellow .
+the cup is not pink .it is black .the cup is black .
+the cup is not pink .it is blue .the cup is blue .
+the cup is not pink .it is brown .the cup is brown .
+the cup is not pink .it is gray .the cup is gray .
+the cup is not pink .it is green .the cup is green .
+the cup is not pink .it is purple .the cup is purple .
+the cup is not pink .it is red .the cup is red .
+the cup is not pink .it is white .the cup is white .
+the cup is not pink .it is yellow .the cup is yellow .
+the cup is not purple .it is black .the cup is black .
+the cup is not purple .it is blue .the cup is blue .
+the cup is not purple .it is brown .the cup is brown .
+the cup is not purple .it is gray .the cup is gray .
+the cup is not purple .it is green .the cup is green .
+the cup is not purple .it is pink .the cup is pink .
+the cup is not purple .it is red .the cup is red .
+the cup is not purple .it is white .the cup is white .
+the cup is not purple .it is yellow .the cup is yellow .
+the cup is not red .it is black .the cup is black .
+the cup is not red .it is brown .the cup is brown .
+the cup is not red .it is gray .the cup is gray .
+the cup is not red .it is green .the cup is green .
+the cup is not red .it is pink .the cup is pink .
+the cup is not red .it is purple .the cup is purple .
+the cup is not red .it is white .the cup is white .
+the cup is not red .it is yellow .the cup is yellow .
+the cup is not white .it is black .the cup is black .
+the cup is not white .it is blue .the cup is blue .
+the cup is not white .it is brown .the cup is brown .
+the cup is not white .it is gray .the cup is gray .
+the cup is not white .it is green .the cup is green .
+the cup is not white .it is pink .the cup is pink .
+the cup is not white .it is purple .the cup is purple .
+the cup is not white .it is red .the cup is red .
+the cup is not white .it is yellow .the cup is yellow .
+the cup is not yellow .it is black .the cup is black .
+the cup is not yellow .it is blue .the cup is blue .
+the cup is not yellow .it is brown .the cup is brown .
+the cup is not yellow .it is gray .the cup is gray .
+the cup is not yellow .it is green .the cup is green .
+the cup is not yellow .it is pink .the cup is pink .
+the cup is not yellow .it is purple .the cup is purple .
+the cup is not yellow .it is red .the cup is red .
+the cup is not yellow .it is white .the cup is white .
+the customer is not at the bank .he is at the market .the customer is at the market .
+the customer is not at the bank .he is at the office .the customer is at the office .
+the customer is not at the bank .he is at the school .the customer is at the school .
+the customer is not at the bank .he is at the station .the customer is at the station .
+the customer is not at the bank .he is at the store .the customer is at the store .
+the customer is not at the bank .she is at the hospital .the customer is at the hospital .
+the customer is not at the bank .she is at the kitchen .the customer is at the kitchen .
+the customer is not at the hospital .he is at the kitchen .the customer is at the kitchen .
+the customer is not at the hospital .he is at the market .the customer is at the market .
+the customer is not at the hospital .he is at the office .the customer is at the office .
+the customer is not at the hospital .she is at the bank .the customer is at the bank .
+the customer is not at the hospital .she is at the school .the customer is at the school .
+the customer is not at the hospital .she is at the station .the customer is at the station .
+the customer is not at the hospital .she is at the store .the customer is at the store .
+the customer is not at the kitchen .he is at the hospital .the customer is at the hospital .
+the customer is not at the kitchen .he is at the store .the customer is at the store .
+the customer is not at the kitchen .she is at the bank .the customer is at the bank .
+the customer is not at the kitchen .she is at the market .the customer is at the market .
+the customer is not at the kitchen .she is at the office .the customer is at the office .
+the customer is not at the kitchen .she is at the school .the customer is at the school .
+the customer is not at the kitchen .she is at the station .the customer is at the station .
+the customer is not at the market .he is at the bank .the customer is at the bank .
+the customer is not at the market .he is at the office .the customer is at the office .
+the customer is not at the market .he is at the school .the customer is at the school .
+the customer is not at the market .he is at the station .the customer is at the station .
+the customer is not at the market .she is at the hospital .the customer is at the hospital .
+the customer is not at the market .she is at the kitchen .the customer is at the kitchen .
+the customer is not at the market .she is at the store .the customer is at the store .
+the customer is not at the office .he is at the bank .the customer is at the bank .
+the customer is not at the office .he is at the hospital .the customer is at the hospital .
+the customer is not at the office .she is at the kitchen .the customer is at the kitchen .
+the customer is not at the office .she is at the market .the customer is at the market .
+the customer is not at the office .she is at the school .the customer is at the school .
+the customer is not at the office .she is at the station .the customer is at the station .
+the customer is not at the office .she is at the store .the customer is at the store .
+the customer is not at the school .he is at the kitchen .the customer is at the kitchen .
+the customer is not at the school .she is at the bank .the customer is at the bank .
+the customer is not at the school .she is at the hospital .the customer is at the hospital .
+the customer is not at the school .she is at the market .the customer is at the market .
+the customer is not at the school .she is at the office .the customer is at the office .
+the customer is not at the school .she is at the station .the customer is at the station .
+the customer is not at the school .she is at the store .the customer is at the store .
+the customer is not at the station .he is at the hospital .the customer is at the hospital .
+the customer is not at the station .he is at the kitchen .the customer is at the kitchen .
+the customer is not at the station .he is at the office .the customer is at the office .
+the customer is not at the station .he is at the school .the customer is at the school .
+the customer is not at the station .she is at the bank .the customer is at the bank .
+the customer is not at the station .she is at the market .the customer is at the market .
+the customer is not at the station .she is at the store .the customer is at the store .
+the customer is not at the store .he is at the bank .the customer is at the bank .
+the customer is not at the store .he is at the hospital .the customer is at the hospital .
+the customer is not at the store .he is at the market .the customer is at the market .
+the customer is not at the store .he is at the school .the customer is at the school .
+the customer is not at the store .he is at the station .the customer is at the station .
+the customer is not at the store .she is at the kitchen .the customer is at the kitchen .
+the customer is not at the store .she is at the office .the customer is at the office .
+the doctor is not at the bank .he is at the market .the doctor is at the market .
+the doctor is not at the bank .he is at the office .the doctor is at the office .
+the doctor is not at the bank .he is at the store .the doctor is at the store .
+the doctor is not at the bank .she is at the hospital .the doctor is at the hospital .
+the doctor is not at the bank .she is at the kitchen .the doctor is at the kitchen .
+the doctor is not at the bank .she is at the school .the doctor is at the school .
+the doctor is not at the bank .she is at the station .the doctor is at the station .
+the doctor is not at the hospital .he is at the bank .the doctor is at the bank .
+the doctor is not at the hospital .he is at the kitchen .the doctor is at the kitchen .
+the doctor is not at the hospital .he is at the office .the doctor is at the office .
+the doctor is not at the hospital .he is at the station .the doctor is at the station .
+the doctor is not at the hospital .she is at the market .the doctor is at the market .
+the doctor is not at the hospital .she is at the school .the doctor is at the school .
+the doctor is not at the hospital .she is at the store .the doctor is at the store .
+the doctor is not at the kitchen .he is at the office .the doctor is at the office .
+the doctor is not at the kitchen .he is at the school .the doctor is at the school .
+the doctor is not at the kitchen .he is at the station .the doctor is at the station .
+the doctor is not at the kitchen .he is at the store .the doctor is at the store .
+the doctor is not at the kitchen .she is at the bank .the doctor is at the bank .
+the doctor is not at the kitchen .she is at the hospital .the doctor is at the hospital .
+the doctor is not at the kitchen .she is at the market .the doctor is at the market .
+the doctor is not at the market .he is at the hospital .the doctor is at the hospital .
+the doctor is not at the market .he is at the office .the doctor is at the office .
+the doctor is not at the market .he is at the station .the doctor is at the station .
+the doctor is not at the market .she is at the bank .the doctor is at the bank .
+the doctor is not at the market .she is at the kitchen .the doctor is at the kitchen .
+the doctor is not at the market .she is at the school .the doctor is at the school .
+the doctor is not at the market .she is at the store .the doctor is at the store .
+the doctor is not at the office .he is at the bank .the doctor is at the bank .
+the doctor is not at the office .he is at the hospital .the doctor is at the hospital .
+the doctor is not at the office .she is at the kitchen .the doctor is at the kitchen .
+the doctor is not at the office .she is at the market .the doctor is at the market .
+the doctor is not at the office .she is at the school .the doctor is at the school .
+the doctor is not at the office .she is at the station .the doctor is at the station .
+the doctor is not at the office .she is at the store .the doctor is at the store .
+the doctor is not at the school .he is at the hospital .the doctor is at the hospital .
+the doctor is not at the school .he is at the kitchen .the doctor is at the kitchen .
+the doctor is not at the school .he is at the market .the doctor is at the market .
+the doctor is not at the school .she is at the bank .the doctor is at the bank .
+the doctor is not at the school .she is at the office .the doctor is at the office .
+the doctor is not at the school .she is at the station .the doctor is at the station .
+the doctor is not at the school .she is at the store .the doctor is at the store .
+the doctor is not at the station .he is at the bank .the doctor is at the bank .
+the doctor is not at the station .he is at the kitchen .the doctor is at the kitchen .
+the doctor is not at the station .he is at the market .the doctor is at the market .
+the doctor is not at the station .he is at the office .the doctor is at the office .
+the doctor is not at the station .he is at the school .the doctor is at the school .
+the doctor is not at the station .he is at the store .the doctor is at the store .
+the doctor is not at the station .she is at the hospital .the doctor is at the hospital .
+the doctor is not at the store .he is at the kitchen .the doctor is at the kitchen .
+the doctor is not at the store .he is at the office .the doctor is at the office .
+the doctor is not at the store .he is at the school .the doctor is at the school .
+the doctor is not at the store .she is at the bank .the doctor is at the bank .
+the doctor is not at the store .she is at the hospital .the doctor is at the hospital .
+the doctor is not at the store .she is at the market .the doctor is at the market .
+the doctor is not at the store .she is at the station .the doctor is at the station .
+the door is not broken .it is fixed .the door is fixed .
+the door is not clean .it is dirty .the door is dirty .
+the door is not dirty .it is clean .the door is clean .
+the door is not fixed .it is broken .the door is broken .
+the door is not heavy .it is light .the door is light .
+the door is not here .it is missing .the door is missing .
+the door is not light .it is heavy .the door is heavy .
+the door is not missing .it is here .the door is here .
+the door is not narrow .it is wide .the door is wide .
+the door is not new .it is old .the door is old .
+the door is not old .it is new .the door is new .
+the door is not wide .it is narrow .the door is narrow .
+the driver is not at the bank .he is at the kitchen .the driver is at the kitchen .
+the driver is not at the bank .he is at the school .the driver is at the school .
+the driver is not at the bank .he is at the station .the driver is at the station .
+the driver is not at the bank .he is at the store .the driver is at the store .
+the driver is not at the bank .she is at the hospital .the driver is at the hospital .
+the driver is not at the bank .she is at the market .the driver is at the market .
+the driver is not at the bank .she is at the office .the driver is at the office .
+the driver is not at the hospital .he is at the market .the driver is at the market .
+the driver is not at the hospital .he is at the station .the driver is at the station .
+the driver is not at the hospital .she is at the bank .the driver is at the bank .
+the driver is not at the hospital .she is at the kitchen .the driver is at the kitchen .
+the driver is not at the hospital .she is at the office .the driver is at the office .
+the driver is not at the hospital .she is at the school .the driver is at the school .
+the driver is not at the hospital .she is at the store .the driver is at the store .
+the driver is not at the kitchen .he is at the bank .the driver is at the bank .
+the driver is not at the kitchen .he is at the market .the driver is at the market .
+the driver is not at the kitchen .he is at the station .the driver is at the station .
+the driver is not at the kitchen .he is at the store .the driver is at the store .
+the driver is not at the kitchen .she is at the hospital .the driver is at the hospital .
+the driver is not at the kitchen .she is at the office .the driver is at the office .
+the driver is not at the kitchen .she is at the school .the driver is at the school .
+the driver is not at the market .he is at the hospital .the driver is at the hospital .
+the driver is not at the market .he is at the kitchen .the driver is at the kitchen .
+the driver is not at the market .he is at the school .the driver is at the school .
+the driver is not at the market .he is at the store .the driver is at the store .
+the driver is not at the market .she is at the bank .the driver is at the bank .
+the driver is not at the market .she is at the office .the driver is at the office .
+the driver is not at the market .she is at the station .the driver is at the station .
+the driver is not at the office .he is at the bank .the driver is at the bank .
+the driver is not at the office .he is at the hospital .the driver is at the hospital .
+the driver is not at the office .he is at the station .the driver is at the station .
+the driver is not at the office .he is at the store .the driver is at the store .
+the driver is not at the office .she is at the kitchen .the driver is at the kitchen .
+the driver is not at the office .she is at the market .the driver is at the market .
+the driver is not at the office .she is at the school .the driver is at the school .
+the driver is not at the school .he is at the bank .the driver is at the bank .
+the driver is not at the school .he is at the kitchen .the driver is at the kitchen .
+the driver is not at the school .he is at the office .the driver is at the office .
+the driver is not at the school .he is at the station .the driver is at the station .
+the driver is not at the school .he is at the store .the driver is at the store .
+the driver is not at the school .she is at the hospital .the driver is at the hospital .
+the driver is not at the school .she is at the market .the driver is at the market .
+the driver is not at the station .he is at the bank .the driver is at the bank .
+the driver is not at the station .he is at the hospital .the driver is at the hospital .
+the driver is not at the station .he is at the kitchen .the driver is at the kitchen .
+the driver is not at the station .he is at the market .the driver is at the market .
+the driver is not at the station .he is at the office .the driver is at the office .
+the driver is not at the station .he is at the store .the driver is at the store .
+the driver is not at the station .she is at the school .the driver is at the school .
+the driver is not at the store .he is at the hospital .the driver is at the hospital .
+the driver is not at the store .he is at the kitchen .the driver is at the kitchen .
+the driver is not at the store .he is at the station .the driver is at the station .
+the driver is not at the store .she is at the bank .the driver is at the bank .
+the driver is not at the store .she is at the market .the driver is at the market .
+the driver is not at the store .she is at the office .the driver is at the office .
+the driver is not at the store .she is at the school .the driver is at the school .
+the gate is not broken .it is fixed .the gate is fixed .
+the gate is not clean .it is dirty .the gate is dirty .
+the gate is not closed .it is open .the gate is open .
+the gate is not dirty .it is clean .the gate is clean .
+the gate is not fixed .it is broken .the gate is broken .
+the gate is not heavy .it is light .the gate is light .
+the gate is not here .it is missing .the gate is missing .
+the gate is not light .it is heavy .the gate is heavy .
+the gate is not missing .it is here .the gate is here .
+the gate is not narrow .it is wide .the gate is wide .
+the gate is not new .it is old .the gate is old .
+the gate is not old .it is new .the gate is new .
+the gate is not wide .it is narrow .the gate is narrow .
+the hat is not black .it is blue .the hat is blue .
+the hat is not black .it is brown .the hat is brown .
+the hat is not black .it is gray .the hat is gray .
+the hat is not black .it is green .the hat is green .
+the hat is not black .it is pink .the hat is pink .
+the hat is not black .it is purple .the hat is purple .
+the hat is not black .it is red .the hat is red .
+the hat is not black .it is white .the hat is white .
+the hat is not black .it is yellow .the hat is yellow .
+the hat is not blue .it is black .the hat is black .
+the hat is not blue .it is brown .the hat is brown .
+the hat is not blue .it is gray .the hat is gray .
+the hat is not blue .it is green .the hat is green .
+the hat is not blue .it is pink .the hat is pink .
+the hat is not blue .it is purple .the hat is purple .
+the hat is not blue .it is red .the hat is red .
+the hat is not blue .it is white .the hat is white .
+the hat is not blue .it is yellow .the hat is yellow .
+the hat is not brown .it is black .the hat is black .
+the hat is not brown .it is blue .the hat is blue .
+the hat is not brown .it is gray .the hat is gray .
+the hat is not brown .it is green .the hat is green .
+the hat is not brown .it is pink .the hat is pink .
+the hat is not brown .it is purple .the hat is purple .
+the hat is not brown .it is red .the hat is red .
+the hat is not brown .it is white .the hat is white .
+the hat is not brown .it is yellow .the hat is yellow .
+the hat is not gray .it is black .the hat is black .
+the hat is not gray .it is blue .the hat is blue .
+the hat is not gray .it is brown .the hat is brown .
+the hat is not gray .it is green .the hat is green .
+the hat is not gray .it is pink .the hat is pink .
+the hat is not gray .it is purple .the hat is purple .
+the hat is not gray .it is red .the hat is red .
+the hat is not gray .it is white .the hat is white .
+the hat is not gray .it is yellow .the hat is yellow .
+the hat is not green .it is black .the hat is black .
+the hat is not green .it is blue .the hat is blue .
+the hat is not green .it is brown .the hat is brown .
+the hat is not green .it is gray .the hat is gray .
+the hat is not green .it is pink .the hat is pink .
+the hat is not green .it is purple .the hat is purple .
+the hat is not green .it is red .the hat is red .
+the hat is not green .it is white .the hat is white .
+the hat is not green .it is yellow .the hat is yellow .
+the hat is not pink .it is black .the hat is black .
+the hat is not pink .it is blue .the hat is blue .
+the hat is not pink .it is brown .the hat is brown .
+the hat is not pink .it is gray .the hat is gray .
+the hat is not pink .it is green .the hat is green .
+the hat is not pink .it is purple .the hat is purple .
+the hat is not pink .it is red .the hat is red .
+the hat is not pink .it is white .the hat is white .
+the hat is not pink .it is yellow .the hat is yellow .
+the hat is not purple .it is black .the hat is black .
+the hat is not purple .it is blue .the hat is blue .
+the hat is not purple .it is brown .the hat is brown .
+the hat is not purple .it is gray .the hat is gray .
+the hat is not purple .it is green .the hat is green .
+the hat is not purple .it is pink .the hat is pink .
+the hat is not purple .it is red .the hat is red .
+the hat is not purple .it is white .the hat is white .
+the hat is not purple .it is yellow .the hat is yellow .
+the hat is not red .it is black .the hat is black .
+the hat is not red .it is brown .the hat is brown .
+the hat is not red .it is gray .the hat is gray .
+the hat is not red .it is green .the hat is green .
+the hat is not red .it is pink .the hat is pink .
+the hat is not red .it is purple .the hat is purple .
+the hat is not red .it is white .the hat is white .
+the hat is not red .it is yellow .the hat is yellow .
+the hat is not white .it is black .the hat is black .
+the hat is not white .it is blue .the hat is blue .
+the hat is not white .it is brown .the hat is brown .
+the hat is not white .it is gray .the hat is gray .
+the hat is not white .it is green .the hat is green .
+the hat is not white .it is pink .the hat is pink .
+the hat is not white .it is purple .the hat is purple .
+the hat is not white .it is red .the hat is red .
+the hat is not white .it is yellow .the hat is yellow .
+the hat is not yellow .it is black .the hat is black .
+the hat is not yellow .it is blue .the hat is blue .
+the hat is not yellow .it is brown .the hat is brown .
+the hat is not yellow .it is gray .the hat is gray .
+the hat is not yellow .it is green .the hat is green .
+the hat is not yellow .it is pink .the hat is pink .
+the hat is not yellow .it is purple .the hat is purple .
+the hat is not yellow .it is red .the hat is red .
+the hat is not yellow .it is white .the hat is white .
+the kitchen is not closed .it is open .the kitchen is open .
+the lamp is not black .it is blue .the lamp is blue .
+the lamp is not black .it is brown .the lamp is brown .
+the lamp is not black .it is gray .the lamp is gray .
+the lamp is not black .it is green .the lamp is green .
+the lamp is not black .it is pink .the lamp is pink .
+the lamp is not black .it is purple .the lamp is purple .
+the lamp is not black .it is red .the lamp is red .
+the lamp is not black .it is white .the lamp is white .
+the lamp is not black .it is yellow .the lamp is yellow .
+the lamp is not blue .it is black .the lamp is black .
+the lamp is not blue .it is brown .the lamp is brown .
+the lamp is not blue .it is gray .the lamp is gray .
+the lamp is not blue .it is green .the lamp is green .
+the lamp is not blue .it is pink .the lamp is pink .
+the lamp is not blue .it is purple .the lamp is purple .
+the lamp is not blue .it is red .the lamp is red .
+the lamp is not blue .it is white .the lamp is white .
+the lamp is not blue .it is yellow .the lamp is yellow .
+the lamp is not brown .it is black .the lamp is black .
+the lamp is not brown .it is blue .the lamp is blue .
+the lamp is not brown .it is gray .the lamp is gray .
+the lamp is not brown .it is green .the lamp is green .
+the lamp is not brown .it is pink .the lamp is pink .
+the lamp is not brown .it is purple .the lamp is purple .
+the lamp is not brown .it is red .the lamp is red .
+the lamp is not brown .it is white .the lamp is white .
+the lamp is not brown .it is yellow .the lamp is yellow .
+the lamp is not gray .it is black .the lamp is black .
+the lamp is not gray .it is blue .the lamp is blue .
+the lamp is not gray .it is brown .the lamp is brown .
+the lamp is not gray .it is green .the lamp is green .
+the lamp is not gray .it is pink .the lamp is pink .
+the lamp is not gray .it is purple .the lamp is purple .
+the lamp is not gray .it is red .the lamp is red .
+the lamp is not gray .it is white .the lamp is white .
+the lamp is not gray .it is yellow .the lamp is yellow .
+the lamp is not green .it is black .the lamp is black .
+the lamp is not green .it is blue .the lamp is blue .
+the lamp is not green .it is brown .the lamp is brown .
+the lamp is not green .it is gray .the lamp is gray .
+the lamp is not green .it is pink .the lamp is pink .
+the lamp is not green .it is purple .the lamp is purple .
+the lamp is not green .it is red .the lamp is red .
+the lamp is not green .it is white .the lamp is white .
+the lamp is not green .it is yellow .the lamp is yellow .
+the lamp is not pink .it is black .the lamp is black .
+the lamp is not pink .it is blue .the lamp is blue .
+the lamp is not pink .it is brown .the lamp is brown .
+the lamp is not pink .it is gray .the lamp is gray .
+the lamp is not pink .it is green .the lamp is green .
+the lamp is not pink .it is purple .the lamp is purple .
+the lamp is not pink .it is red .the lamp is red .
+the lamp is not pink .it is white .the lamp is white .
+the lamp is not pink .it is yellow .the lamp is yellow .
+the lamp is not purple .it is black .the lamp is black .
+the lamp is not purple .it is blue .the lamp is blue .
+the lamp is not purple .it is brown .the lamp is brown .
+the lamp is not purple .it is gray .the lamp is gray .
+the lamp is not purple .it is green .the lamp is green .
+the lamp is not purple .it is pink .the lamp is pink .
+the lamp is not purple .it is red .the lamp is red .
+the lamp is not purple .it is white .the lamp is white .
+the lamp is not purple .it is yellow .the lamp is yellow .
+the lamp is not red .it is black .the lamp is black .
+the lamp is not red .it is brown .the lamp is brown .
+the lamp is not red .it is gray .the lamp is gray .
+the lamp is not red .it is green .the lamp is green .
+the lamp is not red .it is pink .the lamp is pink .
+the lamp is not red .it is purple .the lamp is purple .
+the lamp is not red .it is white .the lamp is white .
+the lamp is not red .it is yellow .the lamp is yellow .
+the lamp is not white .it is black .the lamp is black .
+the lamp is not white .it is blue .the lamp is blue .
+the lamp is not white .it is brown .the lamp is brown .
+the lamp is not white .it is gray .the lamp is gray .
+the lamp is not white .it is green .the lamp is green .
+the lamp is not white .it is pink .the lamp is pink .
+the lamp is not white .it is purple .the lamp is purple .
+the lamp is not white .it is red .the lamp is red .
+the lamp is not white .it is yellow .the lamp is yellow .
+the lamp is not yellow .it is black .the lamp is black .
+the lamp is not yellow .it is blue .the lamp is blue .
+the lamp is not yellow .it is brown .the lamp is brown .
+the lamp is not yellow .it is gray .the lamp is gray .
+the lamp is not yellow .it is green .the lamp is green .
+the lamp is not yellow .it is pink .the lamp is pink .
+the lamp is not yellow .it is purple .the lamp is purple .
+the lamp is not yellow .it is red .the lamp is red .
+the lamp is not yellow .it is white .the lamp is white .
+the market is not closed .it is open .the market is open .
+the nurse is not at the bank .he is at the hospital .the nurse is at the hospital .
+the nurse is not at the bank .he is at the market .the nurse is at the market .
+the nurse is not at the bank .he is at the office .the nurse is at the office .
+the nurse is not at the bank .he is at the school .the nurse is at the school .
+the nurse is not at the bank .he is at the station .the nurse is at the station .
+the nurse is not at the bank .she is at the kitchen .the nurse is at the kitchen .
+the nurse is not at the bank .she is at the store .the nurse is at the store .
+the nurse is not at the hospital .he is at the kitchen .the nurse is at the kitchen .
+the nurse is not at the hospital .he is at the market .the nurse is at the market .
+the nurse is not at the hospital .he is at the school .the nurse is at the school .
+the nurse is not at the hospital .he is at the store .the nurse is at the store .
+the nurse is not at the hospital .she is at the bank .the nurse is at the bank .
+the nurse is not at the hospital .she is at the office .the nurse is at the office .
+the nurse is not at the hospital .she is at the station .the nurse is at the station .
+the nurse is not at the kitchen .he is at the bank .the nurse is at the bank .
+the nurse is not at the kitchen .he is at the hospital .the nurse is at the hospital .
+the nurse is not at the kitchen .he is at the school .the nurse is at the school .
+the nurse is not at the kitchen .he is at the station .the nurse is at the station .
+the nurse is not at the kitchen .he is at the store .the nurse is at the store .
+the nurse is not at the kitchen .she is at the market .the nurse is at the market .
+the nurse is not at the kitchen .she is at the office .the nurse is at the office .
+the nurse is not at the market .he is at the bank .the nurse is at the bank .
+the nurse is not at the market .he is at the kitchen .the nurse is at the kitchen .
+the nurse is not at the market .he is at the office .the nurse is at the office .
+the nurse is not at the market .she is at the hospital .the nurse is at the hospital .
+the nurse is not at the market .she is at the school .the nurse is at the school .
+the nurse is not at the market .she is at the station .the nurse is at the station .
+the nurse is not at the market .she is at the store .the nurse is at the store .
+the nurse is not at the office .he is at the kitchen .the nurse is at the kitchen .
+the nurse is not at the office .he is at the station .the nurse is at the station .
+the nurse is not at the office .she is at the bank .the nurse is at the bank .
+the nurse is not at the office .she is at the hospital .the nurse is at the hospital .
+the nurse is not at the office .she is at the market .the nurse is at the market .
+the nurse is not at the office .she is at the school .the nurse is at the school .
+the nurse is not at the office .she is at the store .the nurse is at the store .
+the nurse is not at the school .he is at the bank .the nurse is at the bank .
+the nurse is not at the school .he is at the hospital .the nurse is at the hospital .
+the nurse is not at the school .he is at the office .the nurse is at the office .
+the nurse is not at the school .he is at the store .the nurse is at the store .
+the nurse is not at the school .she is at the kitchen .the nurse is at the kitchen .
+the nurse is not at the school .she is at the market .the nurse is at the market .
+the nurse is not at the school .she is at the station .the nurse is at the station .
+the nurse is not at the station .he is at the hospital .the nurse is at the hospital .
+the nurse is not at the station .he is at the kitchen .the nurse is at the kitchen .
+the nurse is not at the station .he is at the market .the nurse is at the market .
+the nurse is not at the station .he is at the office .the nurse is at the office .
+the nurse is not at the station .he is at the school .the nurse is at the school .
+the nurse is not at the station .he is at the store .the nurse is at the store .
+the nurse is not at the station .she is at the bank .the nurse is at the bank .
+the nurse is not at the store .he is at the bank .the nurse is at the bank .
+the nurse is not at the store .he is at the hospital .the nurse is at the hospital .
+the nurse is not at the store .he is at the kitchen .the nurse is at the kitchen .
+the nurse is not at the store .he is at the station .the nurse is at the station .
+the nurse is not at the store .she is at the market .the nurse is at the market .
+the nurse is not at the store .she is at the office .the nurse is at the office .
+the nurse is not at the store .she is at the school .the nurse is at the school .
+the office is not closed .it is open .the office is open .
+the pen is not black .it is blue .the pen is blue .
+the pen is not black .it is brown .the pen is brown .
+the pen is not black .it is gray .the pen is gray .
+the pen is not black .it is green .the pen is green .
+the pen is not black .it is pink .the pen is pink .
+the pen is not black .it is purple .the pen is purple .
+the pen is not black .it is red .the pen is red .
+the pen is not black .it is white .the pen is white .
+the pen is not black .it is yellow .the pen is yellow .
+the pen is not blue .it is black .the pen is black .
+the pen is not blue .it is brown .the pen is brown .
+the pen is not blue .it is gray .the pen is gray .
+the pen is not blue .it is green .the pen is green .
+the pen is not blue .it is pink .the pen is pink .
+the pen is not blue .it is purple .the pen is purple .
+the pen is not blue .it is red .the pen is red .
+the pen is not blue .it is white .the pen is white .
+the pen is not blue .it is yellow .the pen is yellow .
+the pen is not brown .it is black .the pen is black .
+the pen is not brown .it is blue .the pen is blue .
+the pen is not brown .it is gray .the pen is gray .
+the pen is not brown .it is green .the pen is green .
+the pen is not brown .it is pink .the pen is pink .
+the pen is not brown .it is purple .the pen is purple .
+the pen is not brown .it is red .the pen is red .
+the pen is not brown .it is white .the pen is white .
+the pen is not brown .it is yellow .the pen is yellow .
+the pen is not gray .it is black .the pen is black .
+the pen is not gray .it is blue .the pen is blue .
+the pen is not gray .it is brown .the pen is brown .
+the pen is not gray .it is green .the pen is green .
+the pen is not gray .it is pink .the pen is pink .
+the pen is not gray .it is purple .the pen is purple .
+the pen is not gray .it is red .the pen is red .
+the pen is not gray .it is white .the pen is white .
+the pen is not gray .it is yellow .the pen is yellow .
+the pen is not green .it is black .the pen is black .
+the pen is not green .it is blue .the pen is blue .
+the pen is not green .it is brown .the pen is brown .
+the pen is not green .it is gray .the pen is gray .
+the pen is not green .it is pink .the pen is pink .
+the pen is not green .it is purple .the pen is purple .
+the pen is not green .it is red .the pen is red .
+the pen is not green .it is white .the pen is white .
+the pen is not green .it is yellow .the pen is yellow .
+the pen is not pink .it is black .the pen is black .
+the pen is not pink .it is blue .the pen is blue .
+the pen is not pink .it is brown .the pen is brown .
+the pen is not pink .it is gray .the pen is gray .
+the pen is not pink .it is green .the pen is green .
+the pen is not pink .it is purple .the pen is purple .
+the pen is not pink .it is red .the pen is red .
+the pen is not pink .it is white .the pen is white .
+the pen is not pink .it is yellow .the pen is yellow .
+the pen is not purple .it is black .the pen is black .
+the pen is not purple .it is blue .the pen is blue .
+the pen is not purple .it is brown .the pen is brown .
+the pen is not purple .it is gray .the pen is gray .
+the pen is not purple .it is green .the pen is green .
+the pen is not purple .it is pink .the pen is pink .
+the pen is not purple .it is red .the pen is red .
+the pen is not purple .it is white .the pen is white .
+the pen is not purple .it is yellow .the pen is yellow .
+the pen is not red .it is black .the pen is black .
+the pen is not red .it is brown .the pen is brown .
+the pen is not red .it is gray .the pen is gray .
+the pen is not red .it is green .the pen is green .
+the pen is not red .it is pink .the pen is pink .
+the pen is not red .it is purple .the pen is purple .
+the pen is not red .it is white .the pen is white .
+the pen is not red .it is yellow .the pen is yellow .
+the pen is not white .it is black .the pen is black .
+the pen is not white .it is blue .the pen is blue .
+the pen is not white .it is brown .the pen is brown .
+the pen is not white .it is gray .the pen is gray .
+the pen is not white .it is green .the pen is green .
+the pen is not white .it is pink .the pen is pink .
+the pen is not white .it is purple .the pen is purple .
+the pen is not white .it is red .the pen is red .
+the pen is not white .it is yellow .the pen is yellow .
+the pen is not yellow .it is black .the pen is black .
+the pen is not yellow .it is blue .the pen is blue .
+the pen is not yellow .it is brown .the pen is brown .
+the pen is not yellow .it is gray .the pen is gray .
+the pen is not yellow .it is green .the pen is green .
+the pen is not yellow .it is pink .the pen is pink .
+the pen is not yellow .it is purple .the pen is purple .
+the pen is not yellow .it is red .the pen is red .
+the pen is not yellow .it is white .the pen is white .
+the plate is not black .it is blue .the plate is blue .
+the plate is not black .it is brown .the plate is brown .
+the plate is not black .it is gray .the plate is gray .
+the plate is not black .it is green .the plate is green .
+the plate is not black .it is pink .the plate is pink .
+the plate is not black .it is purple .the plate is purple .
+the plate is not black .it is red .the plate is red .
+the plate is not black .it is white .the plate is white .
+the plate is not black .it is yellow .the plate is yellow .
+the plate is not blue .it is black .the plate is black .
+the plate is not blue .it is brown .the plate is brown .
+the plate is not blue .it is gray .the plate is gray .
+the plate is not blue .it is green .the plate is green .
+the plate is not blue .it is pink .the plate is pink .
+the plate is not blue .it is purple .the plate is purple .
+the plate is not blue .it is red .the plate is red .
+the plate is not blue .it is white .the plate is white .
+the plate is not blue .it is yellow .the plate is yellow .
+the plate is not brown .it is black .the plate is black .
+the plate is not brown .it is blue .the plate is blue .
+the plate is not brown .it is gray .the plate is gray .
+the plate is not brown .it is green .the plate is green .
+the plate is not brown .it is pink .the plate is pink .
+the plate is not brown .it is purple .the plate is purple .
+the plate is not brown .it is red .the plate is red .
+the plate is not brown .it is white .the plate is white .
+the plate is not brown .it is yellow .the plate is yellow .
+the plate is not gray .it is black .the plate is black .
+the plate is not gray .it is blue .the plate is blue .
+the plate is not gray .it is brown .the plate is brown .
+the plate is not gray .it is green .the plate is green .
+the plate is not gray .it is pink .the plate is pink .
+the plate is not gray .it is purple .the plate is purple .
+the plate is not gray .it is red .the plate is red .
+the plate is not gray .it is white .the plate is white .
+the plate is not gray .it is yellow .the plate is yellow .
+the plate is not green .it is black .the plate is black .
+the plate is not green .it is blue .the plate is blue .
+the plate is not green .it is brown .the plate is brown .
+the plate is not green .it is gray .the plate is gray .
+the plate is not green .it is pink .the plate is pink .
+the plate is not green .it is purple .the plate is purple .
+the plate is not green .it is red .the plate is red .
+the plate is not green .it is white .the plate is white .
+the plate is not green .it is yellow .the plate is yellow .
+the plate is not pink .it is black .the plate is black .
+the plate is not pink .it is blue .the plate is blue .
+the plate is not pink .it is brown .the plate is brown .
+the plate is not pink .it is gray .the plate is gray .
+the plate is not pink .it is green .the plate is green .
+the plate is not pink .it is purple .the plate is purple .
+the plate is not pink .it is red .the plate is red .
+the plate is not pink .it is white .the plate is white .
+the plate is not pink .it is yellow .the plate is yellow .
+the plate is not purple .it is black .the plate is black .
+the plate is not purple .it is blue .the plate is blue .
+the plate is not purple .it is brown .the plate is brown .
+the plate is not purple .it is gray .the plate is gray .
+the plate is not purple .it is green .the plate is green .
+the plate is not purple .it is pink .the plate is pink .
+the plate is not purple .it is red .the plate is red .
+the plate is not purple .it is white .the plate is white .
+the plate is not purple .it is yellow .the plate is yellow .
+the plate is not red .it is black .the plate is black .
+the plate is not red .it is brown .the plate is brown .
+the plate is not red .it is gray .the plate is gray .
+the plate is not red .it is green .the plate is green .
+the plate is not red .it is pink .the plate is pink .
+the plate is not red .it is purple .the plate is purple .
+the plate is not red .it is white .the plate is white .
+the plate is not red .it is yellow .the plate is yellow .
+the plate is not white .it is black .the plate is black .
+the plate is not white .it is blue .the plate is blue .
+the plate is not white .it is brown .the plate is brown .
+the plate is not white .it is gray .the plate is gray .
+the plate is not white .it is green .the plate is green .
+the plate is not white .it is pink .the plate is pink .
+the plate is not white .it is purple .the plate is purple .
+the plate is not white .it is red .the plate is red .
+the plate is not white .it is yellow .the plate is yellow .
+the plate is not yellow .it is black .the plate is black .
+the plate is not yellow .it is blue .the plate is blue .
+the plate is not yellow .it is brown .the plate is brown .
+the plate is not yellow .it is gray .the plate is gray .
+the plate is not yellow .it is green .the plate is green .
+the plate is not yellow .it is pink .the plate is pink .
+the plate is not yellow .it is purple .the plate is purple .
+the plate is not yellow .it is red .the plate is red .
+the plate is not yellow .it is white .the plate is white .
+the road is not broken .it is fixed .the road is fixed .
+the road is not clean .it is dirty .the road is dirty .
+the road is not dirty .it is clean .the road is clean .
+the road is not fixed .it is broken .the road is broken .
+the road is not heavy .it is light .the road is light .
+the road is not here .it is missing .the road is missing .
+the road is not light .it is heavy .the road is heavy .
+the road is not missing .it is here .the road is here .
+the road is not narrow .it is wide .the road is wide .
+the road is not new .it is old .the road is old .
+the road is not old .it is new .the road is new .
+the road is not wide .it is narrow .the road is narrow .
+the room is not broken .it is fixed .the room is fixed .
+the room is not clean .it is dirty .the room is dirty .
+the room is not dirty .it is clean .the room is clean .
+the room is not fixed .it is broken .the room is broken .
+the room is not heavy .it is light .the room is light .
+the room is not here .it is missing .the room is missing .
+the room is not light .it is heavy .the room is heavy .
+the room is not missing .it is here .the room is here .
+the room is not narrow .it is wide .the room is wide .
+the room is not new .it is old .the room is old .
+the room is not old .it is new .the room is new .
+the room is not wide .it is narrow .the room is narrow .
+the school is not closed .it is open .the school is open .
+the shirt is not black .it is blue .the shirt is blue .
+the shirt is not black .it is brown .the shirt is brown .
+the shirt is not black .it is gray .the shirt is gray .
+the shirt is not black .it is green .the shirt is green .
+the shirt is not black .it is pink .the shirt is pink .
+the shirt is not black .it is purple .the shirt is purple .
+the shirt is not black .it is red .the shirt is red .
+the shirt is not black .it is white .the shirt is white .
+the shirt is not black .it is yellow .the shirt is yellow .
+the shirt is not blue .it is black .the shirt is black .
+the shirt is not blue .it is brown .the shirt is brown .
+the shirt is not blue .it is gray .the shirt is gray .
+the shirt is not blue .it is green .the shirt is green .
+the shirt is not blue .it is pink .the shirt is pink .
+the shirt is not blue .it is purple .the shirt is purple .
+the shirt is not blue .it is red .the shirt is red .
+the shirt is not blue .it is white .the shirt is white .
+the shirt is not blue .it is yellow .the shirt is yellow .
+the shirt is not brown .it is black .the shirt is black .
+the shirt is not brown .it is blue .the shirt is blue .
+the shirt is not brown .it is gray .the shirt is gray .
+the shirt is not brown .it is green .the shirt is green .
+the shirt is not brown .it is pink .the shirt is pink .
+the shirt is not brown .it is purple .the shirt is purple .
+the shirt is not brown .it is red .the shirt is red .
+the shirt is not brown .it is white .the shirt is white .
+the shirt is not brown .it is yellow .the shirt is yellow .
+the shirt is not gray .it is black .the shirt is black .
+the shirt is not gray .it is blue .the shirt is blue .
+the shirt is not gray .it is brown .the shirt is brown .
+the shirt is not gray .it is green .the shirt is green .
+the shirt is not gray .it is pink .the shirt is pink .
+the shirt is not gray .it is purple .the shirt is purple .
+the shirt is not gray .it is red .the shirt is red .
+the shirt is not gray .it is white .the shirt is white .
+the shirt is not gray .it is yellow .the shirt is yellow .
+the shirt is not green .it is black .the shirt is black .
+the shirt is not green .it is blue .the shirt is blue .
+the shirt is not green .it is brown .the shirt is brown .
+the shirt is not green .it is gray .the shirt is gray .
+the shirt is not green .it is pink .the shirt is pink .
+the shirt is not green .it is purple .the shirt is purple .
+the shirt is not green .it is red .the shirt is red .
+the shirt is not green .it is white .the shirt is white .
+the shirt is not green .it is yellow .the shirt is yellow .
+the shirt is not pink .it is black .the shirt is black .
+the shirt is not pink .it is blue .the shirt is blue .
+the shirt is not pink .it is brown .the shirt is brown .
+the shirt is not pink .it is gray .the shirt is gray .
+the shirt is not pink .it is green .the shirt is green .
+the shirt is not pink .it is purple .the shirt is purple .
+the shirt is not pink .it is red .the shirt is red .
+the shirt is not pink .it is white .the shirt is white .
+the shirt is not pink .it is yellow .the shirt is yellow .
+the shirt is not purple .it is black .the shirt is black .
+the shirt is not purple .it is blue .the shirt is blue .
+the shirt is not purple .it is brown .the shirt is brown .
+the shirt is not purple .it is gray .the shirt is gray .
+the shirt is not purple .it is green .the shirt is green .
+the shirt is not purple .it is pink .the shirt is pink .
+the shirt is not purple .it is red .the shirt is red .
+the shirt is not purple .it is white .the shirt is white .
+the shirt is not purple .it is yellow .the shirt is yellow .
+the shirt is not red .it is black .the shirt is black .
+the shirt is not red .it is brown .the shirt is brown .
+the shirt is not red .it is gray .the shirt is gray .
+the shirt is not red .it is green .the shirt is green .
+the shirt is not red .it is pink .the shirt is pink .
+the shirt is not red .it is purple .the shirt is purple .
+the shirt is not red .it is white .the shirt is white .
+the shirt is not red .it is yellow .the shirt is yellow .
+the shirt is not white .it is black .the shirt is black .
+the shirt is not white .it is blue .the shirt is blue .
+the shirt is not white .it is brown .the shirt is brown .
+the shirt is not white .it is gray .the shirt is gray .
+the shirt is not white .it is green .the shirt is green .
+the shirt is not white .it is pink .the shirt is pink .
+the shirt is not white .it is purple .the shirt is purple .
+the shirt is not white .it is red .the shirt is red .
+the shirt is not white .it is yellow .the shirt is yellow .
+the shirt is not yellow .it is black .the shirt is black .
+the shirt is not yellow .it is blue .the shirt is blue .
+the shirt is not yellow .it is brown .the shirt is brown .
+the shirt is not yellow .it is gray .the shirt is gray .
+the shirt is not yellow .it is green .the shirt is green .
+the shirt is not yellow .it is pink .the shirt is pink .
+the shirt is not yellow .it is purple .the shirt is purple .
+the shirt is not yellow .it is red .the shirt is red .
+the shirt is not yellow .it is white .the shirt is white .
+the shop is not closed .it is open .the shop is open .
+the station is not closed .it is open .the station is open .
+the store is not closed .it is open .the store is open .
+the student is not at the bank .he is at the station .the student is at the station .
+the student is not at the bank .he is at the store .the student is at the store .
+the student is not at the bank .she is at the hospital .the student is at the hospital .
+the student is not at the bank .she is at the kitchen .the student is at the kitchen .
+the student is not at the bank .she is at the market .the student is at the market .
+the student is not at the bank .she is at the office .the student is at the office .
+the student is not at the bank .she is at the school .the student is at the school .
+the student is not at the hospital .he is at the bank .the student is at the bank .
+the student is not at the hospital .he is at the kitchen .the student is at the kitchen .
+the student is not at the hospital .he is at the market .the student is at the market .
+the student is not at the hospital .he is at the office .the student is at the office .
+the student is not at the hospital .he is at the school .the student is at the school .
+the student is not at the hospital .he is at the store .the student is at the store .
+the student is not at the hospital .she is at the station .the student is at the station .
+the student is not at the kitchen .he is at the hospital .the student is at the hospital .
+the student is not at the kitchen .he is at the market .the student is at the market .
+the student is not at the kitchen .he is at the office .the student is at the office .
+the student is not at the kitchen .she is at the bank .the student is at the bank .
+the student is not at the kitchen .she is at the school .the student is at the school .
+the student is not at the kitchen .she is at the station .the student is at the station .
+the student is not at the kitchen .she is at the store .the student is at the store .
+the student is not at the market .he is at the kitchen .the student is at the kitchen .
+the student is not at the market .he is at the school .the student is at the school .
+the student is not at the market .he is at the store .the student is at the store .
+the student is not at the market .she is at the bank .the student is at the bank .
+the student is not at the market .she is at the hospital .the student is at the hospital .
+the student is not at the market .she is at the office .the student is at the office .
+the student is not at the market .she is at the station .the student is at the station .
+the student is not at the office .he is at the market .the student is at the market .
+the student is not at the office .he is at the school .the student is at the school .
+the student is not at the office .he is at the station .the student is at the station .
+the student is not at the office .she is at the bank .the student is at the bank .
+the student is not at the office .she is at the hospital .the student is at the hospital .
+the student is not at the office .she is at the kitchen .the student is at the kitchen .
+the student is not at the office .she is at the store .the student is at the store .
+the student is not at the school .he is at the bank .the student is at the bank .
+the student is not at the school .he is at the hospital .the student is at the hospital .
+the student is not at the school .he is at the kitchen .the student is at the kitchen .
+the student is not at the school .he is at the market .the student is at the market .
+the student is not at the school .he is at the office .the student is at the office .
+the student is not at the school .she is at the station .the student is at the station .
+the student is not at the school .she is at the store .the student is at the store .
+the student is not at the station .he is at the hospital .the student is at the hospital .
+the student is not at the station .he is at the kitchen .the student is at the kitchen .
+the student is not at the station .he is at the office .the student is at the office .
+the student is not at the station .she is at the bank .the student is at the bank .
+the student is not at the station .she is at the market .the student is at the market .
+the student is not at the station .she is at the school .the student is at the school .
+the student is not at the station .she is at the store .the student is at the store .
+the student is not at the store .he is at the bank .the student is at the bank .
+the student is not at the store .he is at the hospital .the student is at the hospital .
+the student is not at the store .he is at the school .the student is at the school .
+the student is not at the store .she is at the kitchen .the student is at the kitchen .
+the student is not at the store .she is at the market .the student is at the market .
+the student is not at the store .she is at the office .the student is at the office .
+the student is not at the store .she is at the station .the student is at the station .
+the table is not broken .it is fixed .the table is fixed .
+the table is not clean .it is dirty .the table is dirty .
+the table is not dirty .it is clean .the table is clean .
+the table is not fixed .it is broken .the table is broken .
+the table is not heavy .it is light .the table is light .
+the table is not here .it is missing .the table is missing .
+the table is not light .it is heavy .the table is heavy .
+the table is not missing .it is here .the table is here .
+the table is not narrow .it is wide .the table is wide .
+the table is not new .it is old .the table is old .
+the table is not old .it is new .the table is new .
+the table is not wide .it is narrow .the table is narrow .
+the teacher is not at the bank .he is at the office .the teacher is at the office .
+the teacher is not at the bank .she is at the hospital .the teacher is at the hospital .
+the teacher is not at the bank .she is at the kitchen .the teacher is at the kitchen .
+the teacher is not at the bank .she is at the market .the teacher is at the market .
+the teacher is not at the bank .she is at the school .the teacher is at the school .
+the teacher is not at the bank .she is at the station .the teacher is at the station .
+the teacher is not at the bank .she is at the store .the teacher is at the store .
+the teacher is not at the hospital .he is at the market .the teacher is at the market .
+the teacher is not at the hospital .she is at the bank .the teacher is at the bank .
+the teacher is not at the hospital .she is at the kitchen .the teacher is at the kitchen .
+the teacher is not at the hospital .she is at the office .the teacher is at the office .
+the teacher is not at the hospital .she is at the school .the teacher is at the school .
+the teacher is not at the hospital .she is at the station .the teacher is at the station .
+the teacher is not at the hospital .she is at the store .the teacher is at the store .
+the teacher is not at the kitchen .he is at the office .the teacher is at the office .
+the teacher is not at the kitchen .he is at the school .the teacher is at the school .
+the teacher is not at the kitchen .he is at the station .the teacher is at the station .
+the teacher is not at the kitchen .she is at the bank .the teacher is at the bank .
+the teacher is not at the kitchen .she is at the hospital .the teacher is at the hospital .
+the teacher is not at the kitchen .she is at the market .the teacher is at the market .
+the teacher is not at the kitchen .she is at the store .the teacher is at the store .
+the teacher is not at the market .he is at the hospital .the teacher is at the hospital .
+the teacher is not at the market .he is at the office .the teacher is at the office .
+the teacher is not at the market .he is at the school .the teacher is at the school .
+the teacher is not at the market .she is at the bank .the teacher is at the bank .
+the teacher is not at the market .she is at the kitchen .the teacher is at the kitchen .
+the teacher is not at the market .she is at the station .the teacher is at the station .
+the teacher is not at the market .she is at the store .the teacher is at the store .
+the teacher is not at the office .he is at the kitchen .the teacher is at the kitchen .
+the teacher is not at the office .he is at the market .the teacher is at the market .
+the teacher is not at the office .he is at the store .the teacher is at the store .
+the teacher is not at the office .she is at the bank .the teacher is at the bank .
+the teacher is not at the office .she is at the hospital .the teacher is at the hospital .
+the teacher is not at the office .she is at the school .the teacher is at the school .
+the teacher is not at the office .she is at the station .the teacher is at the station .
+the teacher is not at the school .he is at the hospital .the teacher is at the hospital .
+the teacher is not at the school .he is at the market .the teacher is at the market .
+the teacher is not at the school .he is at the office .the teacher is at the office .
+the teacher is not at the school .he is at the store .the teacher is at the store .
+the teacher is not at the school .she is at the bank .the teacher is at the bank .
+the teacher is not at the school .she is at the kitchen .the teacher is at the kitchen .
+the teacher is not at the school .she is at the station .the teacher is at the station .
+the teacher is not at the station .he is at the bank .the teacher is at the bank .
+the teacher is not at the station .he is at the kitchen .the teacher is at the kitchen .
+the teacher is not at the station .he is at the market .the teacher is at the market .
+the teacher is not at the station .he is at the store .the teacher is at the store .
+the teacher is not at the station .she is at the hospital .the teacher is at the hospital .
+the teacher is not at the station .she is at the office .the teacher is at the office .
+the teacher is not at the station .she is at the school .the teacher is at the school .
+the teacher is not at the store .he is at the hospital .the teacher is at the hospital .
+the teacher is not at the store .he is at the school .the teacher is at the school .
+the teacher is not at the store .he is at the station .the teacher is at the station .
+the teacher is not at the store .she is at the bank .the teacher is at the bank .
+the teacher is not at the store .she is at the kitchen .the teacher is at the kitchen .
+the teacher is not at the store .she is at the market .the teacher is at the market .
+the teacher is not at the store .she is at the office .the teacher is at the office .
+the wall is not black .it is blue .the wall is blue .
+the wall is not black .it is brown .the wall is brown .
+the wall is not black .it is gray .the wall is gray .
+the wall is not black .it is green .the wall is green .
+the wall is not black .it is pink .the wall is pink .
+the wall is not black .it is purple .the wall is purple .
+the wall is not black .it is red .the wall is red .
+the wall is not black .it is white .the wall is white .
+the wall is not black .it is yellow .the wall is yellow .
+the wall is not blue .it is black .the wall is black .
+the wall is not blue .it is brown .the wall is brown .
+the wall is not blue .it is gray .the wall is gray .
+the wall is not blue .it is green .the wall is green .
+the wall is not blue .it is pink .the wall is pink .
+the wall is not blue .it is purple .the wall is purple .
+the wall is not blue .it is red .the wall is red .
+the wall is not blue .it is white .the wall is white .
+the wall is not blue .it is yellow .the wall is yellow .
+the wall is not brown .it is black .the wall is black .
+the wall is not brown .it is blue .the wall is blue .
+the wall is not brown .it is gray .the wall is gray .
+the wall is not brown .it is green .the wall is green .
+the wall is not brown .it is pink .the wall is pink .
+the wall is not brown .it is purple .the wall is purple .
+the wall is not brown .it is red .the wall is red .
+the wall is not brown .it is white .the wall is white .
+the wall is not brown .it is yellow .the wall is yellow .
+the wall is not gray .it is black .the wall is black .
+the wall is not gray .it is blue .the wall is blue .
+the wall is not gray .it is brown .the wall is brown .
+the wall is not gray .it is green .the wall is green .
+the wall is not gray .it is pink .the wall is pink .
+the wall is not gray .it is purple .the wall is purple .
+the wall is not gray .it is red .the wall is red .
+the wall is not gray .it is white .the wall is white .
+the wall is not gray .it is yellow .the wall is yellow .
+the wall is not green .it is black .the wall is black .
+the wall is not green .it is blue .the wall is blue .
+the wall is not green .it is brown .the wall is brown .
+the wall is not green .it is gray .the wall is gray .
+the wall is not green .it is pink .the wall is pink .
+the wall is not green .it is purple .the wall is purple .
+the wall is not green .it is red .the wall is red .
+the wall is not green .it is white .the wall is white .
+the wall is not green .it is yellow .the wall is yellow .
+the wall is not pink .it is black .the wall is black .
+the wall is not pink .it is blue .the wall is blue .
+the wall is not pink .it is brown .the wall is brown .
+the wall is not pink .it is gray .the wall is gray .
+the wall is not pink .it is green .the wall is green .
+the wall is not pink .it is purple .the wall is purple .
+the wall is not pink .it is red .the wall is red .
+the wall is not pink .it is white .the wall is white .
+the wall is not pink .it is yellow .the wall is yellow .
+the wall is not purple .it is black .the wall is black .
+the wall is not purple .it is blue .the wall is blue .
+the wall is not purple .it is brown .the wall is brown .
+the wall is not purple .it is gray .the wall is gray .
+the wall is not purple .it is green .the wall is green .
+the wall is not purple .it is pink .the wall is pink .
+the wall is not purple .it is red .the wall is red .
+the wall is not purple .it is white .the wall is white .
+the wall is not purple .it is yellow .the wall is yellow .
+the wall is not red .it is black .the wall is black .
+the wall is not red .it is brown .the wall is brown .
+the wall is not red .it is gray .the wall is gray .
+the wall is not red .it is green .the wall is green .
+the wall is not red .it is pink .the wall is pink .
+the wall is not red .it is purple .the wall is purple .
+the wall is not red .it is white .the wall is white .
+the wall is not red .it is yellow .the wall is yellow .
+the wall is not white .it is black .the wall is black .
+the wall is not white .it is blue .the wall is blue .
+the wall is not white .it is brown .the wall is brown .
+the wall is not white .it is gray .the wall is gray .
+the wall is not white .it is green .the wall is green .
+the wall is not white .it is pink .the wall is pink .
+the wall is not white .it is purple .the wall is purple .
+the wall is not white .it is red .the wall is red .
+the wall is not white .it is yellow .the wall is yellow .
+the wall is not yellow .it is black .the wall is black .
+the wall is not yellow .it is blue .the wall is blue .
+the wall is not yellow .it is brown .the wall is brown .
+the wall is not yellow .it is gray .the wall is gray .
+the wall is not yellow .it is green .the wall is green .
+the wall is not yellow .it is pink .the wall is pink .
+the wall is not yellow .it is purple .the wall is purple .
+the wall is not yellow .it is red .the wall is red .
+the wall is not yellow .it is white .the wall is white .
+the window is not broken .it is fixed .the window is fixed .
+the window is not clean .it is dirty .the window is dirty .
+the window is not closed .it is open .the window is open .
+the window is not dirty .it is clean .the window is clean .
+the window is not fixed .it is broken .the window is broken .
+the window is not heavy .it is light .the window is light .
+the window is not here .it is missing .the window is missing .
+the window is not light .it is heavy .the window is heavy .
+the window is not missing .it is here .the window is here .
+the window is not narrow .it is wide .the window is wide .
+the window is not new .it is old .the window is old .
+the window is not old .it is new .the window is new .
+the window is not wide .it is narrow .the window is narrow .
+today the bank is not closed .it is open .
+today the gate is not closed .it is open .
+today the kitchen is not closed .it is open .
+today the market is not closed .it is open .
+today the office is not closed .it is open .
+today the school is not closed .it is open .
+today the shop is not closed .it is open .
+today the station is not closed .it is open .
+today the store is not closed .it is open .
+today the window is not closed .it is open .
+tom did not buy coffee .he bought cheese .tom bought cheese .
+tom did not buy coffee .he bought soup .tom bought soup .
+tom did not buy eggs .he bought tea .tom bought tea .
+tom did not buy juice .he bought pasta .tom bought pasta .
+tom did not buy milk .he bought pasta .tom bought pasta .
+tom did not buy soup .he bought milk .tom bought milk .
+tom did not choose bread .he chose coffee .tom chose coffee .
+tom did not choose cake .he chose water .tom chose water .
+tom did not choose juice .he chose cake .tom chose cake .
+tom did not choose milk .he chose pasta .tom chose pasta .
+tom did not choose milk .he chose tea .tom chose tea .
+tom did not choose soup .he chose water .tom chose water .
+tom did not cook bread .he cooked milk .tom cooked milk .
+tom did not cook cake .he cooked tea .tom cooked tea .
+tom did not cook coffee .he cooked eggs .tom cooked eggs .
+tom did not cook eggs .he cooked rice .tom cooked rice .
+tom did not cook milk .he cooked coffee .tom cooked coffee .
+tom did not cook tea .he cooked juice .tom cooked juice .
+tom did not eat coffee .he ate tea .tom ate tea .
+tom did not eat eggs .he ate bread .tom ate bread .
+tom did not eat eggs .he ate juice .tom ate juice .
+tom did not eat rice .he ate juice .tom ate juice .
+tom did not eat soup .he ate pasta .tom ate pasta .
+tom did not eat soup .he ate rice .tom ate rice .
+tom did not order cheese .he ordered cake .tom ordered cake .
+tom did not order coffee .he ordered juice .tom ordered juice .
+tom did not order eggs .he ordered coffee .tom ordered coffee .
+tom did not order eggs .he ordered milk .tom ordered milk .
+tom did not order milk .he ordered pasta .tom ordered pasta .
+tom did not order water .he ordered cheese .tom ordered cheese .
+tom did not pick cake .he picked rice .tom picked rice .
+tom did not pick cheese .he picked pasta .tom picked pasta .
+tom did not pick cheese .he picked water .tom picked water .
+tom did not pick juice .he picked water .tom picked water .
+tom did not pick rice .he picked pasta .tom picked pasta .
+tom did not pick soup .he picked water .tom picked water .
+tom did not want cheese .he wanted cake .tom wanted cake .
+tom did not want eggs .he wanted tea .tom wanted tea .
+tom did not want milk .he wanted eggs .tom wanted eggs .
+tom did not want milk .he wanted pasta .tom wanted pasta .
+tom did not want soup .he wanted pasta .tom wanted pasta .
+tom did not want tea .he wanted coffee .tom wanted coffee .
+tom is a student at the local school .
+tom is not late today .
+zoe did not buy cheese .she bought pasta .zoe bought pasta .
+zoe did not buy cheese .she bought soup .zoe bought soup .
+zoe did not buy coffee .she bought pasta .zoe bought pasta .
+zoe did not buy juice .she bought rice .zoe bought rice .
+zoe did not buy soup .she bought eggs .zoe bought eggs .
+zoe did not buy water .she bought juice .zoe bought juice .
+zoe did not choose bread .she chose cheese .zoe chose cheese .
+zoe did not choose eggs .she chose cheese .zoe chose cheese .
+zoe did not choose milk .she chose water .zoe chose water .
+zoe did not choose pasta .she chose water .zoe chose water .
+zoe did not choose rice .she chose pasta .zoe chose pasta .
+zoe did not choose soup .she chose water .zoe chose water .
+zoe did not cook bread .she cooked soup .zoe cooked soup .
+zoe did not cook cake .she cooked eggs .zoe cooked eggs .
+zoe did not cook eggs .she cooked juice .zoe cooked juice .
+zoe did not cook milk .she cooked pasta .zoe cooked pasta .
+zoe did not cook pasta .she cooked water .zoe cooked water .
+zoe did not cook tea .she cooked eggs .zoe cooked eggs .
+zoe did not eat cake .she ate bread .zoe ate bread .
+zoe did not eat cake .she ate eggs .zoe ate eggs .
+zoe did not eat cheese .she ate soup .zoe ate soup .
+zoe did not eat eggs .she ate soup .zoe ate soup .
+zoe did not eat milk .she ate cake .zoe ate cake .
+zoe did not eat water .she ate milk .zoe ate milk .
+zoe did not order cake .she ordered eggs .zoe ordered eggs .
+zoe did not order cheese .she ordered juice .zoe ordered juice .
+zoe did not order coffee .she ordered water .zoe ordered water .
+zoe did not order eggs .she ordered coffee .zoe ordered coffee .
+zoe did not order milk .she ordered cheese .zoe ordered cheese .
+zoe did not order soup .she ordered eggs .zoe ordered eggs .
+zoe did not pick cake .she picked rice .zoe picked rice .
+zoe did not pick eggs .she picked tea .zoe picked tea .
+zoe did not pick milk .she picked coffee .zoe picked coffee .
+zoe did not pick milk .she picked soup .zoe picked soup .
+zoe did not pick rice .she picked milk .zoe picked milk .
+zoe did not pick soup .she picked bread .zoe picked bread .
+zoe did not want cheese .she wanted juice .zoe wanted juice .
+zoe did not want cheese .she wanted water .zoe wanted water .
+zoe did not want soup .she wanted cake .zoe wanted cake .
+zoe did not want tea .she wanted soup .zoe wanted soup .
+zoe did not want water .she wanted eggs .zoe wanted eggs .
+zoe did not want water .she wanted tea .zoe wanted tea .
+zoe is a student at the local school .
+zoe is not late today .

@@ -1,0 +1,2661 @@
+an apple was at the hospital yesterday .
+an apple was at the market yesterday .
+an apple was at the school yesterday .
+an apple was in the garden yesterday .
+an apple was in the kitchen yesterday .
+an apple was in the office yesterday .
+an apple was near the station yesterday .
+an apple was on the road yesterday .
+a bird was at the hospital yesterday .
+a bird was at the market yesterday .
+a bird was at the school yesterday .
+a bird was in the garden yesterday .
+a bird was in the kitchen yesterday .
+a bird was in the office yesterday .
+a bird was near the station yesterday .
+a bird was on the road yesterday .
+a book was at the hospital yesterday .
+a book was at the market yesterday .
+a book was at the school yesterday .
+a book was in the garden yesterday .
+a book was in the kitchen yesterday .
+a book was in the office yesterday .
+a book was near the station yesterday .
+a book was on the road yesterday .
+a bus was at the hospital yesterday .
+a bus was at the market yesterday .
+a bus was at the school yesterday .
+a bus was in the garden yesterday .
+a bus was in the kitchen yesterday .
+a bus was in the office yesterday .
+a bus was near the station yesterday .
+a bus was on the road yesterday .
+a car was at the hospital yesterday .
+a car was at the market yesterday .
+a car was at the school yesterday .
+a car was in the garden yesterday .
+a car was in the kitchen yesterday .
+a car was in the office yesterday .
+a car was near the station yesterday .
+a car was on the road yesterday .
+a cat was at the hospital yesterday .
+a cat was at the market yesterday .
+a cat was at the school yesterday .
+a cat was in the garden yesterday .
+a cat was in the kitchen yesterday .
+a cat was in the office yesterday .
+a cat was near the station yesterday .
+a cat was on the road yesterday .
+a child was at the hospital yesterday .
+a child was at the market yesterday .
+a child was at the school yesterday .
+a child was in the garden yesterday .
+a child was in the kitchen yesterday .
+a child was in the office yesterday .
+a child was near the station yesterday .
+a child was on the road yesterday .
+a cup was at the hospital yesterday .
+a cup was at the market yesterday .
+a cup was at the school yesterday .
+a cup was in the garden yesterday .
+a cup was in the kitchen yesterday .
+a cup was in the office yesterday .
+a cup was near the station yesterday .
+a cup was on the road yesterday .
+a dog was at the hospital yesterday .
+a dog was at the market yesterday .
+a dog was at the school yesterday .
+a dog was in the garden yesterday .
+a dog was in the kitchen yesterday .
+a dog was in the office yesterday .
+a dog was near the station yesterday .
+a dog was on the road yesterday .
+a driver was at the hospital yesterday .
+a driver was at the market yesterday .
+a driver was at the school yesterday .
+a driver was in the garden yesterday .
+a driver was in the kitchen yesterday .
+a driver was in the office yesterday .
+a driver was near the station yesterday .
+a driver was on the road yesterday .
+a farmer was at the hospital yesterday .
+a farmer was at the market yesterday .
+a farmer was at the school yesterday .
+a farmer was in the garden yesterday .
+a farmer was in the kitchen yesterday .
+a farmer was in the office yesterday .
+a farmer was near the station yesterday .
+a farmer was on the road yesterday .
+a horse was at the hospital yesterday .
+a horse was at the market yesterday .
+a horse was at the school yesterday .
+a horse was in the garden yesterday .
+a horse was in the kitchen yesterday .
+a horse was in the office yesterday .
+a horse was near the station yesterday .
+a horse was on the road yesterday .
+a nurse was at the hospital yesterday .
+a nurse was at the market yesterday .
+a nurse was at the school yesterday .
+a nurse was in the garden yesterday .
+a nurse was in the kitchen yesterday .
+a nurse was in the office yesterday .
+a nurse was near the station yesterday .
+a nurse was on the road yesterday .
+a student was at the hospital yesterday .
+a student was at the market yesterday .
+a student was at the school yesterday .
+a student was in the garden yesterday .
+a student was in the kitchen yesterday .
+a student was in the office yesterday .
+a student was near the station yesterday .
+a student was on the road yesterday .
+a teacher was at the hospital yesterday .
+a teacher was at the market yesterday .
+a teacher was at the school yesterday .
+a teacher was in the garden yesterday .
+a teacher was in the kitchen yesterday .
+a teacher was in the office yesterday .
+a teacher was near the station yesterday .
+a teacher was on the road yesterday .
+every day anna cleans the car .
+every day anna cleans the kitchen .
+every day anna cleans the room .
+every day anna cleans the table .
+every day anna cooks eggs .
+every day anna cooks pasta .
+every day anna cooks rice .
+every day anna cooks soup .
+every day anna helps a customer .
+every day anna helps the farmer .
+every day anna helps the nurse .
+every day anna helps the teacher .
+every day anna opens the box .
+every day anna opens the door .
+every day anna opens the shop .
+every day anna opens the window .
+every day anna plays a game .
+every day anna plays football .
+every day anna plays music .
+every day anna plays with the cat .
+every day anna visits a friend .
+every day anna visits the bank .
+every day anna visits the hospital .
+every day anna visits the market .
+every day anna walks home .
+every day anna walks to the park .
+every day anna walks to the school .
+every day anna walks to the station .
+every day anna watches a movie .
+every day anna watches the birds .
+every day anna watches the game .
+every day anna watches the news .
+every day ben cleans the car .
+every day ben cleans the kitchen .
+every day ben cleans the room .
+every day ben cleans the table .
+every day ben cooks eggs .
+every day ben cooks pasta .
+every day ben cooks rice .
+every day ben cooks soup .
+every day ben helps a customer .
+every day ben helps the farmer .
+every day ben helps the nurse .
+every day ben helps the teacher .
+every day ben opens the box .
+every day ben opens the door .
+every day ben opens the shop .
+every day ben opens the window .
+every day ben plays a game .
+every day ben plays football .
+every day ben plays music .
+every day ben plays with the cat .
+every day ben visits a friend .
+every day ben visits the bank .
+every day ben visits the hospital .
+every day ben visits the market .
+every day ben walks home .
+every day ben walks to the park .
+every day ben walks to the school .
+every day ben walks to the station .
+every day ben watches a movie .
+every day ben watches the birds .
+every day ben watches the game .
+every day ben watches the news .
+every day he cleans the car .
+every day he cleans the kitchen .
+every day he cleans the room .
+every day he cleans the table .
+every day he cooks eggs .
+every day he cooks pasta .
+every day he cooks rice .
+every day he cooks soup .
+every day he helps a customer .
+every day he helps the farmer .
+every day he helps the nurse .
+every day he helps the teacher .
+every day he opens the box .
+every day he opens the door .
+every day he opens the shop .
+every day he opens the window .
+every day he plays a game .
+every day he plays football .
+every day he plays music .
+every day he plays with the cat .
+every day he visits a friend .
+every day he visits the bank .
+every day he visits the hospital .
+every day he visits the market .
+every day he walks home .
+every day he walks to the park .
+every day he walks to the school .
+every day he walks to the station .
+every day he watches a movie .
+every day he watches the birds .
+every day he watches the game .
+every day he watches the news .
+every day i clean the car .
+every day i clean the kitchen .
+every day i clean the room .
+every day i clean the table .
+every day i cook eggs .
+every day i cook pasta .
+every day i cook rice .
+every day i cook soup .
+every day i help a customer .
+every day i help the farmer .
+every day i help the nurse .
+every day i help the teacher .
+every day i open the box .
+every day i open the door .
+every day i open the shop .
+every day i open the window .
+every day i play a game .
+every day i play football .
+every day i play music .
+every day i play with the cat .
+every day i visit a friend .
+every day i visit the bank .
+every day i visit the hospital .
+every day i visit the market .
+every day i walk home .
+every day i walk to the park .
+every day i walk to the school .
+every day i walk to the station .
+every day i watch a movie .
+every day i watch the birds .
+every day i watch the game .
+every day i watch the news .
+every day ivy cleans the car .
+every day ivy cleans the kitchen .
+every day ivy cleans the room .
+every day ivy cleans the table .
+every day ivy cooks eggs .
+every day ivy cooks pasta .
+every day ivy cooks rice .
+every day ivy cooks soup .
+every day ivy helps a customer .
+every day ivy helps the farmer .
+every day ivy helps the nurse .
+every day ivy helps the teacher .
+every day ivy opens the box .
+every day ivy opens the door .
+every day ivy opens the shop .
+every day ivy opens the window .
+every day ivy plays a game .
+every day ivy plays football .
+every day ivy plays music .
+every day ivy plays with the cat .
+every day ivy visits a friend .
+every day ivy visits the bank .
+every day ivy visits the hospital .
+every day ivy visits the market .
+every day ivy walks home .
+every day ivy walks to the park .
+every day ivy walks to the school .
+every day ivy walks to the station .
+every day ivy watches a movie .
+every day ivy watches the birds .
+every day ivy watches the game .
+every day ivy watches the news .
+every day jack cleans the car .
+every day jack cleans the kitchen .
+every day jack cleans the room .
+every day jack cleans the table .
+every day jack cooks eggs .
+every day jack cooks pasta .
+every day jack cooks rice .
+every day jack cooks soup .
+every day jack helps a customer .
+every day jack helps the farmer .
+every day jack helps the nurse .
+every day jack helps the teacher .
+every day jack opens the box .
+every day jack opens the door .
+every day jack opens the shop .
+every day jack opens the window .
+every day jack plays a game .
+every day jack plays football .
+every day jack plays music .
+every day jack plays with the cat .
+every day jack visits a friend .
+every day jack visits the bank .
+every day jack visits the hospital .
+every day jack visits the market .
+every day jack walks home .
+every day jack walks to the park .
+every day jack walks to the school .
+every day jack walks to the station .
+every day jack watches a movie .
+every day jack watches the birds .
+every day jack watches the game .
+every day jack watches the news .
+every day kai cleans the car .
+every day kai cleans the kitchen .
+every day kai cleans the room .
+every day kai cleans the table .
+every day kai cooks eggs .
+every day kai cooks pasta .
+every day kai cooks rice .
+every day kai cooks soup .
+every day kai helps a customer .
+every day kai helps the farmer .
+every day kai helps the nurse .
+every day kai helps the teacher .
+every day kai opens the box .
+every day kai opens the door .
+every day kai opens the shop .
+every day kai opens the window .
+every day kai plays a game .
+every day kai plays football .
+every day kai plays music .
+every day kai plays with the cat .
+every day kai visits a friend .
+every day kai visits the bank .
+every day kai visits the hospital .
+every day kai visits the market .
+every day kai walks home .
+every day kai walks to the park .
+every day kai walks to the school .
+every day kai walks to the station .
+every day kai watches a movie .
+every day kai watches the birds .
+every day kai watches the game .
+every day kai watches the news .
+every day lily cleans the car .
+every day lily cleans the kitchen .
+every day lily cleans the room .
+every day lily cleans the table .
+every day lily cooks eggs .
+every day lily cooks pasta .
+every day lily cooks rice .
+every day lily cooks soup .
+every day lily helps a customer .
+every day lily helps the farmer .
+every day lily helps the nurse .
+every day lily helps the teacher .
+every day lily opens the box .
+every day lily opens the door .
+every day lily opens the shop .
+every day lily opens the window .
+every day lily plays a game .
+every day lily plays football .
+every day lily plays music .
+every day lily plays with the cat .
+every day lily visits a friend .
+every day lily visits the bank .
+every day lily visits the hospital .
+every day lily visits the market .
+every day lily walks home .
+every day lily walks to the park .
+every day lily walks to the school .
+every day lily walks to the station .
+every day lily watches a movie .
+every day lily watches the birds .
+every day lily watches the game .
+every day lily watches the news .
+every day max cleans the car .
+every day max cleans the kitchen .
+every day max cleans the room .
+every day max cleans the table .
+every day max cooks eggs .
+every day max cooks pasta .
+every day max cooks rice .
+every day max cooks soup .
+every day max helps a customer .
+every day max helps the farmer .
+every day max helps the nurse .
+every day max helps the teacher .
+every day max opens the box .
+every day max opens the door .
+every day max opens the shop .
+every day max opens the window .
+every day max plays a game .
+every day max plays football .
+every day max plays music .
+every day max plays with the cat .
+every day max visits a friend .
+every day max visits the bank .
+every day max visits the hospital .
+every day max visits the market .
+every day max walks home .
+every day max walks to the park .
+every day max walks to the school .
+every day max walks to the station .
+every day max watches a movie .
+every day max watches the birds .
+every day max watches the game .
+every day max watches the news .
+every day mia cleans the car .
+every day mia cleans the kitchen .
+every day mia cleans the room .
+every day mia cleans the table .
+every day mia cooks eggs .
+every day mia cooks pasta .
+every day mia cooks rice .
+every day mia cooks soup .
+every day mia helps a customer .
+every day mia helps the farmer .
+every day mia helps the nurse .
+every day mia helps the teacher .
+every day mia opens the box .
+every day mia opens the door .
+every day mia opens the shop .
+every day mia opens the window .
+every day mia plays a game .
+every day mia plays football .
+every day mia plays music .
+every day mia plays with the cat .
+every day mia visits a friend .
+every day mia visits the bank .
+every day mia visits the hospital .
+every day mia visits the market .
+every day mia walks home .
+every day mia walks to the park .
+every day mia walks to the school .
+every day mia walks to the station .
+every day mia watches a movie .
+every day mia watches the birds .
+every day mia watches the game .
+every day mia watches the news .
+every day ruby cleans the car .
+every day ruby cleans the kitchen .
+every day ruby cleans the room .
+every day ruby cleans the table .
+every day ruby cooks eggs .
+every day ruby cooks pasta .
+every day ruby cooks rice .
+every day ruby cooks soup .
+every day ruby helps a customer .
+every day ruby helps the farmer .
+every day ruby helps the nurse .
+every day ruby helps the teacher .
+every day ruby opens the box .
+every day ruby opens the door .
+every day ruby opens the shop .
+every day ruby opens the window .
+every day ruby plays a game .
+every day ruby plays football .
+every day ruby plays music .
+every day ruby plays with the cat .
+every day ruby visits a friend .
+every day ruby visits the bank .
+every day ruby visits the hospital .
+every day ruby visits the market .
+every day ruby walks home .
+every day ruby walks to the park .
+every day ruby walks to the school .
+every day ruby walks to the station .
+every day ruby watches a movie .
+every day ruby watches the birds .
+every day ruby watches the game .
+every day ruby watches the news .
+every day sam cleans the car .
+every day sam cleans the kitchen .
+every day sam cleans the room .
+every day sam cleans the table .
+every day sam cooks eggs .
+every day sam cooks pasta .
+every day sam cooks rice .
+every day sam cooks soup .
+every day sam helps a customer .
+every day sam helps the farmer .
+every day sam helps the nurse .
+every day sam helps the teacher .
+every day sam opens the box .
+every day sam opens the door .
+every day sam opens the shop .
+every day sam opens the window .
+every day sam plays a game .
+every day sam plays football .
+every day sam plays music .
+every day sam plays with the cat .
+every day sam visits a friend .
+every day sam visits the bank .
+every day sam visits the hospital .
+every day sam visits the market .
+every day sam walks home .
+every day sam walks to the park .
+every day sam walks to the school .
+every day sam walks to the station .
+every day sam watches a movie .
+every day sam watches the birds .
+every day sam watches the game .
+every day sam watches the news .
+every day they clean the car .
+every day they clean the kitchen .
+every day they clean the room .
+every day they clean the table .
+every day they cook eggs .
+every day they cook pasta .
+every day they cook rice .
+every day they cook soup .
+every day they help a customer .
+every day they help the farmer .
+every day they help the nurse .
+every day they help the teacher .
+every day they open the box .
+every day they open the door .
+every day they open the shop .
+every day they open the window .
+every day they play a game .
+every day they play football .
+every day they play music .
+every day they play with the cat .
+every day they visit a friend .
+every day they visit the bank .
+every day they visit the hospital .
+every day they visit the market .
+every day they walk home .
+every day they walk to the park .
+every day they walk to the school .
+every day they walk to the station .
+every day they watch a movie .
+every day they watch the birds .
+every day they watch the game .
+every day they watch the news .
+every day tom cleans the car .
+every day tom cleans the kitchen .
+every day tom cleans the room .
+every day tom cleans the table .
+every day tom cooks eggs .
+every day tom cooks pasta .
+every day tom cooks rice .
+every day tom cooks soup .
+every day tom helps a customer .
+every day tom helps the farmer .
+every day tom helps the nurse .
+every day tom helps the teacher .
+every day tom opens the box .
+every day tom opens the door .
+every day tom opens the shop .
+every day tom opens the window .
+every day tom plays a game .
+every day tom plays football .
+every day tom plays music .
+every day tom plays with the cat .
+every day tom visits a friend .
+every day tom visits the bank .
+every day tom visits the hospital .
+every day tom visits the market .
+every day tom walks home .
+every day tom walks to the park .
+every day tom walks to the school .
+every day tom walks to the station .
+every day tom watches a movie .
+every day tom watches the birds .
+every day tom watches the game .
+every day tom watches the news .
+every day we clean the car .
+every day we clean the kitchen .
+every day we clean the room .
+every day we clean the table .
+every day we cook eggs .
+every day we cook pasta .
+every day we cook rice .
+every day we cook soup .
+every day we help a customer .
+every day we help the farmer .
+every day we help the nurse .
+every day we help the teacher .
+every day we open the box .
+every day we open the door .
+every day we open the shop .
+every day we open the window .
+every day we play a game .
+every day we play football .
+every day we play music .
+every day we play with the cat .
+every day we visit a friend .
+every day we visit the bank .
+every day we visit the hospital .
+every day we visit the market .
+every day we walk home .
+every day we walk to the park .
+every day we walk to the school .
+every day we walk to the station .
+every day we watch a movie .
+every day we watch the birds .
+every day we watch the game .
+every day we watch the news .
+every day zoe cleans the car .
+every day zoe cleans the kitchen .
+every day zoe cleans the room .
+every day zoe cleans the table .
+every day zoe cooks eggs .
+every day zoe cooks pasta .
+every day zoe cooks rice .
+every day zoe cooks soup .
+every day zoe helps a customer .
+every day zoe helps the farmer .
+every day zoe helps the nurse .
+every day zoe helps the teacher .
+every day zoe opens the box .
+every day zoe opens the door .
+every day zoe opens the shop .
+every day zoe opens the window .
+every day zoe plays a game .
+every day zoe plays football .
+every day zoe plays music .
+every day zoe plays with the cat .
+every day zoe visits a friend .
+every day zoe visits the bank .
+every day zoe visits the hospital .
+every day zoe visits the market .
+every day zoe walks home .
+every day zoe walks to the park .
+every day zoe walks to the school .
+every day zoe walks to the station .
+every day zoe watches a movie .
+every day zoe watches the birds .
+every day zoe watches the game .
+every day zoe watches the news .
+he is busy .
+he is happy .
+he is late .
+he is new .
+he is ready .
+he is small .
+he is tired .
+i am busy today .
+i am happy today .
+i am late today .
+i am new today .
+i am not busy .
+i am not happy .
+i am not late .
+i am not new .
+i am not ready .
+i am not small .
+i am not tired .
+i am ready today .
+i am small today .
+i am tired today .
+last week she cleaned the car .
+last week she cleaned the kitchen .
+last week she cleaned the room .
+last week she cleaned the table .
+last week she cooked eggs .
+last week she cooked pasta .
+last week she cooked rice .
+last week she cooked soup .
+last week she helped a customer .
+last week she helped the farmer .
+last week she helped the nurse .
+last week she helped the teacher .
+last week she opened the box .
+last week she opened the door .
+last week she opened the shop .
+last week she opened the window .
+last week she played a game .
+last week she played football .
+last week she played music .
+last week she played with the cat .
+last week she visited a friend .
+last week she visited the bank .
+last week she visited the hospital .
+last week she visited the market .
+last week she walked home .
+last week she walked to the park .
+last week she walked to the school .
+last week she walked to the station .
+last week she watched a movie .
+last week she watched the birds .
+last week she watched the game .
+last week she watched the news .
+many apples were at the hospital yesterday .
+many apples were at the market yesterday .
+many apples were at the school yesterday .
+many apples were in the garden yesterday .
+many apples were in the kitchen yesterday .
+many apples were in the office yesterday .
+many apples were near the station yesterday .
+many apples were on the road yesterday .
+many birds were at the hospital yesterday .
+many birds were at the market yesterday .
+many birds were at the school yesterday .
+many birds were in the garden yesterday .
+many birds were in the kitchen yesterday .
+many birds were in the office yesterday .
+many birds were near the station yesterday .
+many birds were on the road yesterday .
+many books were at the hospital yesterday .
+many books were at the market yesterday .
+many books were at the school yesterday .
+many books were in the garden yesterday .
+many books were in the kitchen yesterday .
+many books were in the office yesterday .
+many books were near the station yesterday .
+many books were on the road yesterday .
+many buses were at the hospital yesterday .
+many buses were at the market yesterday .
+many buses were at the school yesterday .
+many buses were in the garden yesterday .
+many buses were in the kitchen yesterday .
+many buses were in the office yesterday .
+many buses were near the station yesterday .
+many buses were on the road yesterday .
+many cars were at the hospital yesterday .
+many cars were at the market yesterday .
+many cars were at the school yesterday .
+many cars were in the garden yesterday .
+many cars were in the kitchen yesterday .
+many cars were in the office yesterday .
+many cars were near the station yesterday .
+many cars were on the road yesterday .
+many cats were at the hospital yesterday .
+many cats were at the market yesterday .
+many cats were at the school yesterday .
+many cats were in the garden yesterday .
+many cats were in the kitchen yesterday .
+many cats were in the office yesterday .
+many cats were near the station yesterday .
+many cats were on the road yesterday .
+many children were at the hospital yesterday .
+many children were at the market yesterday .
+many children were at the school yesterday .
+many children were in the garden yesterday .
+many children were in the kitchen yesterday .
+many children were in the office yesterday .
+many children were near the station yesterday .
+many children were on the road yesterday .
+many cups were at the hospital yesterday .
+many cups were at the market yesterday .
+many cups were at the school yesterday .
+many cups were in the garden yesterday .
+many cups were in the kitchen yesterday .
+many cups were in the office yesterday .
+many cups were near the station yesterday .
+many cups were on the road yesterday .
+many dogs were at the hospital yesterday .
+many dogs were at the market yesterday .
+many dogs were at the school yesterday .
+many dogs were in the garden yesterday .
+many dogs were in the kitchen yesterday .
+many dogs were in the office yesterday .
+many dogs were near the station yesterday .
+many dogs were on the road yesterday .
+many drivers were at the hospital yesterday .
+many drivers were at the market yesterday .
+many drivers were at the school yesterday .
+many drivers were in the garden yesterday .
+many drivers were in the kitchen yesterday .
+many drivers were in the office yesterday .
+many drivers were near the station yesterday .
+many drivers were on the road yesterday .
+many farmers were at the hospital yesterday .
+many farmers were at the market yesterday .
+many farmers were at the school yesterday .
+many farmers were in the garden yesterday .
+many farmers were in the kitchen yesterday .
+many farmers were in the office yesterday .
+many farmers were near the station yesterday .
+many farmers were on the road yesterday .
+many horses were at the hospital yesterday .
+many horses were at the market yesterday .
+many horses were at the school yesterday .
+many horses were in the garden yesterday .
+many horses were in the kitchen yesterday .
+many horses were in the office yesterday .
+many horses were near the station yesterday .
+many horses were on the road yesterday .
+many nurses were at the hospital yesterday .
+many nurses were at the market yesterday .
+many nurses were at the school yesterday .
+many nurses were in the garden yesterday .
+many nurses were in the kitchen yesterday .
+many nurses were in the office yesterday .
+many nurses were near the station yesterday .
+many nurses were on the road yesterday .
+many students were at the hospital yesterday .
+many students were at the market yesterday .
+many students were at the school yesterday .
+many students were in the garden yesterday .
+many students were in the kitchen yesterday .
+many students were in the office yesterday .
+many students were near the station yesterday .
+many students were on the road yesterday .
+many teachers were at the hospital yesterday .
+many teachers were at the market yesterday .
+many teachers were at the school yesterday .
+many teachers were in the garden yesterday .
+many teachers were in the kitchen yesterday .
+many teachers were in the office yesterday .
+many teachers were near the station yesterday .
+many teachers were on the road yesterday .
+now anna is cleaning the car .
+now anna is cleaning the kitchen .
+now anna is cleaning the room .
+now anna is cleaning the table .
+now anna is cooking eggs .
+now anna is cooking pasta .
+now anna is cooking rice .
+now anna is cooking soup .
+now anna is helping a customer .
+now anna is helping the farmer .
+now anna is helping the nurse .
+now anna is helping the teacher .
+now anna is opening the box .
+now anna is opening the door .
+now anna is opening the shop .
+now anna is opening the window .
+now anna is playing a game .
+now anna is playing football .
+now anna is playing music .
+now anna is playing with the cat .
+now anna is visiting a friend .
+now anna is visiting the bank .
+now anna is visiting the hospital .
+now anna is visiting the market .
+now anna is walking home .
+now anna is walking to the park .
+now anna is walking to the school .
+now anna is walking to the station .
+now anna is watching a movie .
+now anna is watching the birds .
+now anna is watching the game .
+now anna is watching the news .
+now ben is cleaning the car .
+now ben is cleaning the kitchen .
+now ben is cleaning the room .
+now ben is cleaning the table .
+now ben is cooking eggs .
+now ben is cooking pasta .
+now ben is cooking rice .
+now ben is cooking soup .
+now ben is helping a customer .
+now ben is helping the farmer .
+now ben is helping the nurse .
+now ben is helping the teacher .
+now ben is opening the box .
+now ben is opening the door .
+now ben is opening the shop .
+now ben is opening the window .
+now ben is playing a game .
+now ben is playing football .
+now ben is playing music .
+now ben is playing with the cat .
+now ben is visiting a friend .
+now ben is visiting the bank .
+now ben is visiting the hospital .
+now ben is visiting the market .
+now ben is walking home .
+now ben is walking to the park .
+now ben is walking to the school .
+now ben is walking to the station .
+now ben is watching a movie .
+now ben is watching the birds .
+now ben is watching the game .
+now ben is watching the news .
+now he is cleaning the car .
+now he is cleaning the kitchen .
+now he is cleaning the room .
+now he is cleaning the table .
+now he is cooking eggs .
+now he is cooking pasta .
+now he is cooking rice .
+now he is cooking soup .
+now he is helping a customer .
+now he is helping the farmer .
+now he is helping the nurse .
+now he is helping the teacher .
+now he is opening the box .
+now he is opening the door .
+now he is opening the shop .
+now he is opening the window .
+now he is playing a game .
+now he is playing football .
+now he is playing music .
+now he is playing with the cat .
+now he is visiting a friend .
+now he is visiting the bank .
+now he is visiting the hospital .
+now he is visiting the market .
+now he is walking home .
+now he is walking to the park .
+now he is walking to the school .
+now he is walking to the station .
+now he is watching a movie .
+now he is watching the birds .
+now he is watching the game .
+now he is watching the news .
+now i am cleaning the car .
+now i am cleaning the kitchen .
+now i am cleaning the room .
+now i am cleaning the table .
+now i am cooking eggs .
+now i am cooking pasta .
+now i am cooking rice .
+now i am cooking soup .
+now i am helping a customer .
+now i am helping the farmer .
+now i am helping the nurse .
+now i am helping the teacher .
+now i am opening the box .
+now i am opening the door .
+now i am opening the shop .
+now i am opening the window .
+now i am playing a game .
+now i am playing football .
+now i am playing music .
+now i am playing with the cat .
+now i am visiting a friend .
+now i am visiting the bank .
+now i am visiting the hospital .
+now i am visiting the market .
+now i am walking home .
+now i am walking to the park .
+now i am walking to the school .
+now i am walking to the station .
+now i am watching a movie .
+now i am watching the birds .
+now i am watching the game .
+now i am watching the news .
+now ivy is cleaning the car .
+now ivy is cleaning the kitchen .
+now ivy is cleaning the room .
+now ivy is cleaning the table .
+now ivy is cooking eggs .
+now ivy is cooking pasta .
+now ivy is cooking rice .
+now ivy is cooking soup .
+now ivy is helping a customer .
+now ivy is helping the farmer .
+now ivy is helping the nurse .
+now ivy is helping the teacher .
+now ivy is opening the box .
+now ivy is opening the door .
+now ivy is opening the shop .
+now ivy is opening the window .
+now ivy is playing a game .
+now ivy is playing football .
+now ivy is playing music .
+now ivy is playing with the cat .
+now ivy is visiting a friend .
+now ivy is visiting the bank .
+now ivy is visiting the hospital .
+now ivy is visiting the market .
+now ivy is walking home .
+now ivy is walking to the park .
+now ivy is walking to the school .
+now ivy is walking to the station .
+now ivy is watching a movie .
+now ivy is watching the birds .
+now ivy is watching the game .
+now ivy is watching the news .
+now jack is cleaning the car .
+now jack is cleaning the kitchen .
+now jack is cleaning the room .
+now jack is cleaning the table .
+now jack is cooking eggs .
+now jack is cooking pasta .
+now jack is cooking rice .
+now jack is cooking soup .
+now jack is helping a customer .
+now jack is helping the farmer .
+now jack is helping the nurse .
+now jack is helping the teacher .
+now jack is opening the box .
+now jack is opening the door .
+now jack is opening the shop .
+now jack is opening the window .
+now jack is playing a game .
+now jack is playing football .
+now jack is playing music .
+now jack is playing with the cat .
+now jack is visiting a friend .
+now jack is visiting the bank .
+now jack is visiting the hospital .
+now jack is visiting the market .
+now jack is walking home .
+now jack is walking to the park .
+now jack is walking to the school .
+now jack is walking to the station .
+now jack is watching a movie .
+now jack is watching the birds .
+now jack is watching the game .
+now jack is watching the news .
+now kai is cleaning the car .
+now kai is cleaning the kitchen .
+now kai is cleaning the room .
+now kai is cleaning the table .
+now kai is cooking eggs .
+now kai is cooking pasta .
+now kai is cooking rice .
+now kai is cooking soup .
+now kai is helping a customer .
+now kai is helping the farmer .
+now kai is helping the nurse .
+now kai is helping the teacher .
+now kai is opening the box .
+now kai is opening the door .
+now kai is opening the shop .
+now kai is opening the window .
+now kai is playing a game .
+now kai is playing football .
+now kai is playing music .
+now kai is playing with the cat .
+now kai is visiting a friend .
+now kai is visiting the bank .
+now kai is visiting the hospital .
+now kai is visiting the market .
+now kai is walking home .
+now kai is walking to the park .
+now kai is walking to the school .
+now kai is walking to the station .
+now kai is watching a movie .
+now kai is watching the birds .
+now kai is watching the game .
+now kai is watching the news .
+now lily is cleaning the car .
+now lily is cleaning the kitchen .
+now lily is cleaning the room .
+now lily is cleaning the table .
+now lily is cooking eggs .
+now lily is cooking pasta .
+now lily is cooking rice .
+now lily is cooking soup .
+now lily is helping a customer .
+now lily is helping the farmer .
+now lily is helping the nurse .
+now lily is helping the teacher .
+now lily is opening the box .
+now lily is opening the door .
+now lily is opening the shop .
+now lily is opening the window .
+now lily is playing a game .
+now lily is playing football .
+now lily is playing music .
+now lily is playing with the cat .
+now lily is visiting a friend .
+now lily is visiting the bank .
+now lily is visiting the hospital .
+now lily is visiting the market .
+now lily is walking home .
+now lily is walking to the park .
+now lily is walking to the school .
+now lily is walking to the station .
+now lily is watching a movie .
+now lily is watching the birds .
+now lily is watching the game .
+now lily is watching the news .
+now max is cleaning the car .
+now max is cleaning the kitchen .
+now max is cleaning the room .
+now max is cleaning the table .
+now max is cooking eggs .
+now max is cooking pasta .
+now max is cooking rice .
+now max is cooking soup .
+now max is helping a customer .
+now max is helping the farmer .
+now max is helping the nurse .
+now max is helping the teacher .
+now max is opening the box .
+now max is opening the door .
+now max is opening the shop .
+now max is opening the window .
+now max is playing a game .
+now max is playing football .
+now max is playing music .
+now max is playing with the cat .
+now max is visiting a friend .
+now max is visiting the bank .
+now max is visiting the hospital .
+now max is visiting the market .
+now max is walking home .
+now max is walking to the park .
+now max is walking to the school .
+now max is walking to the station .
+now max is watching a movie .
+now max is watching the birds .
+now max is watching the game .
+now max is watching the news .
+now mia is cleaning the car .
+now mia is cleaning the kitchen .
+now mia is cleaning the room .
+now mia is cleaning the table .
+now mia is cooking eggs .
+now mia is cooking pasta .
+now mia is cooking rice .
+now mia is cooking soup .
+now mia is helping a customer .
+now mia is helping the farmer .
+now mia is helping the nurse .
+now mia is helping the teacher .
+now mia is opening the box .
+now mia is opening the door .
+now mia is opening the shop .
+now mia is opening the window .
+now mia is playing a game .
+now mia is playing football .
+now mia is playing music .
+now mia is playing with the cat .
+now mia is visiting a friend .
+now mia is visiting the bank .
+now mia is visiting the hospital .
+now mia is visiting the market .
+now mia is walking home .
+now mia is walking to the park .
+now mia is walking to the school .
+now mia is walking to the station .
+now mia is watching a movie .
+now mia is watching the birds .
+now mia is watching the game .
+now mia is watching the news .
+now ruby is cleaning the car .
+now ruby is cleaning the kitchen .
+now ruby is cleaning the room .
+now ruby is cleaning the table .
+now ruby is cooking eggs .
+now ruby is cooking pasta .
+now ruby is cooking rice .
+now ruby is cooking soup .
+now ruby is helping a customer .
+now ruby is helping the farmer .
+now ruby is helping the nurse .
+now ruby is helping the teacher .
+now ruby is opening the box .
+now ruby is opening the door .
+now ruby is opening the shop .
+now ruby is opening the window .
+now ruby is playing a game .
+now ruby is playing football .
+now ruby is playing music .
+now ruby is playing with the cat .
+now ruby is visiting a friend .
+now ruby is visiting the bank .
+now ruby is visiting the hospital .
+now ruby is visiting the market .
+now ruby is walking home .
+now ruby is walking to the park .
+now ruby is walking to the school .
+now ruby is walking to the station .
+now ruby is watching a movie .
+now ruby is watching the birds .
+now ruby is watching the game .
+now ruby is watching the news .
+now sam is cleaning the car .
+now sam is cleaning the kitchen .
+now sam is cleaning the room .
+now sam is cleaning the table .
+now sam is cooking eggs .
+now sam is cooking pasta .
+now sam is cooking rice .
+now sam is cooking soup .
+now sam is helping a customer .
+now sam is helping the farmer .
+now sam is helping the nurse .
+now sam is helping the teacher .
+now sam is opening the box .
+now sam is opening the door .
+now sam is opening the shop .
+now sam is opening the window .
+now sam is playing a game .
+now sam is playing football .
+now sam is playing music .
+now sam is playing with the cat .
+now sam is visiting a friend .
+now sam is visiting the bank .
+now sam is visiting the hospital .
+now sam is visiting the market .
+now sam is walking home .
+now sam is walking to the park .
+now sam is walking to the school .
+now sam is walking to the station .
+now sam is watching a movie .
+now sam is watching the birds .
+now sam is watching the game .
+now sam is watching the news .
+now they are cleaning the car .
+now they are cleaning the kitchen .
+now they are cleaning the room .
+now they are cleaning the table .
+now they are cooking eggs .
+now they are cooking pasta .
+now they are cooking rice .
+now they are cooking soup .
+now they are helping a customer .
+now they are helping the farmer .
+now they are helping the nurse .
+now they are helping the teacher .
+now they are opening the box .
+now they are opening the door .
+now they are opening the shop .
+now they are opening the window .
+now they are playing a game .
+now they are playing football .
+now they are playing music .
+now they are playing with the cat .
+now they are visiting a friend .
+now they are visiting the bank .
+now they are visiting the hospital .
+now they are visiting the market .
+now they are walking home .
+now they are walking to the park .
+now they are walking to the school .
+now they are walking to the station .
+now they are watching a movie .
+now they are watching the birds .
+now they are watching the game .
+now they are watching the news .
+now tom is cleaning the car .
+now tom is cleaning the kitchen .
+now tom is cleaning the room .
+now tom is cleaning the table .
+now tom is cooking eggs .
+now tom is cooking pasta .
+now tom is cooking rice .
+now tom is cooking soup .
+now tom is helping a customer .
+now tom is helping the farmer .
+now tom is helping the nurse .
+now tom is helping the teacher .
+now tom is opening the box .
+now tom is opening the door .
+now tom is opening the shop .
+now tom is opening the window .
+now tom is playing a game .
+now tom is playing football .
+now tom is playing music .
+now tom is playing with the cat .
+now tom is visiting a friend .
+now tom is visiting the bank .
+now tom is visiting the hospital .
+now tom is visiting the market .
+now tom is walking home .
+now tom is walking to the park .
+now tom is walking to the school .
+now tom is walking to the station .
+now tom is watching a movie .
+now tom is watching the birds .
+now tom is watching the game .
+now tom is watching the news .
+now we are cleaning the car .
+now we are cleaning the kitchen .
+now we are cleaning the room .
+now we are cleaning the table .
+now we are cooking eggs .
+now we are cooking pasta .
+now we are cooking rice .
+now we are cooking soup .
+now we are helping a customer .
+now we are helping the farmer .
+now we are helping the nurse .
+now we are helping the teacher .
+now we are opening the box .
+now we are opening the door .
+now we are opening the shop .
+now we are opening the window .
+now we are playing a game .
+now we are playing football .
+now we are playing music .
+now we are playing with the cat .
+now we are visiting a friend .
+now we are visiting the bank .
+now we are visiting the hospital .
+now we are visiting the market .
+now we are walking home .
+now we are walking to the park .
+now we are walking to the school .
+now we are walking to the station .
+now we are watching a movie .
+now we are watching the birds .
+now we are watching the game .
+now we are watching the news .
+now zoe is cleaning the car .
+now zoe is cleaning the kitchen .
+now zoe is cleaning the room .
+now zoe is cleaning the table .
+now zoe is cooking eggs .
+now zoe is cooking pasta .
+now zoe is cooking rice .
+now zoe is cooking soup .
+now zoe is helping a customer .
+now zoe is helping the farmer .
+now zoe is helping the nurse .
+now zoe is helping the teacher .
+now zoe is opening the box .
+now zoe is opening the door .
+now zoe is opening the shop .
+now zoe is opening the window .
+now zoe is playing a game .
+now zoe is playing football .
+now zoe is playing music .
+now zoe is playing with the cat .
+now zoe is visiting a friend .
+now zoe is visiting the bank .
+now zoe is visiting the hospital .
+now zoe is visiting the market .
+now zoe is walking home .
+now zoe is walking to the park .
+now zoe is walking to the school .
+now zoe is walking to the station .
+now zoe is watching a movie .
+now zoe is watching the birds .
+now zoe is watching the game .
+now zoe is watching the news .
+one apple is at the hospital .
+one apple is at the market .
+one apple is at the school .
+one apple is in the garden .
+one apple is in the kitchen .
+one apple is in the office .
+one apple is near the station .
+one apple is on the road .
+one book is at the hospital .
+one book is at the market .
+one book is at the school .
+one book is in the garden .
+one book is in the kitchen .
+one book is in the office .
+one book is near the station .
+one book is on the road .
+one bus is at the hospital .
+one bus is at the market .
+one bus is at the school .
+one bus is in the garden .
+one bus is in the kitchen .
+one bus is in the office .
+one bus is near the station .
+one bus is on the road .
+one car is at the hospital .
+one car is at the market .
+one car is at the school .
+one car is in the garden .
+one car is in the kitchen .
+one car is in the office .
+one car is near the station .
+one car is on the road .
+one cat is at the hospital .
+one cat is at the market .
+one cat is at the school .
+one cat is in the garden .
+one cat is in the kitchen .
+one cat is in the office .
+one cat is near the station .
+one cat is on the road .
+one child is at the hospital .
+one child is at the market .
+one child is at the school .
+one child is in the garden .
+one child is in the kitchen .
+one child is in the office .
+one child is near the station .
+one child is on the road .
+one cup is at the hospital .
+one cup is at the market .
+one cup is at the school .
+one cup is in the garden .
+one cup is in the kitchen .
+one cup is in the office .
+one cup is near the station .
+one cup is on the road .
+one dog is at the hospital .
+one dog is at the market .
+one dog is at the school .
+one dog is in the garden .
+one dog is in the kitchen .
+one dog is in the office .
+one dog is near the station .
+one dog is on the road .
+one driver is at the hospital .
+one driver is at the market .
+one driver is at the school .
+one driver is in the garden .
+one driver is in the kitchen .
+one driver is in the office .
+one driver is near the station .
+one driver is on the road .
+one farmer is at the hospital .
+one farmer is at the market .
+one farmer is at the school .
+one farmer is in the garden .
+one farmer is in the kitchen .
+one farmer is in the office .
+one farmer is near the station .
+one farmer is on the road .
+one horse is at the hospital .
+one horse is at the market .
+one horse is at the school .
+one horse is in the garden .
+one horse is in the kitchen .
+one horse is in the office .
+one horse is near the station .
+one horse is on the road .
+one nurse is at the hospital .
+one nurse is at the market .
+one nurse is at the school .
+one nurse is in the garden .
+one nurse is in the kitchen .
+one nurse is in the office .
+one nurse is near the station .
+one nurse is on the road .
+one student is at the hospital .
+one student is at the market .
+one student is at the school .
+one student is in the garden .
+one student is in the kitchen .
+one student is in the office .
+one student is near the station .
+one student is on the road .
+one teacher is at the hospital .
+one teacher is at the market .
+one teacher is at the school .
+one teacher is in the garden .
+one teacher is in the kitchen .
+one teacher is in the office .
+one teacher is near the station .
+one teacher is on the road .
+she is busy .
+she is happy .
+she is late .
+she is new .
+she is ready .
+she is small .
+she is tired .
+she likes to clean the car .
+she likes to clean the kitchen .
+she likes to clean the room .
+she likes to clean the table .
+she likes to cook eggs .
+she likes to cook pasta .
+she likes to cook rice .
+she likes to cook soup .
+she likes to help a customer .
+she likes to help the farmer .
+she likes to help the nurse .
+she likes to help the teacher .
+she likes to open the box .
+she likes to open the door .
+she likes to open the shop .
+she likes to open the window .
+she likes to play a game .
+she likes to play football .
+she likes to play music .
+she likes to play with the cat .
+she likes to visit a friend .
+she likes to visit the bank .
+she likes to visit the hospital .
+she likes to visit the market .
+she likes to walk home .
+she likes to walk to the park .
+she likes to walk to the school .
+she likes to walk to the station .
+she likes to watch a movie .
+she likes to watch the birds .
+she likes to watch the game .
+she likes to watch the news .
+some apples were busy .
+some apples were happy .
+some apples were late .
+some apples were new .
+some apples were ready .
+some apples were small .
+some apples were tired .
+some birds were busy .
+some birds were happy .
+some birds were late .
+some birds were new .
+some birds were ready .
+some birds were small .
+some birds were tired .
+some books were busy .
+some books were happy .
+some books were late .
+some books were new .
+some books were ready .
+some books were small .
+some books were tired .
+some buses were busy .
+some buses were happy .
+some buses were late .
+some buses were new .
+some buses were ready .
+some buses were small .
+some buses were tired .
+some cars were busy .
+some cars were happy .
+some cars were late .
+some cars were new .
+some cars were ready .
+some cars were small .
+some cars were tired .
+some cats were busy .
+some cats were happy .
+some cats were late .
+some cats were new .
+some cats were ready .
+some cats were small .
+some cats were tired .
+some children were busy .
+some children were happy .
+some children were late .
+some children were new .
+some children were ready .
+some children were small .
+some children were tired .
+some cups were busy .
+some cups were happy .
+some cups were late .
+some cups were new .
+some cups were ready .
+some cups were small .
+some cups were tired .
+some dogs were busy .
+some dogs were happy .
+some dogs were late .
+some dogs were new .
+some dogs were ready .
+some dogs were small .
+some dogs were tired .
+some drivers were busy .
+some drivers were happy .
+some drivers were late .
+some drivers were new .
+some drivers were ready .
+some drivers were small .
+some drivers were tired .
+some farmers were busy .
+some farmers were happy .
+some farmers were late .
+some farmers were new .
+some farmers were ready .
+some farmers were small .
+some farmers were tired .
+some horses were busy .
+some horses were happy .
+some horses were late .
+some horses were new .
+some horses were ready .
+some horses were small .
+some horses were tired .
+some nurses were busy .
+some nurses were happy .
+some nurses were late .
+some nurses were new .
+some nurses were ready .
+some nurses were small .
+some nurses were tired .
+some students were busy .
+some students were happy .
+some students were late .
+some students were new .
+some students were ready .
+some students were small .
+some students were tired .
+some teachers were busy .
+some teachers were happy .
+some teachers were late .
+some teachers were new .
+some teachers were ready .
+some teachers were small .
+some teachers were tired .
+the apple is at the hospital .
+the apple is at the market .
+the apple is at the school .
+the apple is in the garden .
+the apple is in the kitchen .
+the apple is in the office .
+the apple is near the station .
+the apple is on the road .
+the apples are at the hospital .
+the apples are at the market .
+the apples are at the school .
+the apples are in the garden .
+the apples are in the kitchen .
+the apples are in the office .
+the apples are near the station .
+the apples are on the road .
+the bird is at the hospital .
+the bird is at the market .
+the bird is at the school .
+the bird is in the garden .
+the bird is in the kitchen .
+the bird is in the office .
+the bird is near the station .
+the bird is on the road .
+the birds are at the hospital .
+the birds are at the market .
+the birds are at the school .
+the birds are in the garden .
+the birds are in the kitchen .
+the birds are in the office .
+the birds are near the station .
+the birds are on the road .
+the book is at the hospital .
+the book is at the market .
+the book is at the school .
+the book is in the garden .
+the book is in the kitchen .
+the book is in the office .
+the book is near the station .
+the book is on the road .
+the books are at the hospital .
+the books are at the market .
+the books are at the school .
+the books are in the garden .
+the books are in the kitchen .
+the books are in the office .
+the books are near the station .
+the books are on the road .
+the bus is at the hospital .
+the bus is at the market .
+the bus is at the school .
+the bus is in the garden .
+the bus is in the kitchen .
+the bus is in the office .
+the bus is near the station .
+the bus is on the road .
+the buses are at the hospital .
+the buses are at the market .
+the buses are at the school .
+the buses are in the garden .
+the buses are in the kitchen .
+the buses are in the office .
+the buses are near the station .
+the buses are on the road .
+the car is at the hospital .
+the car is at the market .
+the car is at the school .
+the car is in the garden .
+the car is in the kitchen .
+the car is in the office .
+the car is near the station .
+the car is on the road .
+the cars are at the hospital .
+the cars are at the market .
+the cars are at the school .
+the cars are in the garden .
+the cars are in the kitchen .
+the cars are in the office .
+the cars are near the station .
+the cars are on the road .
+the cat is at the hospital .
+the cat is at the market .
+the cat is at the school .
+the cat is in the garden .
+the cat is in the kitchen .
+the cat is in the office .
+the cat is near the station .
+the cat is on the road .
+the cats are at the hospital .
+the cats are at the market .
+the cats are at the school .
+the cats are in the garden .
+the cats are in the kitchen .
+the cats are in the office .
+the cats are near the station .
+the cats are on the road .
+the child is at the hospital .
+the child is at the market .
+the child is at the school .
+the child is in the garden .
+the child is in the kitchen .
+the child is in the office .
+the child is near the station .
+the child is on the road .
+the children are at the hospital .
+the children are at the market .
+the children are at the school .
+the children are in the garden .
+the children are in the kitchen .
+the children are in the office .
+the children are near the station .
+the children are on the road .
+the cup is at the hospital .
+the cup is at the market .
+the cup is at the school .
+the cup is in the garden .
+the cup is in the kitchen .
+the cup is in the office .
+the cup is near the station .
+the cup is on the road .
+the cups are at the hospital .
+the cups are at the market .
+the cups are at the school .
+the cups are in the garden .
+the cups are in the kitchen .
+the cups are in the office .
+the cups are near the station .
+the cups are on the road .
+the dog is at the hospital .
+the dog is at the market .
+the dog is at the school .
+the dog is in the garden .
+the dog is in the kitchen .
+the dog is in the office .
+the dog is near the station .
+the dog is on the road .
+the driver is at the hospital .
+the driver is at the market .
+the driver is at the school .
+the driver is in the garden .
+the driver is in the kitchen .
+the driver is in the office .
+the driver is near the station .
+the driver is on the road .
+the drivers are at the hospital .
+the drivers are at the market .
+the drivers are at the school .
+the drivers are in the garden .
+the drivers are in the kitchen .
+the drivers are in the office .
+the drivers are near the station .
+the drivers are on the road .
+the farmer is at the hospital .
+the farmer is at the market .
+the farmer is at the school .
+the farmer is in the garden .
+the farmer is in the kitchen .
+the farmer is in the office .
+the farmer is near the station .
+the farmer is on the road .
+the farmers are at the hospital .
+the farmers are at the market .
+the farmers are at the school .
+the farmers are in the garden .
+the farmers are in the kitchen .
+the farmers are in the office .
+the farmers are near the station .
+the farmers are on the road .
+the horse is at the hospital .
+the horse is at the market .
+the horse is at the school .
+the horse is in the garden .
+the horse is in the kitchen .
+the horse is in the office .
+the horse is near the station .
+the horse is on the road .
+the horses are at the hospital .
+the horses are at the market .
+the horses are at the school .
+the horses are in the garden .
+the horses are in the kitchen .
+the horses are in the office .
+the horses are near the station .
+the horses are on the road .
+the nurse is at the hospital .
+the nurse is at the market .
+the nurse is at the school .
+the nurse is in the garden .
+the nurse is in the kitchen .
+the nurse is in the office .
+the nurse is near the station .
+the nurse is on the road .
+the nurses are at the hospital .
+the nurses are at the market .
+the nurses are at the school .
+the nurses are in the garden .
+the nurses are in the kitchen .
+the nurses are in the office .
+the nurses are near the station .
+the nurses are on the road .
+the student is at the hospital .
+the student is at the market .
+the student is at the school .
+the student is in the garden .
+the student is in the kitchen .
+the student is in the office .
+the student is near the station .
+the student is on the road .
+the students are at the hospital .
+the students are at the market .
+the students are at the school .
+the students are in the garden .
+the students are in the kitchen .
+the students are in the office .
+the students are near the station .
+the students are on the road .
+the teacher is at the hospital .
+the teacher is at the market .
+the teacher is at the school .
+the teacher is in the garden .
+the teacher is in the kitchen .
+the teacher is in the office .
+the teacher is near the station .
+the teacher is on the road .
+the teachers are at the hospital .
+the teachers are at the market .
+the teachers are at the school .
+the teachers are in the garden .
+the teachers are in the kitchen .
+the teachers are in the office .
+the teachers are near the station .
+the teachers are on the road .
+these apples are busy .
+these apples are happy .
+these apples are late .
+these apples are new .
+these apples are ready .
+these apples are small .
+these apples are tired .
+these birds are busy .
+these birds are happy .
+these birds are late .
+these birds are new .
+these birds are ready .
+these birds are small .
+these birds are tired .
+these books are busy .
+these books are happy .
+these books are late .
+these books are new .
+these books are ready .
+these books are small .
+these books are tired .
+these buses are busy .
+these buses are happy .
+these buses are late .
+these buses are new .
+these buses are ready .
+these buses are small .
+these buses are tired .
+these cars are busy .
+these cars are happy .
+these cars are late .
+these cars are new .
+these cars are ready .
+these cars are small .
+these cars are tired .
+these cats are busy .
+these cats are happy .
+these cats are late .
+these cats are new .
+these cats are ready .
+these cats are small .
+these cats are tired .
+these children are busy .
+these children are happy .
+these children are late .
+these children are new .
+these children are ready .
+these children are small .
+these children are tired .
+these cups are busy .
+these cups are happy .
+these cups are late .
+these cups are new .
+these cups are ready .
+these cups are small .
+these cups are tired .
+these dogs are busy .
+these dogs are happy .
+these dogs are late .
+these dogs are new .
+these dogs are ready .
+these dogs are small .
+these dogs are tired .
+these drivers are busy .
+these drivers are happy .
+these drivers are late .
+these drivers are new .
+these drivers are ready .
+these drivers are small .
+these drivers are tired .
+these farmers are busy .
+these farmers are happy .
+these farmers are late .
+these farmers are new .
+these farmers are ready .
+these farmers are small .
+these farmers are tired .
+these horses are busy .
+these horses are happy .
+these horses are late .
+these horses are new .
+these horses are ready .
+these horses are small .
+these horses are tired .
+these nurses are busy .
+these nurses are happy .
+these nurses are late .
+these nurses are new .
+these nurses are ready .
+these nurses are small .
+these nurses are tired .
+these students are busy .
+these students are happy .
+these students are late .
+these students are new .
+these students are ready .
+these students are small .
+these students are tired .
+these teachers are busy .
+these teachers are happy .
+these teachers are late .
+these teachers are new .
+these teachers are ready .
+these teachers are small .
+these teachers are tired .
+they were busy .
+they were happy .
+they were late .
+they were new .
+they were ready .
+they were small .
+they were tired .
+this apple is busy .
+this apple is happy .
+this apple is late .
+this apple is new .
+this apple is ready .
+this apple is small .
+this apple is tired .
+this bird is busy .
+this bird is happy .
+this bird is late .
+this bird is new .
+this bird is ready .
+this bird is small .
+this bird is tired .
+this book is busy .
+this book is happy .
+this book is late .
+this book is new .
+this book is ready .
+this book is small .
+this book is tired .
+this bus is busy .
+this bus is happy .
+this bus is late .
+this bus is new .
+this bus is ready .
+this bus is small .
+this bus is tired .
+this car is busy .
+this car is happy .
+this car is late .
+this car is new .
+this car is ready .
+this car is small .
+this car is tired .
+this cat is busy .
+this cat is happy .
+this cat is late .
+this cat is new .
+this cat is ready .
+this cat is small .
+this cat is tired .
+this child is busy .
+this child is happy .
+this child is late .
+this child is new .
+this child is ready .
+this child is small .
+this child is tired .
+this cup is busy .
+this cup is happy .
+this cup is late .
+this cup is new .
+this cup is ready .
+this cup is small .
+this cup is tired .
+this dog is busy .
+this dog is happy .
+this dog is late .
+this dog is new .
+this dog is ready .
+this dog is small .
+this dog is tired .
+this driver is busy .
+this driver is happy .
+this driver is late .
+this driver is new .
+this driver is ready .
+this driver is small .
+this driver is tired .
+this farmer is busy .
+this farmer is happy .
+this farmer is late .
+this farmer is new .
+this farmer is ready .
+this farmer is small .
+this farmer is tired .
+this horse is busy .
+this horse is happy .
+this horse is late .
+this horse is new .
+this horse is ready .
+this horse is small .
+this horse is tired .
+this nurse is busy .
+this nurse is happy .
+this nurse is late .
+this nurse is new .
+this nurse is ready .
+this nurse is small .
+this nurse is tired .
+this student is busy .
+this student is happy .
+this student is late .
+this student is new .
+this student is ready .
+this student is small .
+this student is tired .
+this teacher is busy .
+this teacher is happy .
+this teacher is late .
+this teacher is new .
+this teacher is ready .
+this teacher is small .
+this teacher is tired .
+two apples are at the hospital .
+two apples are at the market .
+two apples are at the school .
+two apples are in the garden .
+two apples are in the kitchen .
+two apples are in the office .
+two apples are near the station .
+two apples are on the road .
+two birds are at the hospital .
+two birds are at the market .
+two birds are at the school .
+two birds are in the garden .
+two birds are in the kitchen .
+two birds are in the office .
+two birds are near the station .
+two birds are on the road .
+two books are at the hospital .
+two books are at the market .
+two books are at the school .
+two books are in the garden .
+two books are in the kitchen .
+two books are in the office .
+two books are near the station .
+two books are on the road .
+two buses are at the hospital .
+two buses are at the market .
+two buses are at the school .
+two buses are in the garden .
+two buses are in the kitchen .
+two buses are in the office .
+two buses are near the station .
+two buses are on the road .
+two cars are at the hospital .
+two cars are at the market .
+two cars are at the school .
+two cars are in the garden .
+two cars are in the kitchen .
+two cars are in the office .
+two cars are near the station .
+two cars are on the road .
+two cats are at the hospital .
+two cats are at the market .
+two cats are at the school .
+two cats are in the garden .
+two cats are in the kitchen .
+two cats are in the office .
+two cats are near the station .
+two cats are on the road .
+two children are at the hospital .
+two children are at the market .
+two children are at the school .
+two children are in the garden .
+two children are in the kitchen .
+two children are in the office .
+two children are near the station .
+two children are on the road .
+two cups are at the hospital .
+two cups are at the market .
+two cups are at the school .
+two cups are in the garden .
+two cups are in the kitchen .
+two cups are in the office .
+two cups are near the station .
+two cups are on the road .
+two dogs are at the hospital .
+two dogs are at the market .
+two dogs are at the school .
+two dogs are in the garden .
+two dogs are in the kitchen .
+two dogs are in the office .
+two dogs are near the station .
+two dogs are on the road .
+two drivers are at the hospital .
+two drivers are at the market .
+two drivers are at the school .
+two drivers are in the garden .
+two drivers are in the kitchen .
+two drivers are in the office .
+two drivers are near the station .
+two drivers are on the road .
+two farmers are at the hospital .
+two farmers are at the market .
+two farmers are at the school .
+two farmers are in the garden .
+two farmers are in the kitchen .
+two farmers are in the office .
+two farmers are near the station .
+two farmers are on the road .
+two horses are at the hospital .
+two horses are at the market .
+two horses are at the school .
+two horses are in the garden .
+two horses are in the kitchen .
+two horses are in the office .
+two horses are near the station .
+two horses are on the road .
+two nurses are at the hospital .
+two nurses are at the market .
+two nurses are at the school .
+two nurses are in the garden .
+two nurses are in the kitchen .
+two nurses are in the office .
+two nurses are near the station .
+two nurses are on the road .
+two students are at the hospital .
+two students are at the market .
+two students are at the school .
+two students are in the garden .
+two students are in the kitchen .
+two students are in the office .
+two students are near the station .
+two students are on the road .
+two teachers are at the hospital .
+two teachers are at the market .
+two teachers are at the school .
+two teachers are in the garden .
+two teachers are in the kitchen .
+two teachers are in the office .
+two teachers are near the station .
+two teachers are on the road .
+we are busy .
+we are happy .
+we are late .
+we are new .
+we are ready .
+we are small .
+we are tired .
+yesterday anna cleaned the car .
+yesterday anna cleaned the kitchen .
+yesterday anna cleaned the room .
+yesterday anna cleaned the table .
+yesterday anna cooked eggs .
+yesterday anna cooked pasta .
+yesterday anna cooked rice .
+yesterday anna cooked soup .
+yesterday anna helped a customer .
+yesterday anna helped the farmer .
+yesterday anna helped the nurse .
+yesterday anna helped the teacher .
+yesterday anna opened the box .
+yesterday anna opened the door .
+yesterday anna opened the shop .
+yesterday anna opened the window .
+yesterday anna played a game .
+yesterday anna played football .
+yesterday anna played music .
+yesterday anna played with the cat .
+yesterday anna visited a friend .
+yesterday anna visited the bank .
+yesterday anna visited the hospital .
+yesterday anna visited the market .
+yesterday anna walked home .
+yesterday anna walked to the park .
+yesterday anna walked to the school .
+yesterday anna walked to the station .
+yesterday anna watched a movie .
+yesterday anna watched the birds .
+yesterday anna watched the game .
+yesterday anna watched the news .
+yesterday ben cleaned the car .
+yesterday ben cleaned the kitchen .
+yesterday ben cleaned the room .
+yesterday ben cleaned the table .
+yesterday ben cooked eggs .
+yesterday ben cooked pasta .
+yesterday ben cooked rice .
+yesterday ben cooked soup .
+yesterday ben helped a customer .
+yesterday ben helped the farmer .
+yesterday ben helped the nurse .
+yesterday ben helped the teacher .
+yesterday ben opened the box .
+yesterday ben opened the door .
+yesterday ben opened the shop .
+yesterday ben opened the window .
+yesterday ben played a game .
+yesterday ben played football .
+yesterday ben played music .
+yesterday ben played with the cat .
+yesterday ben visited a friend .
+yesterday ben visited the bank .
+yesterday ben visited the hospital .
+yesterday ben visited the market .
+yesterday ben walked home .
+yesterday ben walked to the park .
+yesterday ben walked to the school .
+yesterday ben walked to the station .
+yesterday ben watched a movie .
+yesterday ben watched the birds .
+yesterday ben watched the game .
+yesterday ben watched the news .
+yesterday he cleaned the car .
+yesterday he cleaned the kitchen .
+yesterday he cleaned the room .
+yesterday he cleaned the table .
+yesterday he cooked eggs .
+yesterday he cooked pasta .
+yesterday he cooked rice .
+yesterday he cooked soup .
+yesterday he helped a customer .
+yesterday he helped the farmer .
+yesterday he helped the nurse .
+yesterday he helped the teacher .
+yesterday he opened the box .
+yesterday he opened the door .
+yesterday he opened the shop .
+yesterday he opened the window .
+yesterday he played a game .
+yesterday he played football .
+yesterday he played music .
+yesterday he played with the cat .
+yesterday he visited a friend .
+yesterday he visited the bank .
+yesterday he visited the hospital .
+yesterday he visited the market .
+yesterday he walked home .
+yesterday he walked to the park .
+yesterday he walked to the school .
+yesterday he walked to the station .
+yesterday he watched a movie .
+yesterday he watched the birds .
+yesterday he watched the game .
+yesterday he watched the news .
+yesterday i cleaned the car .
+yesterday i cleaned the kitchen .
+yesterday i cleaned the room .
+yesterday i cleaned the table .
+yesterday i cooked eggs .
+yesterday i cooked pasta .
+yesterday i cooked rice .
+yesterday i cooked soup .
+yesterday i helped a customer .
+yesterday i helped the farmer .
+yesterday i helped the nurse .
+yesterday i helped the teacher .
+yesterday i opened the box .
+yesterday i opened the door .
+yesterday i opened the shop .
+yesterday i opened the window .
+yesterday i played a game .
+yesterday i played football .
+yesterday i played music .
+yesterday i played with the cat .
+yesterday i visited a friend .
+yesterday i visited the bank .
+yesterday i visited the hospital .
+yesterday i visited the market .
+yesterday i walked home .
+yesterday i walked to the park .
+yesterday i walked to the school .
+yesterday i walked to the station .
+yesterday i watched a movie .
+yesterday i watched the birds .
+yesterday i watched the game .
+yesterday i watched the news .
+yesterday ivy cleaned the car .
+yesterday ivy cleaned the kitchen .
+yesterday ivy cleaned the room .
+yesterday ivy cleaned the table .
+yesterday ivy cooked eggs .
+yesterday ivy cooked pasta .
+yesterday ivy cooked rice .
+yesterday ivy cooked soup .
+yesterday ivy helped a customer .
+yesterday ivy helped the farmer .
+yesterday ivy helped the nurse .
+yesterday ivy helped the teacher .
+yesterday ivy opened the box .
+yesterday ivy opened the door .
+yesterday ivy opened the shop .
+yesterday ivy opened the window .
+yesterday ivy played a game .
+yesterday ivy played football .
+yesterday ivy played music .
+yesterday ivy played with the cat .
+yesterday ivy visited a friend .
+yesterday ivy visited the bank .
+yesterday ivy visited the hospital .
+yesterday ivy visited the market .
+yesterday ivy walked home .
+yesterday ivy walked to the park .
+yesterday ivy walked to the school .
+yesterday ivy walked to the station .
+yesterday ivy watched a movie .
+yesterday ivy watched the birds .
+yesterday ivy watched the game .
+yesterday ivy watched the news .
+yesterday jack cleaned the car .
+yesterday jack cleaned the kitchen .
+yesterday jack cleaned the room .
+yesterday jack cleaned the table .
+yesterday jack cooked eggs .
+yesterday jack cooked pasta .
+yesterday jack cooked rice .
+yesterday jack cooked soup .
+yesterday jack helped a customer .
+yesterday jack helped the farmer .
+yesterday jack helped the nurse .
+yesterday jack helped the teacher .
+yesterday jack opened the box .
+yesterday jack opened the door .
+yesterday jack opened the shop .
+yesterday jack opened the window .
+yesterday jack played a game .
+yesterday jack played football .
+yesterday jack played music .
+yesterday jack played with the cat .
+yesterday jack visited a friend .
+yesterday jack visited the bank .
+yesterday jack visited the hospital .
+yesterday jack visited the market .
+yesterday jack walked home .
+yesterday jack walked to the park .
+yesterday jack walked to the school .
+yesterday jack walked to the station .
+yesterday jack watched a movie .
+yesterday jack watched the birds .
+yesterday jack watched the game .
+yesterday jack watched the news .
+yesterday kai cleaned the car .
+yesterday kai cleaned the kitchen .
+yesterday kai cleaned the room .
+yesterday kai cleaned the table .
+yesterday kai cooked eggs .
+yesterday kai cooked pasta .
+yesterday kai cooked rice .
+yesterday kai cooked soup .
+yesterday kai helped a customer .
+yesterday kai helped the farmer .
+yesterday kai helped the nurse .
+yesterday kai helped the teacher .
+yesterday kai opened the box .
+yesterday kai opened the door .
+yesterday kai opened the shop .
+yesterday kai opened the window .
+yesterday kai played a game .
+yesterday kai played football .
+yesterday kai played music .
+yesterday kai played with the cat .
+yesterday kai visited a friend .
+yesterday kai visited the bank .
+yesterday kai visited the hospital .
+yesterday kai visited the market .
+yesterday kai walked home .
+yesterday kai walked to the park .
+yesterday kai walked to the school .
+yesterday kai walked to the station .
+yesterday kai watched a movie .
+yesterday kai watched the birds .
+yesterday kai watched the game .
+yesterday kai watched the news .
+yesterday lily cleaned the car .
+yesterday lily cleaned the kitchen .
+yesterday lily cleaned the room .
+yesterday lily cleaned the table .
+yesterday lily cooked eggs .
+yesterday lily cooked pasta .
+yesterday lily cooked rice .
+yesterday lily cooked soup .
+yesterday lily helped a customer .
+yesterday lily helped the farmer .
+yesterday lily helped the nurse .
+yesterday lily helped the teacher .
+yesterday lily opened the box .
+yesterday lily opened the door .
+yesterday lily opened the shop .
+yesterday lily opened the window .
+yesterday lily played a game .
+yesterday lily played football .
+yesterday lily played music .
+yesterday lily played with the cat .
+yesterday lily visited a friend .
+yesterday lily visited the bank .
+yesterday lily visited the hospital .
+yesterday lily visited the market .
+yesterday lily walked home .
+yesterday lily walked to the park .
+yesterday lily walked to the school .
+yesterday lily walked to the station .
+yesterday lily watched a movie .
+yesterday lily watched the birds .
+yesterday lily watched the game .
+yesterday lily watched the news .
+yesterday max cleaned the car .
+yesterday max cleaned the kitchen .
+yesterday max cleaned the room .
+yesterday max cleaned the table .
+yesterday max cooked eggs .
+yesterday max cooked pasta .
+yesterday max cooked rice .
+yesterday max cooked soup .
+yesterday max helped a customer .
+yesterday max helped the farmer .
+yesterday max helped the nurse .
+yesterday max helped the teacher .
+yesterday max opened the box .
+yesterday max opened the door .
+yesterday max opened the shop .
+yesterday max opened the window .
+yesterday max played a game .
+yesterday max played football .
+yesterday max played music .
+yesterday max played with the cat .
+yesterday max visited a friend .
+yesterday max visited the bank .
+yesterday max visited the hospital .
+yesterday max visited the market .
+yesterday max walked home .
+yesterday max walked to the park .
+yesterday max walked to the school .
+yesterday max walked to the station .
+yesterday max watched a movie .
+yesterday max watched the birds .
+yesterday max watched the game .
+yesterday max watched the news .
+yesterday mia cleaned the car .
+yesterday mia cleaned the kitchen .
+yesterday mia cleaned the room .
+yesterday mia cleaned the table .
+yesterday mia cooked eggs .
+yesterday mia cooked pasta .
+yesterday mia cooked rice .
+yesterday mia cooked soup .
+yesterday mia helped a customer .
+yesterday mia helped the farmer .
+yesterday mia helped the nurse .
+yesterday mia helped the teacher .
+yesterday mia opened the box .
+yesterday mia opened the door .
+yesterday mia opened the shop .
+yesterday mia opened the window .
+yesterday mia played a game .
+yesterday mia played football .
+yesterday mia played music .
+yesterday mia played with the cat .
+yesterday mia visited a friend .
+yesterday mia visited the bank .
+yesterday mia visited the hospital .
+yesterday mia visited the market .
+yesterday mia walked home .
+yesterday mia walked to the park .
+yesterday mia walked to the school .
+yesterday mia walked to the station .
+yesterday mia watched a movie .
+yesterday mia watched the birds .
+yesterday mia watched the game .
+yesterday mia watched the news .
+yesterday ruby cleaned the car .
+yesterday ruby cleaned the kitchen .
+yesterday ruby cleaned the room .
+yesterday ruby cleaned the table .
+yesterday ruby cooked eggs .
+yesterday ruby cooked pasta .
+yesterday ruby cooked rice .
+yesterday ruby cooked soup .
+yesterday ruby helped a customer .
+yesterday ruby helped the farmer .
+yesterday ruby helped the nurse .
+yesterday ruby helped the teacher .
+yesterday ruby opened the box .
+yesterday ruby opened the door .
+yesterday ruby opened the shop .
+yesterday ruby opened the window .
+yesterday ruby played a game .
+yesterday ruby played football .
+yesterday ruby played music .
+yesterday ruby played with the cat .
+yesterday ruby visited a friend .
+yesterday ruby visited the bank .
+yesterday ruby visited the hospital .
+yesterday ruby visited the market .
+yesterday ruby walked home .
+yesterday ruby walked to the park .
+yesterday ruby walked to the school .
+yesterday ruby walked to the station .
+yesterday ruby watched a movie .
+yesterday ruby watched the birds .
+yesterday ruby watched the game .
+yesterday ruby watched the news .
+yesterday sam cleaned the car .
+yesterday sam cleaned the kitchen .
+yesterday sam cleaned the room .
+yesterday sam cleaned the table .
+yesterday sam cooked eggs .
+yesterday sam cooked pasta .
+yesterday sam cooked rice .
+yesterday sam cooked soup .
+yesterday sam helped a customer .
+yesterday sam helped the farmer .
+yesterday sam helped the nurse .
+yesterday sam helped the teacher .
+yesterday sam opened the box .
+yesterday sam opened the door .
+yesterday sam opened the shop .
+yesterday sam opened the window .
+yesterday sam played a game .
+yesterday sam played football .
+yesterday sam played music .
+yesterday sam played with the cat .
+yesterday sam visited a friend .
+yesterday sam visited the bank .
+yesterday sam visited the hospital .
+yesterday sam visited the market .
+yesterday sam walked home .
+yesterday sam walked to the park .
+yesterday sam walked to the school .
+yesterday sam walked to the station .
+yesterday sam watched a movie .
+yesterday sam watched the birds .
+yesterday sam watched the game .
+yesterday sam watched the news .
+yesterday they cleaned the car .
+yesterday they cleaned the kitchen .
+yesterday they cleaned the room .
+yesterday they cleaned the table .
+yesterday they cooked eggs .
+yesterday they cooked pasta .
+yesterday they cooked rice .
+yesterday they cooked soup .
+yesterday they helped a customer .
+yesterday they helped the farmer .
+yesterday they helped the nurse .
+yesterday they helped the teacher .
+yesterday they opened the box .
+yesterday they opened the door .
+yesterday they opened the shop .
+yesterday they opened the window .
+yesterday they played a game .
+yesterday they played football .
+yesterday they played music .
+yesterday they played with the cat .
+yesterday they visited a friend .
+yesterday they visited the bank .
+yesterday they visited the hospital .
+yesterday they visited the market .
+yesterday they walked home .
+yesterday they walked to the park .
+yesterday they walked to the school .
+yesterday they walked to the station .
+yesterday they watched a movie .
+yesterday they watched the birds .
+yesterday they watched the game .
+yesterday they watched the news .
+yesterday tom cleaned the car .
+yesterday tom cleaned the kitchen .
+yesterday tom cleaned the room .
+yesterday tom cleaned the table .
+yesterday tom cooked eggs .
+yesterday tom cooked pasta .
+yesterday tom cooked rice .
+yesterday tom cooked soup .
+yesterday tom helped a customer .
+yesterday tom helped the farmer .
+yesterday tom helped the nurse .
+yesterday tom helped the teacher .
+yesterday tom opened the box .
+yesterday tom opened the door .
+yesterday tom opened the shop .
+yesterday tom opened the window .
+yesterday tom played a game .
+yesterday tom played football .
+yesterday tom played music .
+yesterday tom played with the cat .
+yesterday tom visited a friend .
+yesterday tom visited the bank .
+yesterday tom visited the hospital .
+yesterday tom visited the market .
+yesterday tom walked home .
+yesterday tom walked to the park .
+yesterday tom walked to the school .
+yesterday tom walked to the station .
+yesterday tom watched a movie .
+yesterday tom watched the birds .
+yesterday tom watched the game .
+yesterday tom watched the news .
+yesterday we cleaned the car .
+yesterday we cleaned the kitchen .
+yesterday we cleaned the room .
+yesterday we cleaned the table .
+yesterday we cooked eggs .
+yesterday we cooked pasta .
+yesterday we cooked rice .
+yesterday we cooked soup .
+yesterday we helped a customer .
+yesterday we helped the farmer .
+yesterday we helped the nurse .
+yesterday we helped the teacher .
+yesterday we opened the box .
+yesterday we opened the door .
+yesterday we opened the shop .
+yesterday we opened the window .
+yesterday we played a game .
+yesterday we played football .
+yesterday we played music .
+yesterday we played with the cat .
+yesterday we visited a friend .
+yesterday we visited the bank .
+yesterday we visited the hospital .
+yesterday we visited the market .
+yesterday we walked home .
+yesterday we walked to the park .
+yesterday we walked to the school .
+yesterday we walked to the station .
+yesterday we watched a movie .
+yesterday we watched the birds .
+yesterday we watched the game .
+yesterday we watched the news .
+yesterday zoe cleaned the car .
+yesterday zoe cleaned the kitchen .
+yesterday zoe cleaned the room .
+yesterday zoe cleaned the table .
+yesterday zoe cooked eggs .
+yesterday zoe cooked pasta .
+yesterday zoe cooked rice .
+yesterday zoe cooked soup .
+yesterday zoe helped a customer .
+yesterday zoe helped the farmer .
+yesterday zoe helped the nurse .
+yesterday zoe helped the teacher .
+yesterday zoe opened the box .
+yesterday zoe opened the door .
+yesterday zoe opened the shop .
+yesterday zoe opened the window .
+yesterday zoe played a game .
+yesterday zoe played football .
+yesterday zoe played music .
+yesterday zoe played with the cat .
+yesterday zoe visited a friend .
+yesterday zoe visited the bank .
+yesterday zoe visited the hospital .
+yesterday zoe visited the market .
+yesterday zoe walked home .
+yesterday zoe walked to the park .
+yesterday zoe walked to the school .
+yesterday zoe walked to the station .
+yesterday zoe watched a movie .
+yesterday zoe watched the birds .
+yesterday zoe watched the game .
+yesterday zoe watched the news .
